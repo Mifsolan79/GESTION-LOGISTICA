@@ -1,0 +1,445 @@
+{
+  "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 10: LA TRAZABILIDAD",
+  "items": [
+    {
+      "question": "¿Qué se entiende por cadena logística?",
+      "options": [
+        "Conjunto de actividades que van desde la creación del producto hasta su consumo final.",
+        "Solo el proceso de transporte de mercancías.",
+        "Exclusivamente el almacenamiento de materias primas.",
+        "El proceso de publicidad y venta de productos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cadena logística es el conjunto de actividades que se desarrollan desde la creación del producto hasta que llega al consumidor final."
+    },
+    {
+      "question": "¿Cuál es la primera etapa habitual de la cadena logística?",
+      "options": [
+        "Producción y almacenamiento.",
+        "Abastecimiento.",
+        "Distribución.",
+        "Marketing."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La primera etapa de la cadena logística es el abastecimiento de materias primas, planificando dónde, cuánto y cómo comprar."
+    },
+    {
+      "question": "¿Qué objetivo tiene la etapa de producción en la cadena logística?",
+      "options": [
+        "Transformar materias primas en productos minimizando costes.",
+        "Diseñar campañas publicitarias.",
+        "Reducir el número de proveedores.",
+        "Elaborar balances contables."
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa de producción se transforman materias primas en productos buscando minimizar costes."
+    },
+    {
+      "question": "La etapa de distribución consiste en…",
+      "options": [
+        "Transportar productos terminados hasta puntos de venta.",
+        "Almacenar mercancías indefinidamente.",
+        "Crear envases y embalajes.",
+        "Gestionar campañas publicitarias."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La distribución consiste en llevar los productos terminados a los puntos de venta para su comercialización."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un principio de la gestión de la cadena logística?",
+      "options": [
+        "Adecuarla al consumidor y compartir información entre agentes.",
+        "Reducir proveedores y aumentar costes.",
+        "Eliminar intermediarios siempre.",
+        "Evitar la diferenciación del producto."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La gestión de la cadena logística debe adecuarse al consumidor, diseñar la red logística, compartir datos y equilibrar estandarización y diferenciación."
+    },
+    {
+      "question": "¿Qué caracteriza al canal de distribución cero?",
+      "options": [
+        "Venta directa del fabricante al consumidor final.",
+        "Intervención de un mayorista.",
+        "Participación de mayorista y minorista.",
+        "Inclusión de varios intermediarios adicionales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El canal de distribución cero corresponde a la venta directa sin intermediarios."
+    },
+    {
+      "question": "¿Qué función cumplen los intermediarios mayoristas?",
+      "options": [
+        "Almacenar, transportar y asesorar además de vender a minoristas.",
+        "Comprar para consumo propio.",
+        "Elaborar campañas de publicidad.",
+        "Contratar personal de ventas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los mayoristas realizan funciones de almacenamiento, transporte, financiación y asesoramiento a minoristas."
+    },
+    {
+      "question": "¿Qué es una red logística?",
+      "options": [
+        "Conjunto de actividades y lugares que permiten llevar productos de forma eficiente al consumidor final.",
+        "El sistema contable de la empresa.",
+        "La red de publicidad digital.",
+        "El flujo de nóminas entre departamentos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La red logística organiza actividades y lugares para que el producto llegue al consumidor final en tiempo y forma."
+    },
+    {
+      "question": "¿Qué papel desempeñan los centros de distribución?",
+      "options": [
+        "Recepcionar y expedir mercancía, reduciendo tiempos de entrega y costes logísticos.",
+        "Exclusivamente almacenar materias primas.",
+        "Diseñar campañas de publicidad.",
+        "Gestionar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los centros de distribución sustituyen al almacén tradicional, recepcionando y enviando mercancía con menor coste y tiempo."
+    },
+    {
+      "question": "¿Qué aspecto es fundamental al planificar rutas de distribución?",
+      "options": [
+        "Tipo de mercancía, tiempo de entrega y restricciones legales.",
+        "Número de trabajadores en oficina.",
+        "Cantidad de publicidad contratada.",
+        "Nóminas de empleados."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se deben considerar el tipo de mercancía, tiempos, aspectos legales e infraestructuras para planificar rutas."
+    },
+    {
+      "question": "¿Qué criterio busca equilibrio en la planificación de rutas?",
+      "options": [
+        "Servicio y coste.",
+        "Publicidad y ventas.",
+        "Nóminas y balances.",
+        "Infraestructura y campañas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación de rutas debe equilibrar el nivel de servicio con los costes de transporte."
+    },
+    {
+      "question": "¿Qué documento surge tras acuerdo entre comprador y proveedor?",
+      "options": [
+        "Nota de pedido.",
+        "Nómina.",
+        "Balance contable.",
+        "Informe de marketing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tras acordar condiciones, se emite una nota de pedido que recoge cantidad, precio y fecha de entrega."
+    },
+    {
+      "question": "¿Qué tipos de mercancía pueden almacenarse según su naturaleza?",
+      "options": [
+        "Paletizable, apilable, líquida, a granel, gases y archivos.",
+        "Publicitaria y contable.",
+        "Nóminas y balances.",
+        "Recursos humanos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según su tipo, se almacenan mercancías paletizables, apilables, líquidas, a granel, gases o archivos."
+    },
+    {
+      "question": "Un almacén regional se caracteriza por…",
+      "options": [
+        "Almacenar mercancía en una región concreta con tamaño más reducido que el central.",
+        "Servir de plataforma logística de cross docking.",
+        "Ser el principal donde se ubican todos los productos de la empresa.",
+        "Ser siempre automatizado."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los almacenes regionales almacenan mercancía en una región específica y suelen ser de menor tamaño."
+    },
+    {
+      "question": "¿Qué almacén se destina a periodos cortos de tiempo y cambios de transporte?",
+      "options": [
+        "Almacén temporal.",
+        "Almacén regional.",
+        "Almacén central.",
+        "Almacén automatizado."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El almacén temporal guarda mercancía durante periodos cortos, normalmente por cambios de transporte."
+    },
+    {
+      "question": "¿Qué caracteriza a una plataforma logística o cross docking?",
+      "options": [
+        "Preparar y expedir mercancía con mínimo tiempo de almacenaje.",
+        "Conservar mercancía durante largos periodos.",
+        "Ser siempre al aire libre.",
+        "No utilizar tecnología."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las plataformas logísticas o sistemas cross docking preparan y expiden mercancía reduciendo al mínimo el tiempo de almacenaje."
+    },
+    {
+      "question": "¿Qué ventaja presentan los almacenes automatizados?",
+      "options": [
+        "Maximizar espacio, alcanzar mayores alturas y reducir errores de operarios.",
+        "No requieren inversión.",
+        "Eliminan la necesidad de transporte.",
+        "Reducen costes publicitarios."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los almacenes automatizados aprovechan mejor el espacio físico, llegan a mayores alturas y reducen errores."
+    },
+    {
+      "question": "¿Qué es la trazabilidad?",
+      "options": [
+        "Seguimiento del recorrido del producto desde materia prima hasta el consumidor final.",
+        "Elaboración de balances.",
+        "Estrategia de publicidad.",
+        "Proceso de contratación de personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La trazabilidad permite seguir el recorrido del producto desde origen hasta consumidor final."
+    },
+    {
+      "question": "¿Qué sistema permite encontrar productos mediante señales de radio?",
+      "options": [
+        "RFID.",
+        "ERP.",
+        "DRP.",
+        "CRM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tecnología RFID localiza productos mediante etiquetas que emiten señales de radiofrecuencia."
+    },
+    {
+      "question": "¿Qué ventaja tiene el RFID frente al código de barras?",
+      "options": [
+        "No requiere contacto visual y puede leer varias etiquetas a la vez.",
+        "No necesita etiquetas.",
+        "Es más barato en todos los casos.",
+        "No aporta información de caducidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El RFID lee varias etiquetas simultáneamente sin necesidad de contacto visual y puede dar información adicional como la caducidad."
+    },
+    {
+      "question": "¿Qué elemento del RFID almacena la información del artículo?",
+      "options": [
+        "Transponedor.",
+        "Transceptor.",
+        "Subsistema de procesamiento.",
+        "Código de barras."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El transponedor es el chip que guarda la información del artículo."
+    },
+    {
+      "question": "¿Qué sistema ayuda a planificar y controlar inventario en centros de distribución?",
+      "options": [
+        "DRP (Distribution Resource Planning).",
+        "ERP.",
+        "RFID.",
+        "CRM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DRP planifica y controla inventarios en centros de distribución para satisfacer necesidades en tiempo, lugar y forma."
+    },
+    {
+      "question": "¿Qué herramienta de manutención eleva y traslada mercancías?",
+      "options": [
+        "Transelevador.",
+        "Carretilla retráctil.",
+        "Traspalé.",
+        "Cinta transportadora."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El transelevador eleva y traslada mercancías de manera simultánea optimizando las tareas de almacén."
+    },
+    {
+      "question": "¿Qué tipo de carretilla puede desplazarse en cuatro direcciones?",
+      "options": [
+        "Carretilla de cuatro direcciones.",
+        "Carretilla retráctil.",
+        "Carretilla trilateral.",
+        "Carretilla contrapesada."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La carretilla de cuatro direcciones permite movimiento en esas direcciones dentro del almacén."
+    },
+    {
+      "question": "¿Qué carretilla permite alcanzar pasillos estrechos con movimientos en tres direcciones?",
+      "options": [
+        "Carretilla trilateral.",
+        "Carretilla contrapesada.",
+        "Carretilla retráctil.",
+        "Carretilla de cuatro direcciones."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La carretilla trilateral accede a pasillos estrechos gracias a su movimiento en tres direcciones."
+    },
+    {
+      "question": "El traspalé se utiliza para…",
+      "options": [
+        "Cantidad reducida de mercancía en distancias cortas.",
+        "Elevar y trasladar simultáneamente.",
+        "Transporte aéreo.",
+        "Almacenaje a gran altura."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El traspalé sirve para manipular mercancía reducida en distancias cortas, siendo manual o eléctrico."
+    },
+    {
+      "question": "¿Qué medio de manutención se coloca en el techo con ganchos móviles?",
+      "options": [
+        "Transportador aéreo.",
+        "Cinta transportadora.",
+        "Carretilla retráctil.",
+        "Traspalé."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los transportadores aéreos se fijan al techo y manipulan mercancía mediante ganchos móviles."
+    },
+    {
+      "question": "Las cintas transportadoras permiten…",
+      "options": [
+        "Mover mercancías lateralmente en un espacio físico.",
+        "Transportar mercancía aérea.",
+        "Almacenar productos largos periodos.",
+        "Elaborar balances contables."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las cintas transportadoras desplazan mercancías de forma lateral en el almacén."
+    },
+    {
+      "question": "¿Qué almacén se sitúa entre el central y el regional?",
+      "options": [
+        "Almacén de consolidación.",
+        "Almacén temporal.",
+        "Almacén al aire libre.",
+        "Almacén cubierto."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El almacén de consolidación es intermedio y suministra mercancía a un área concreta."
+    },
+    {
+      "question": "¿Qué almacén se utiliza para conservar mercancía protegida?",
+      "options": [
+        "Almacén cubierto.",
+        "Almacén al aire libre.",
+        "Almacén temporal.",
+        "Plataforma logística."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El almacén cubierto se destina a mercancías que requieren protección."
+    },
+    {
+      "question": "¿Qué almacén se emplea para guardar vehículos?",
+      "options": [
+        "Almacén al aire libre.",
+        "Almacén cubierto.",
+        "Plataforma logística.",
+        "Almacén regional."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El almacén al aire libre se utiliza, por ejemplo, para vehículos."
+    },
+    {
+      "question": "¿Qué función principal tienen los centros de distribución?",
+      "options": [
+        "Reducir tiempos de entrega y costes en la última milla.",
+        "Elaborar balances financieros.",
+        "Crear campañas publicitarias.",
+        "Contratar personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los centros de distribución permiten optimizar la última milla logística reduciendo costes y tiempos."
+    },
+    {
+      "question": "¿Qué aspecto debe considerarse en planificación de carga?",
+      "options": [
+        "Número de entregas, kilómetros, volumen y peso soportado.",
+        "Nóminas y balances.",
+        "Campañas de publicidad.",
+        "Selección de personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La planificación de carga requiere conocer entregas, kilómetros posibles y capacidad de los vehículos."
+    },
+    {
+      "question": "¿Qué sistema conecta la trazabilidad con gestión de almacenes?",
+      "options": [
+        "SGA (Sistema de Gestión de Almacenes).",
+        "ERP.",
+        "DRP.",
+        "CRM."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El RFID puede conectarse a un SGA, lo que facilita control y trazabilidad en almacenes."
+    },
+    {
+      "question": "¿Qué objetivo busca el DRP?",
+      "options": [
+        "Planificar distribución de inventario en centros y satisfacer clientes en tiempo, lugar y forma.",
+        "Sustituir campañas publicitarias.",
+        "Gestionar nóminas.",
+        "Elaborar balances."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El DRP organiza inventarios en centros de distribución para satisfacer necesidades en tiempo y forma."
+    },
+    {
+      "question": "¿Qué etapa del ciclo de vida del producto requiere gran inversión inicial?",
+      "options": [
+        "Introducción.",
+        "Crecimiento.",
+        "Madurez.",
+        "Declive."
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la etapa de introducción se comercializa por primera vez y requiere gran inversión inicial."
+    },
+    {
+      "question": "¿Qué etapa del ciclo de vida se caracteriza por ventas constantes?",
+      "options": [
+        "Madurez.",
+        "Crecimiento.",
+        "Introducción.",
+        "Declive."
+      ],
+      "correctAnswer": 0,
+      "explanation": "En madurez el producto alcanza alto posicionamiento y ventas constantes."
+    },
+    {
+      "question": "¿Qué etapa del ciclo de vida se caracteriza por caída en ventas?",
+      "options": [
+        "Declive.",
+        "Introducción.",
+        "Crecimiento.",
+        "Madurez."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El declive ocurre cuando los consumidores dejan de demandar el producto."
+    },
+    {
+      "question": "Un ejemplo de producto en madurez es…",
+      "options": [
+        "Coca Cola.",
+        "Ipod.",
+        "Mascarillas en pandemia.",
+        "Videoclubs."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coca Cola es un ejemplo de producto en etapa de madurez."
+    },
+    {
+      "question": "La idea principal del tema 10 es…",
+      "options": [
+        "Estudiar la cadena logística, almacenes, manutención, rutas, trazabilidad y ciclo de vida del producto.",
+        "Elaborar balances contables.",
+        "Diseñar campañas publicitarias.",
+        "Contratar personal de ventas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema 10 aborda la trazabilidad, cadena logística, almacenes, manutención, rutas y ciclo de vida del producto."
+    }
+  ]
+}

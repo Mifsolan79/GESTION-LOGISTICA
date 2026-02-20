@@ -1,0 +1,445 @@
+{
+  "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 3: SELECCIÓN DE PROVEEDORES",
+  "items": [
+    {
+      "question": "¿Cuál es la principal diferencia entre aprovisionamiento y compras?",
+      "options": [
+        "El aprovisionamiento se centra en la publicidad y las compras en contabilidad.",
+        "El aprovisionamiento gestiona necesidades y existencias; las compras buscan y negocian con proveedores.",
+        "El aprovisionamiento corresponde al marketing y las compras a recursos humanos.",
+        "No existe ninguna diferencia real entre ambos términos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprovisionamiento se orienta a necesidades, inventario y stock, mientras que compras se centra en proveedores, negociación y adquisición de materias."
+    },
+    {
+      "question": "Una de las funciones del aprovisionamiento es…",
+      "options": [
+        "Negociar con proveedores.",
+        "Conocer necesidades de la empresa y controlar existencias.",
+        "Realizar publicidad.",
+        "Elaborar estados contables."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprovisionamiento se encarga de analizar necesidades, controlar existencias y gestionar inventarios."
+    },
+    {
+      "question": "Una función clave de compras es…",
+      "options": [
+        "Elaborar informes financieros.",
+        "Buscar y seleccionar proveedores adecuados.",
+        "Diseñar organigramas.",
+        "Coordinar campañas publicitarias."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Compras tiene como misión localizar y negociar con proveedores para conseguir materias primas con calidad y precio adecuados."
+    },
+    {
+      "question": "¿Qué es un proveedor?",
+      "options": [
+        "Persona o entidad que suministra bienes o servicios a cambio de contraprestación económica.",
+        "Un departamento interno de contabilidad.",
+        "Un recurso humano especializado.",
+        "Una campaña de marketing digital."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proveedor es quien suministra bienes o servicios profesionalmente a cambio de un pago."
+    },
+    {
+      "question": "El primer paso en la búsqueda de proveedores es…",
+      "options": [
+        "Realizar auditoría financiera.",
+        "Analizar necesidades de la empresa en productos y características.",
+        "Diseñar un plan de marketing.",
+        "Formar personal en publicidad."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El proceso de búsqueda de proveedores comienza con el análisis de las necesidades técnicas, comerciales y económicas de la empresa."
+    },
+    {
+      "question": "Tras definir qué adquirir, la empresa debe…",
+      "options": [
+        "Decidir requisitos que deben cumplir los posibles proveedores.",
+        "Elaborar un plan contable.",
+        "Diseñar publicidad.",
+        "Preparar organigrama de personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una vez conocidas las necesidades, se establecen los requisitos que se exigirán a los proveedores."
+    },
+    {
+      "question": "Cuando una empresa reutiliza datos de proveedores con los que ya trabajó, está en la fase de…",
+      "options": [
+        "Segunda búsqueda.",
+        "Primera búsqueda.",
+        "Evaluación final.",
+        "Selección automática."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La primera búsqueda consiste en recurrir a proveedores anteriores ya conocidos."
+    },
+    {
+      "question": "La búsqueda externa de proveedores corresponde a…",
+      "options": [
+        "Segunda búsqueda.",
+        "Primera búsqueda.",
+        "Auditoría financiera.",
+        "Evaluación final."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Si no se encuentran proveedores internos, se realiza una segunda búsqueda externa (online u offline)."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una fuente de suministro offline?",
+      "options": [
+        "Citas con representantes.",
+        "Ferias y exposiciones.",
+        "Redes sociales.",
+        "Mercados centrales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las redes sociales son un medio online, no offline."
+    },
+    {
+      "question": "¿Cuál es una fuente online de búsqueda de proveedores?",
+      "options": [
+        "Asistir a ferias comerciales.",
+        "Directorios y comparadores web.",
+        "Acudir a oficinas físicas.",
+        "Reunirse con representantes."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los directorios de empresas online son una fuente común para localizar proveedores vía internet."
+    },
+    {
+      "question": "Las solicitudes de ofertas actualmente suelen realizarse mediante…",
+      "options": [
+        "Redes sociales exclusivamente.",
+        "Correo electrónico y catálogos digitales.",
+        "Publicidad en prensa.",
+        "Fax y teléfono únicamente."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hoy en día las solicitudes de ofertas se envían mayoritariamente por email y catálogos digitales."
+    },
+    {
+      "question": "Un requisito que puede exigirse a los proveedores es…",
+      "options": [
+        "Certificado de calidad y medioambiental.",
+        "Experiencia en marketing digital.",
+        "Elaboración de publicidad.",
+        "Contar con un departamento contable."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los requisitos habituales se incluyen certificados de calidad, medioambientales y obligaciones legales."
+    },
+    {
+      "question": "Un criterio excluyente en selección de proveedores es…",
+      "options": [
+        "No cumplir normativa laboral.",
+        "Tener altos costes de marketing.",
+        "No disponer de redes sociales.",
+        "Falta de organigrama claro."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios excluyentes impiden la colaboración si el proveedor no cumple normativas, como la laboral."
+    },
+    {
+      "question": "Entre los criterios de selección de proveedores se encuentra…",
+      "options": [
+        "Precio, plazos de entrega y servicio posventa.",
+        "Estrategias de publicidad.",
+        "Planes de marketing.",
+        "Informes contables."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se valoran aspectos como precio, descuentos, gastos, servicio, plazos de entrega y servicio posventa."
+    },
+    {
+      "question": "El prestigio del proveedor es un criterio de…",
+      "options": [
+        "Selección.",
+        "Exclusión.",
+        "Marketing.",
+        "Contabilidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La reputación y prestigio del proveedor forman parte de los criterios de selección."
+    },
+    {
+      "question": "La flexibilidad de un proveedor es importante porque…",
+      "options": [
+        "Permite adaptar plazos y cantidades a necesidades del cliente.",
+        "Asegura auditorías externas.",
+        "Reduce el gasto en publicidad.",
+        "Mejora la contabilidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Un proveedor flexible en plazos y cantidades es más útil para el aprovisionamiento."
+    },
+    {
+      "question": "El método de ponderación de criterios consiste en…",
+      "options": [
+        "Valorar y asignar puntuaciones según importancia de cada criterio.",
+        "Realizar auditorías financieras.",
+        "Elaborar un plan de marketing.",
+        "Diseñar un organigrama."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Este método otorga puntuaciones ponderadas a criterios de selección para comparar ofertas."
+    },
+    {
+      "question": "La evaluación de proveedores debe realizarse…",
+      "options": [
+        "Solo al final de la relación.",
+        "Durante y al final del periodo de actividad.",
+        "Solo antes de contratarlos.",
+        "Exclusivamente mediante auditoría externa."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación se realiza durante y al final de la relación para comprobar cumplimiento de parámetros."
+    },
+    {
+      "question": "Un riesgo en la relación con proveedores es…",
+      "options": [
+        "Incumplimiento de condiciones y mala resolución de imprevistos.",
+        "Publicidad ineficaz.",
+        "Sobrecoste en marketing.",
+        "Elaboración de organigramas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los incumplimientos o mala gestión de imprevistos deterioran la relación con los proveedores."
+    },
+    {
+      "question": "¿Cómo se califican a los proveedores?",
+      "options": [
+        "Mediante un sistema de puntuación.",
+        "Solo con encuestas de clientes.",
+        "A través de publicidad.",
+        "Por organigramas internos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación se basa en sistemas de puntuación sobre los criterios establecidos."
+    },
+    {
+      "question": "En el caso práctico 2, el criterio con mayor peso fue…",
+      "options": [
+        "Calidad y plazos de entrega.",
+        "Publicidad.",
+        "Auditoría.",
+        "Planes de marketing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el análisis se valoran precio, plazos, pago y calidad, con énfasis en calidad y plazos."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un software de evaluación de proveedores?",
+      "options": [
+        "Achilles.",
+        "Photoshop.",
+        "AutoCAD.",
+        "PowerPoint."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Achilles es una base de datos online que facilita información y evaluación de proveedores."
+    },
+    {
+      "question": "Una herramienta básica de selección para pequeñas empresas es…",
+      "options": [
+        "Hojas de cálculo.",
+        "SAP.",
+        "Redes sociales.",
+        "Photoshop."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las hojas de cálculo son útiles en empresas pequeñas o con relaciones estables con proveedores."
+    },
+    {
+      "question": "¿Qué ventaja ofrecen los sistemas ERP en la evaluación de proveedores?",
+      "options": [
+        "Gestionar y automatizar procesos de selección y evaluación.",
+        "Diseñar publicidad.",
+        "Elaborar balances.",
+        "Organizar recursos humanos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los ERP permiten gestionar y automatizar la selección y evaluación de proveedores de manera integral."
+    },
+    {
+      "question": "¿Qué criterio no debe ser el único para elegir proveedor?",
+      "options": [
+        "Precio.",
+        "Plazo de entrega.",
+        "Calidad.",
+        "Servicio posventa."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El precio no debe ser el único criterio porque puede implicar menor calidad o incumplir características técnicas."
+    },
+    {
+      "question": "Un criterio excluyente claro es…",
+      "options": [
+        "Falta de cumplimiento de normativa laboral.",
+        "No ofrecer descuentos.",
+        "No disponer de publicidad.",
+        "Carecer de ERP."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La normativa laboral es un criterio excluyente que impide seleccionar a ciertos proveedores."
+    },
+    {
+      "question": "El análisis comparativo de ofertas sirve para…",
+      "options": [
+        "Determinar qué proveedor cumple mejor los requisitos establecidos.",
+        "Realizar campañas publicitarias.",
+        "Elaborar estados financieros.",
+        "Diseñar organigramas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se comparan las ofertas para elegir la que más se ajusta a los criterios de la empresa."
+    },
+    {
+      "question": "Una situación negativa en relación proveedor-cliente es…",
+      "options": [
+        "Deterioro de la relación por incumplimiento de condiciones.",
+        "Mayor gasto en publicidad.",
+        "Exceso de recursos humanos.",
+        "Falta de campañas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Incumplimientos y mala resolución de imprevistos dañan la imagen y la relación con proveedores."
+    },
+    {
+      "question": "La Cámara de Comercio puede servir como…",
+      "options": [
+        "Fuente de búsqueda de proveedores online.",
+        "Departamento contable.",
+        "Recurso publicitario.",
+        "Organigrama de recursos humanos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Cámara de Comercio provincial ofrece información sobre fuentes de suministro."
+    },
+    {
+      "question": "Un directorio web especializado es un ejemplo de…",
+      "options": [
+        "Fuente de búsqueda online.",
+        "Fuente offline.",
+        "Publicidad.",
+        "Auditoría."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los directorios online son recursos habituales para localizar proveedores."
+    },
+    {
+      "question": "Un comparador web sirve para…",
+      "options": [
+        "Analizar y comparar proveedores online.",
+        "Realizar publicidad.",
+        "Elaborar balances.",
+        "Organizar personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los comparadores web permiten analizar condiciones de varios proveedores."
+    },
+    {
+      "question": "En el análisis comparativo, los criterios deben ser…",
+      "options": [
+        "Ponderados según importancia.",
+        "Todos iguales.",
+        "Solo precio.",
+        "Exclusivamente plazos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los criterios se ponderan en función de su relevancia para la empresa."
+    },
+    {
+      "question": "Un servicio posventa adecuado es…",
+      "options": [
+        "Un criterio de selección valorado.",
+        "Un requisito excluyente.",
+        "Un factor irrelevante.",
+        "Parte de la contabilidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El servicio posventa es un criterio positivo dentro de la selección de proveedores."
+    },
+    {
+      "question": "El análisis de ofertas puede representarse en…",
+      "options": [
+        "Tablas y gráficos comparativos.",
+        "Publicidad.",
+        "Organigramas.",
+        "Recursos humanos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tablas y gráficos permiten visualizar y comparar resultados de ofertas."
+    },
+    {
+      "question": "Una garantía prolongada ofrecida por el proveedor es…",
+      "options": [
+        "Criterio de selección.",
+        "Excluyente.",
+        "Contable.",
+        "Publicitario."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El período de garantía forma parte de los criterios de selección."
+    },
+    {
+      "question": "Una financiación flexible es…",
+      "options": [
+        "Criterio de selección.",
+        "Excluyente.",
+        "Publicidad.",
+        "Auditoría."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La financiación es un aspecto valorado dentro de los criterios de selección de proveedores."
+    },
+    {
+      "question": "Un proveedor cercano ofrece ventajas en…",
+      "options": [
+        "Transporte y aprovisionamiento.",
+        "Publicidad.",
+        "Recursos humanos.",
+        "Finanzas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cercanía facilita transporte y reduce costes de aprovisionamiento."
+    },
+    {
+      "question": "El uso de software especializado por parte del proveedor permite…",
+      "options": [
+        "Responder mejor a necesidades y reducir errores.",
+        "Diseñar campañas.",
+        "Elaborar balances.",
+        "Organizar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El software especializado mejora la capacidad de respuesta y reduce fallos."
+    },
+    {
+      "question": "La evaluación de proveedores garantiza…",
+      "options": [
+        "Que los parámetros acordados se cumplan a lo largo del tiempo.",
+        "Campañas exitosas.",
+        "Auditorías financieras.",
+        "Creación de organigramas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación asegura que se mantengan las condiciones pactadas."
+    },
+    {
+      "question": "La idea principal del tema 3 es…",
+      "options": [
+        "Selección, comparación y evaluación de proveedores mediante criterios y herramientas específicas.",
+        "Elaborar publicidad.",
+        "Diseñar organigramas.",
+        "Preparar balances financieros."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema aborda la importancia de seleccionar y evaluar proveedores utilizando criterios claros y herramientas de apoyo."
+    }
+  ]
+}

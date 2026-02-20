@@ -1,0 +1,445 @@
+{
+  "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 9: NORMATIVA SOBRE ENVASE, EMBALAJE Y ETIQUETADO DE PRODUCTOS",
+  "items": [
+    {
+      "question": "¿Qué función técnica cumple un envase?",
+      "options": [
+        "Aportar identidad de marca.",
+        "Formar parte de las características físicas y técnicas del producto.",
+        "Facilitar la publicidad.",
+        "Agrupar unidades para transporte."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El envase cumple una función técnica al ser parte de las características físicas y técnicas del producto."
+    },
+    {
+      "question": "¿Cuál es una función económica del envase?",
+      "options": [
+        "Aumentar el precio final del producto.",
+        "Generar residuos.",
+        "Mejorar la ergonomía.",
+        "Proteger la mercancía en transporte."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El envase puede tener una función económica al incrementar el precio final del producto."
+    },
+    {
+      "question": "¿Cuál es una característica principal de un envase adecuado?",
+      "options": [
+        "Fortaleza y hermeticidad.",
+        "Bajo coste siempre.",
+        "Falta de inviolabilidad.",
+        "No contener aire."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Un envase adecuado debe tener fortaleza, hermeticidad, inviolabilidad, ergonomía y comunicación."
+    },
+    {
+      "question": "¿Cuál es la principal función del embalaje?",
+      "options": [
+        "Proteger productos y facilitar transporte.",
+        "Identificar composición del producto.",
+        "Atraer consumidores.",
+        "Conservar características del contenido."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El embalaje se usa para proteger mercancías y facilitar su manipulación y transporte."
+    },
+    {
+      "question": "¿Qué diferencia al envase del embalaje?",
+      "options": [
+        "El envase está en contacto directo con el producto; el embalaje protege y facilita transporte.",
+        "El envase protege; el embalaje contiene.",
+        "El envase es colectivo; el embalaje individual.",
+        "El envase se usa en almacén; el embalaje en venta."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El envase es el primer material en contacto con el producto, mientras que el embalaje lo protege y facilita transporte."
+    },
+    {
+      "question": "Un embalaje primario se caracteriza por…",
+      "options": [
+        "Estar en contacto directo con el producto.",
+        "Agrupar varios secundarios.",
+        "Facilitar el transporte masivo.",
+        "Ser retornable."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los embalajes primarios son los que se colocan en contacto directo con el producto para protegerlo."
+    },
+    {
+      "question": "¿Qué tipo de envase busca atraer al consumidor?",
+      "options": [
+        "Envase como parte de la imagen corporativa.",
+        "Envase de conservación.",
+        "Envase de manipulación.",
+        "Envase múltiple."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El envase diseñado como parte de la imagen corporativa busca atraer la compra."
+    },
+    {
+      "question": "Un envase retornable se caracteriza por…",
+      "options": [
+        "Tener una segunda vida útil.",
+        "Ser usado solo una vez.",
+        "Servir como parte de publicidad.",
+        "Ser colectivo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los envases retornables se pueden reutilizar para la misma función u otra diferente."
+    },
+    {
+      "question": "¿Qué es una unidad de carga?",
+      "options": [
+        "Unidad elemental de almacenaje y transporte, normalmente sobre palés o contenedores.",
+        "Unidad mínima de venta al consumidor.",
+        "Documento de pedido.",
+        "Sistema de reciclaje."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad de carga agrupa pedidos sobre palés o contenedores para su manutención y transporte."
+    },
+    {
+      "question": "¿Qué normativa regula la gestión de envases y residuos?",
+      "options": [
+        "Ley 11/1997 y Ley 22/2011.",
+        "Ley 21/2003.",
+        "Real Decreto 121/2010.",
+        "Ley 14/1999."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley 11/1997 y la Ley 22/2011 regulan envases, residuos y suelos contaminados."
+    },
+    {
+      "question": "¿Qué objetivo tienen las normas de gestión de residuos?",
+      "options": [
+        "Reducir, reciclar y controlar residuos de envases y embalajes.",
+        "Incrementar costes de producción.",
+        "Ampliar campañas de publicidad.",
+        "Crear envases colectivos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Estas normas buscan minimizar residuos, reciclar materiales y concienciar sobre sostenibilidad."
+    },
+    {
+      "question": "¿Cuál es un criterio esencial para elegir envases?",
+      "options": [
+        "Características del producto: peligrosidad, caducidad, conservación y peso.",
+        "Nombre del proveedor.",
+        "Campañas de publicidad.",
+        "Número de trabajadores."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La elección de envase depende del tipo de producto y sus características principales."
+    },
+    {
+      "question": "¿Qué aspecto influye en el coste logístico del embalaje?",
+      "options": [
+        "Tipo de transporte, condiciones del viaje y maquinaria de carga y descarga.",
+        "Diseño gráfico.",
+        "Número de empleados.",
+        "Tamaño del almacén."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los costes logísticos se ven afectados por transporte, duración del viaje y condiciones climáticas."
+    },
+    {
+      "question": "¿Cuál es un objetivo del etiquetado en embalajes?",
+      "options": [
+        "Aportar información esencial para identificar mercancía y su manipulación.",
+        "Crear campañas publicitarias.",
+        "Definir balances financieros.",
+        "Redactar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El etiquetado en embalajes aporta información sobre identificación, manipulación y peligrosidad."
+    },
+    {
+      "question": "¿Qué sistema estándar utiliza la AECOC para identificación y transmisión de datos?",
+      "options": [
+        "GS1.",
+        "ISO 9001.",
+        "ERP.",
+        "RFID."
+      ],
+      "correctAnswer": 0,
+      "explanation": "AECOC utiliza el sistema GS1 con códigos de barras para operaciones logísticas y comerciales."
+    },
+    {
+      "question": "¿Qué material se utiliza sobre todo para palés y cajas de transporte?",
+      "options": [
+        "Madera.",
+        "Vidrio.",
+        "Cartón.",
+        "Plástico."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La madera se emplea principalmente en palés, cestas y cajas para transporte."
+    },
+    {
+      "question": "Una ventaja del cartón como material es…",
+      "options": [
+        "Fácil reciclaje y posibilidad de añadir publicidad.",
+        "Gran fragilidad.",
+        "Alto coste de reciclaje.",
+        "Pesado y contaminante."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cartón es fácil de reciclar, no contaminante y permite añadir publicidad con facilidad."
+    },
+    {
+      "question": "Una desventaja del plástico como material es…",
+      "options": [
+        "No es biodegradable y su reciclaje es costoso.",
+        "Bajo coste de adquisición.",
+        "Ligero y hermético.",
+        "Fácil manipulación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El plástico no es biodegradable y su reciclaje tiene alto coste."
+    },
+    {
+      "question": "¿Qué material se promueve cada vez más por su bajo impacto ambiental?",
+      "options": [
+        "Vidrio.",
+        "Plástico.",
+        "Metal.",
+        "Textiles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El vidrio se promueve por su bajo impacto ambiental y por cumplir las 7R."
+    },
+    {
+      "question": "¿Qué ventajas aporta el vidrio?",
+      "options": [
+        "Recuperable, reutilizable y reciclable.",
+        "Bajo peso y alta resistencia.",
+        "Bajo coste siempre.",
+        "Poco frágil y fácil de transportar."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El vidrio cumple con varias R: recuperable, reutilizable y reciclable."
+    },
+    {
+      "question": "¿Cuál es una desventaja del vidrio?",
+      "options": [
+        "Peso elevado y fragilidad.",
+        "Bajo coste de producción.",
+        "Poco contaminante.",
+        "Alta resistencia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El vidrio suele ser pesado y frágil, lo que dificulta transporte y manipulación."
+    },
+    {
+      "question": "¿Qué ley regula la reducción de consumo de bolsas de plástico?",
+      "options": [
+        "Real Decreto 293/2018.",
+        "Ley 21/2003.",
+        "Ley 22/2011.",
+        "RD 782/1998."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 293/2018 regula la reducción de consumo de bolsas de plástico."
+    },
+    {
+      "question": "¿Qué embalaje se utiliza para agrupar productos ya envasados?",
+      "options": [
+        "Embalaje secundario.",
+        "Embalaje primario.",
+        "Embalaje terciario.",
+        "Envase múltiple."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El embalaje secundario se usa para agrupar uno o varios primarios y facilitar transporte."
+    },
+    {
+      "question": "¿Qué embalaje se usa para manipulación y transporte masivo?",
+      "options": [
+        "Embalaje terciario.",
+        "Embalaje secundario.",
+        "Embalaje primario.",
+        "Envase colectivo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El embalaje terciario agrupa primarios y secundarios para transporte y manipulación masiva."
+    },
+    {
+      "question": "Un envase desechable se caracteriza por…",
+      "options": [
+        "Usarse solo una vez y reciclarse después.",
+        "Tener varias vidas útiles.",
+        "Formar parte de la identidad corporativa.",
+        "Ser colectivo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los envases desechables se usan una sola vez, aunque luego se reciclen."
+    },
+    {
+      "question": "¿Qué criterio logístico se tiene en cuenta al elegir envases?",
+      "options": [
+        "Tipo de transporte y condiciones del viaje.",
+        "Publicidad.",
+        "Número de trabajadores.",
+        "Marca corporativa únicamente."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La elección de envases depende del transporte, condiciones y maquinaria de carga/descarga."
+    },
+    {
+      "question": "¿Qué material de embalaje presenta rigidez pero se desgasta con el tiempo?",
+      "options": [
+        "Madera.",
+        "Cartón.",
+        "Vidrio.",
+        "Plástico."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La madera es rígida y reutilizable, pero se desgasta con el tiempo."
+    },
+    {
+      "question": "¿Qué recomendación hace AECOC sobre embalajes?",
+      "options": [
+        "Incluir información logística y comercial clara: marca, GS1, fechas, características y destino.",
+        "No incluir códigos de barras.",
+        "Solo mostrar el logotipo de la empresa.",
+        "Evitar datos sobre manipulación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "AECOC recomienda incluir datos logísticos claros como GS1, fechas y destino."
+    },
+    {
+      "question": "¿Qué envase se dirige al consumidor final en actividades diarias?",
+      "options": [
+        "Envase de consumo.",
+        "Envase industrial.",
+        "Envase múltiple.",
+        "Envase colectivo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El envase de consumo está pensado para el consumidor final."
+    },
+    {
+      "question": "¿Qué envase contiene productos distintos para venta conjunta?",
+      "options": [
+        "Envase colectivo.",
+        "Envase múltiple.",
+        "Envase industrial.",
+        "Envase de conservación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El envase colectivo contiene varios productos diferentes para venta conjunta."
+    },
+    {
+      "question": "¿Cuál es un objetivo de la Ley 11/1997?",
+      "options": [
+        "Minimizar impacto medioambiental de envases y residuos.",
+        "Aumentar precio de producción.",
+        "Eliminar envases retornables.",
+        "Incrementar publicidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley 11/1997 busca minimizar el impacto ambiental de envases y residuos."
+    },
+    {
+      "question": "¿Qué Real Decreto desarrolla la Ley 11/1997?",
+      "options": [
+        "Real Decreto 782/1998.",
+        "RD 252/2006.",
+        "RD 293/2018.",
+        "Ley 22/2011."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 782/1998 desarrolla la Ley 11/1997 sobre envases y residuos de envases."
+    },
+    {
+      "question": "¿Qué Real Decreto revisa los objetivos de reciclado de la Ley 11/1997?",
+      "options": [
+        "RD 252/2006.",
+        "RD 782/1998.",
+        "RD 293/2018.",
+        "Ley 22/2011."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El RD 252/2006 revisa objetivos de reciclado y modifica el RD 782/1998."
+    },
+    {
+      "question": "¿Cuál es la principal ley que regula residuos y suelos contaminados?",
+      "options": [
+        "Ley 22/2011.",
+        "Ley 11/1997.",
+        "RD 782/1998.",
+        "RD 293/2018."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley 22/2011 regula residuos y suelos contaminados, con foco en prevención."
+    },
+    {
+      "question": "¿Qué material de embalaje es reutilizable y ligero, pero poco usado por fabricantes?",
+      "options": [
+        "Textiles.",
+        "Vidrio.",
+        "Cartón.",
+        "Madera."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los textiles son reutilizables y ligeros, pero poco frecuentes en embalajes industriales."
+    },
+    {
+      "question": "¿Qué material de embalaje es resistente pero difícil de reciclar?",
+      "options": [
+        "Metales.",
+        "Cartón.",
+        "Plástico.",
+        "Vidrio."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los metales son resistentes pero presentan dificultades de reciclaje."
+    },
+    {
+      "question": "¿Qué embalaje contiene varias unidades del mismo producto?",
+      "options": [
+        "Envase múltiple.",
+        "Envase colectivo.",
+        "Envase de consumo.",
+        "Envase industrial."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El envase múltiple contiene varias unidades iguales destinadas al consumidor final."
+    },
+    {
+      "question": "¿Qué envase mantiene propiedades y características originales del producto?",
+      "options": [
+        "Envase de conservación.",
+        "Envase de manipulación.",
+        "Envase de imagen corporativa.",
+        "Envase colectivo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El envase de conservación mantiene propiedades originales del producto."
+    },
+    {
+      "question": "¿Qué objetivo persigue el etiquetado en mercancías peligrosas?",
+      "options": [
+        "Incluir símbolos normativos de manipulación y peligrosidad.",
+        "Atraer clientes con publicidad.",
+        "Reducir costes.",
+        "Reutilizar envases."
+      ],
+      "correctAnswer": 0,
+      "explanation": "En mercancías peligrosas se deben incluir símbolos obligatorios de manipulación y peligrosidad."
+    },
+    {
+      "question": "La idea principal del tema 9 es…",
+      "options": [
+        "La normativa sobre envases, embalajes y etiquetado; tipos, gestión, criterios, materiales y residuos.",
+        "Elaborar balances contables.",
+        "Diseñar campañas de marketing.",
+        "Contratar personal de almacén."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema se centra en normativa sobre envases, embalajes y etiquetado, gestión y materiales."
+    }
+  ]
+}

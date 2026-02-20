@@ -1,0 +1,445 @@
+{
+  "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 11: LA CALIDAD EN LA LOGÍSTICA",
+  "items": [
+    {
+      "question": "¿Qué implica el concepto de calidad total?",
+      "options": [
+        "Control exclusivo de la producción.",
+        "Revisión y mejora continua de todas las actividades de la empresa.",
+        "Incrementar los precios de venta.",
+        "Delegar el control de calidad en proveedores externos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La calidad total supone un proceso de mejora continua que abarca todas las actividades de la empresa y requiere implicación de todos los miembros."
+    },
+    {
+      "question": "¿Cuál es uno de los principios de la calidad total?",
+      "options": [
+        "Situar al cliente como objetivo principal.",
+        "Incrementar la producción sin control.",
+        "Reducir la implicación de los empleados.",
+        "Priorizar los beneficios a corto plazo."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La calidad total se basa en la satisfacción del cliente como meta principal junto a la mejora continua."
+    },
+    {
+      "question": "¿Qué norma internacional regula los sistemas de gestión de calidad?",
+      "options": [
+        "ISO 14001.",
+        "ISO 9001.",
+        "ISO 22000.",
+        "ISO 50001."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La norma ISO 9001 es la referencia internacional para sistemas de gestión de calidad."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la norma ISO 9001?",
+      "options": [
+        "Reducir personal.",
+        "Aumentar la satisfacción del cliente.",
+        "Eliminar la competencia.",
+        "Evitar el uso de tecnología."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La norma ISO 9001 busca garantizar la satisfacción de las necesidades del cliente mediante mejora continua."
+    },
+    {
+      "question": "¿Qué exige la norma ISO 9001 a las empresas certificadas?",
+      "options": [
+        "Auditorías internas periódicas.",
+        "Solo controles de producción.",
+        "Eliminación de proveedores.",
+        "Planes publicitarios obligatorios."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La norma ISO 9001 requiere auditorías internas periódicas para verificar la mejora continua."
+    },
+    {
+      "question": "¿Cuál es un beneficio de la certificación ISO 9001?",
+      "options": [
+        "Mejora de la imagen corporativa y mayor satisfacción de clientes.",
+        "Eliminación de costes laborales.",
+        "Sustitución de la logística tradicional.",
+        "Reducción de la calidad del producto."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Obtener la certificación aporta beneficios como optimización de costes, mejor imagen y satisfacción del cliente."
+    },
+    {
+      "question": "¿En qué consiste el sistema Just in time?",
+      "options": [
+        "Almacenar el mínimo de unidades necesarias y abastecerse en el momento indicado.",
+        "Aumentar existencias para evitar roturas de stock.",
+        "Delegar la producción en empresas externas.",
+        "Eliminar el control de calidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El sistema JIT busca minimizar costes de almacenamiento abasteciéndose solo de lo necesario en el momento adecuado."
+    },
+    {
+      "question": "¿Cuál es un objetivo del sistema Just in time?",
+      "options": [
+        "Evitar desperdicio y sobreproducción.",
+        "Incrementar el stock de seguridad.",
+        "Reducir la implicación del personal.",
+        "Aumentar desplazamientos innecesarios."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El JIT busca eliminar desperdicios y sobreproducción mediante control de procesos y calidad total."
+    },
+    {
+      "question": "¿Qué empresa desarrolló el sistema Just in time?",
+      "options": [
+        "Toyota.",
+        "Ford.",
+        "General Motors.",
+        "Nissan."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El sistema JIT fue creado por Toyota a mediados del siglo XX."
+    },
+    {
+      "question": "¿Cuál es la filosofía en la que se basa Toyota para la calidad?",
+      "options": [
+        "Kaizen o mejora continua.",
+        "Downsizing.",
+        "Benchmarking.",
+        "Outsourcing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Toyota aplica el principio Kaizen, que consiste en la mejora continua y rápida resolución de incidencias."
+    },
+    {
+      "question": "¿Qué sistema utiliza tarjetas para identificar procesos en la producción?",
+      "options": [
+        "Kanban.",
+        "Lean Six Sigma.",
+        "Just in time.",
+        "Blockchain."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El sistema Kanban asigna tarjetas a los productos indicando fases de producción."
+    },
+    {
+      "question": "¿Qué aspecto es clave en la calidad de las compras?",
+      "options": [
+        "Selección de proveedores y negociación de condiciones.",
+        "Aumento de existencias sin control.",
+        "Eliminación de la planificación.",
+        "Contratación de personal sin experiencia."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La calidad en las compras depende de la correcta selección de proveedores, negociación y planificación."
+    },
+    {
+      "question": "¿Qué indicador mide el coste de cada unidad almacenada?",
+      "options": [
+        "Coste por unidad almacenada.",
+        "Coste por m2.",
+        "Coste por unidad entregada.",
+        "Coste de transporte."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El coste por unidad almacenada relaciona el coste total del almacén con el stock medio."
+    },
+    {
+      "question": "¿Qué indicador mide el coste por cada unidad expedida?",
+      "options": [
+        "Coste por unidad entregada.",
+        "Coste por m2.",
+        "Coste por unidad almacenada.",
+        "Coste total del transporte."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El coste por unidad entregada relaciona el coste total de salidas con el número de unidades expedidas."
+    },
+    {
+      "question": "¿Qué indicador relaciona el coste total del almacén con su superficie?",
+      "options": [
+        "Coste por m2 de superficie.",
+        "Coste por unidad almacenada.",
+        "Coste por unidad entregada.",
+        "Coste de transporte."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El coste por m2 relaciona el coste del almacén con la superficie total utilizada."
+    },
+    {
+      "question": "¿Qué herramienta permite al consumidor conocer trazabilidad y origen de productos?",
+      "options": [
+        "Código QR.",
+        "Kanban.",
+        "Just in time.",
+        "Carta de porte."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El código QR proporciona al consumidor información sobre trazabilidad, origen y características del producto."
+    },
+    {
+      "question": "¿Qué tecnología se asocia al uso del código QR en calidad?",
+      "options": [
+        "Blockchain.",
+        "RFID.",
+        "EDI.",
+        "ERP."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El uso del código QR como herramienta de calidad se apoya en blockchain para garantizar veracidad de los datos."
+    },
+    {
+      "question": "¿Qué sistema de calidad busca eliminar el almacenaje de mercancías?",
+      "options": [
+        "Cross docking.",
+        "Just in time.",
+        "Kanban.",
+        "ERP."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cross docking elimina el almacenaje, preparando la mercancía para su expedición en menos de 24 horas."
+    },
+    {
+      "question": "¿Cuál es una función principal del cross docking?",
+      "options": [
+        "Transporte y distribución inmediata de mercancías.",
+        "Incremento de existencias en almacén.",
+        "Publicidad de productos.",
+        "Contratación de personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cross docking se basa en transportar, recibir y expedir mercancía sin almacenarla."
+    },
+    {
+      "question": "¿Qué tipo de productos suelen usar cross docking directo?",
+      "options": [
+        "Productos de alta rotación como frescos y de pequeñas dimensiones.",
+        "Productos de baja demanda.",
+        "Productos industriales de gran tamaño.",
+        "Productos financieros."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cross docking directo se aplica a productos de alta rotación y pequeñas dimensiones, como frescos."
+    },
+    {
+      "question": "¿Qué mide el coste del transporte en función de ventas?",
+      "options": [
+        "Relación entre coste del transporte y ventas totales.",
+        "Relación entre ventas y coste de almacenaje.",
+        "Relación entre unidades expedidas y coste.",
+        "Relación entre m2 y coste."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El indicador relaciona coste de transporte con ventas totales, mostrando eficiencia logística."
+    },
+    {
+      "question": "¿Qué indicador compara transporte propio con transporte externo?",
+      "options": [
+        "Coste transporte interno/externo.",
+        "Coste por unidad almacenada.",
+        "Coste por m2.",
+        "Coste por unidad entregada."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Este indicador determina la conveniencia de usar transporte propio o contratar externo."
+    },
+    {
+      "question": "¿Qué objetivo tienen los sistemas de verificación de calidad de proveedores?",
+      "options": [
+        "Garantizar suministros de calidad competitivos mediante normas internacionales.",
+        "Reducir costes de personal.",
+        "Incrementar la publicidad.",
+        "Eliminar controles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Estos sistemas aseguran relaciones duraderas con proveedores certificados y competitivos."
+    },
+    {
+      "question": "¿Cuál es uno de los principios en la verificación de calidad de proveedores según ISO 9001?",
+      "options": [
+        "Control y seguimiento de proveedores.",
+        "Eliminación de nuevos proveedores.",
+        "Reducir auditorías.",
+        "Evitar revisiones periódicas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La norma ISO 9001 exige control, seguimiento y revisiones periódicas de proveedores."
+    },
+    {
+      "question": "¿Qué ocurre si se detectan incidencias graves en un proveedor?",
+      "options": [
+        "Pueden derivar en listado de no conformidades y reconsideración del suministro.",
+        "Se incrementan los pedidos.",
+        "Se mantiene el suministro sin cambios.",
+        "Se elimina todo control."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Incidencias graves pueden generar listados de no conformidad y llevar a suspender la relación con el proveedor."
+    },
+    {
+      "question": "¿Qué aspecto distingue a la calidad logística?",
+      "options": [
+        "Capacidad de satisfacer al consumidor y diferenciarse de la competencia.",
+        "Reducir publicidad.",
+        "Aumentar costes sin control.",
+        "Contratar personal eventual."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La calidad logística se centra en satisfacer al consumidor y destacar frente a la competencia."
+    },
+    {
+      "question": "¿Qué elemento humano es esencial en un sistema de calidad total?",
+      "options": [
+        "Los empleados como recurso principal que necesita atención.",
+        "Solo directivos.",
+        "Solo proveedores.",
+        "Clientes externos únicamente."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La calidad total reconoce a los empleados como recurso clave que requiere motivación y cuidado."
+    },
+    {
+      "question": "¿Qué estrategia sigue la calidad total para ser competitiva?",
+      "options": [
+        "Optimizar recursos y minimizar costes.",
+        "Aumentar producción sin control.",
+        "Reducir implicación de empleados.",
+        "Evitar relación con proveedores."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estrategia es optimizar recursos y reducir costes para aumentar competitividad."
+    },
+    {
+      "question": "¿Qué resultado busca la implementación de ISO 9001?",
+      "options": [
+        "Diferenciarse de competidores mediante garantía de calidad.",
+        "Evitar controles.",
+        "Aumentar costes.",
+        "Sustituir mejora continua."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El certificado ISO 9001 distingue a las empresas frente a la competencia por su calidad asegurada."
+    },
+    {
+      "question": "¿Qué requisito implica la implantación de ISO 9001?",
+      "options": [
+        "Asesoramiento y auditoría con coste asociado.",
+        "Eliminación de empleados.",
+        "Supresión de proveedores.",
+        "Inexistencia de controles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Implementar ISO 9001 implica planificar, auditar y asumir costes de asesoría y auditoría."
+    },
+    {
+      "question": "¿Qué objetivo tiene el JIT respecto al personal y maquinaria?",
+      "options": [
+        "Planificar adecuadamente para evitar desplazamientos innecesarios.",
+        "Reducir número de trabajadores.",
+        "Aumentar desplazamientos.",
+        "Suprimir controles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El JIT busca planificar al personal y maquinaria evitando movimientos innecesarios."
+    },
+    {
+      "question": "¿Qué sistemas apoyan la gestión JIT y cross docking?",
+      "options": [
+        "Softwares especializados de gestión de almacenes.",
+        "Campañas de publicidad.",
+        "Balances financieros.",
+        "Nóminas automatizadas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los softwares especializados permiten gestionar eficazmente procesos de JIT y cross docking."
+    },
+    {
+      "question": "¿Qué indicador refleja la eficiencia en transporte?",
+      "options": [
+        "Coste transporte/ventas totales.",
+        "Coste por unidad almacenada.",
+        "Coste por m2.",
+        "Coste por unidad entregada."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Este indicador mide el coste de transporte en relación con las ventas totales de un periodo."
+    },
+    {
+      "question": "¿Qué ventaja ofrece blockchain aplicado al código QR?",
+      "options": [
+        "Garantiza que la información no sea falsificada ni manipulada.",
+        "Aumenta publicidad.",
+        "Elimina proveedores.",
+        "Sustituye auditorías."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Blockchain asegura que la trazabilidad reflejada en el código QR sea veraz y no manipulada."
+    },
+    {
+      "question": "¿Qué sistema elimina inventarios en la distribución?",
+      "options": [
+        "Cross docking.",
+        "JIT.",
+        "Kanban.",
+        "ISO 9001."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cross docking elimina inventarios preparando pedidos directamente para expedición."
+    },
+    {
+      "question": "¿Qué busca la gestión de calidad en compras?",
+      "options": [
+        "Fabricar productos de calidad mediante selección adecuada de proveedores y materiales.",
+        "Incrementar publicidad.",
+        "Reducir controles.",
+        "Eliminar planificación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La calidad en compras se orienta a seleccionar materiales y proveedores para asegurar productos de calidad."
+    },
+    {
+      "question": "¿Qué norma exige revisión periódica de criterios de proveedores?",
+      "options": [
+        "ISO 9001.",
+        "ISO 14001.",
+        "ISO 45001.",
+        "ISO 50001."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La ISO 9001 indica revisar periódicamente criterios de selección, evaluación y control de proveedores."
+    },
+    {
+      "question": "¿Qué ocurre tras detectar incidencias leves en proveedores?",
+      "options": [
+        "Se registran y controlan sin necesidad de suspender suministro.",
+        "Se eliminan proveedores.",
+        "Se interrumpe inmediatamente el suministro.",
+        "Se ignoran sin registro."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las incidencias leves se registran y controlan, no implican necesariamente ruptura de relación."
+    },
+    {
+      "question": "¿Qué empresas suelen usar cross docking?",
+      "options": [
+        "Fabricantes, distribuidoras y transportistas.",
+        "Empresas financieras.",
+        "Entidades educativas.",
+        "Firmas publicitarias."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fabricantes, distribuidoras y transportistas se benefician del cross docking por menor inversión en inventarios."
+    },
+    {
+      "question": "La idea principal del tema 11 es…",
+      "options": [
+        "Calidad total, ISO 9001, JIT, cross docking, código QR y verificación de calidad de proveedores.",
+        "Solo balances contables.",
+        "Estrategias publicitarias.",
+        "Nóminas de personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema desarrolla calidad total, ISO 9001, JIT, cross docking, herramientas tecnológicas y verificación de proveedores."
+    }
+  ]
+}

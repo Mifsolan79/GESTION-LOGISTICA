@@ -1,0 +1,445 @@
+{
+  "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 1: LA LOGÍSTICA",
+  "items": [
+    {
+      "question": "¿Cómo se define la logística en la empresa?",
+      "options": [
+        "Actividad comercial destinada a la promoción.",
+        "Parte de la gestión de la cadena de suministro que planifica, implementa y controla flujos de materiales, productos e información.",
+        "Función de contabilidad de costes.",
+        "Acción de marketing digital."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La logística se define como la parte de la cadena de suministro que asegura el flujo eficiente de materiales, productos e información desde el origen hasta el consumo, con el objetivo de satisfacer al consumidor."
+    },
+    {
+      "question": "¿Cuál es el objetivo esencial de la logística?",
+      "options": [
+        "Reducir la inversión publicitaria.",
+        "Satisfacer las necesidades del consumidor mediante la gestión eficiente de materiales y productos.",
+        "Sustituir al departamento comercial.",
+        "Diseñar planes de recursos humanos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo principal es que los productos lleguen en condiciones óptimas al consumidor reduciendo costes y tiempos."
+    },
+    {
+      "question": "¿Qué caracteriza a la logística interna?",
+      "options": [
+        "Se centra en campañas publicitarias.",
+        "Incluye la recepción de mercancías, almacenamiento y procesos internos.",
+        "Se limita a la gestión financiera.",
+        "Se orienta a la relación con clientes finales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La logística interna comprende procesos dentro de la empresa como recepción de mercancías, almacenamiento y fabricación."
+    },
+    {
+      "question": "La logística externa se ocupa de…",
+      "options": [
+        "Procesos internos de fabricación.",
+        "La relación con proveedores, transportistas y distribuidores para reducir tiempos y costes.",
+        "Elaborar balances contables.",
+        "Diseñar políticas de personal."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La logística externa conecta a la empresa con proveedores y distribuidores para optimizar tiempo y costes."
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es un objetivo de la logística?",
+      "options": [
+        "Disminuir costes de transporte y almacenamiento.",
+        "Economizar tiempos para evitar pérdidas.",
+        "Elaborar auditorías financieras.",
+        "Aprovisionarse en las mejores condiciones."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La auditoría financiera no forma parte de los objetivos de la logística."
+    },
+    {
+      "question": "¿Qué distingue a la cadena tradicional de suministro?",
+      "options": [
+        "Agentes independientes con menor control global.",
+        "Información compartida en tiempo real.",
+        "Uso de software para sincronizar procesos.",
+        "Garantía de trazabilidad completa."
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la cadena tradicional los agentes actúan de forma independiente y existe menor control."
+    },
+    {
+      "question": "En la cadena compartida de suministro, ¿qué ocurre con la información?",
+      "options": [
+        "Se limita a proveedores.",
+        "Se transmite manualmente.",
+        "Se comparte por medios informáticos entre agentes.",
+        "Se restringe al área financiera."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cadena compartida utiliza medios informáticos para que todos los agentes dispongan de la información."
+    },
+    {
+      "question": "¿Qué caracteriza a la cadena de gestión de suministro?",
+      "options": [
+        "Flujo de información retrasado.",
+        "El proveedor conoce en tiempo real las necesidades de las empresas.",
+        "Ausencia de comunicación entre departamentos.",
+        "No interviene tecnología."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cadena de gestión permite que el proveedor disponga de información en tiempo real."
+    },
+    {
+      "question": "La cadena sincronizada de suministro asegura…",
+      "options": [
+        "Menores costes de transporte.",
+        "Trazabilidad completa gracias a la conexión de áreas.",
+        "La supresión de aprovisionamiento.",
+        "Estricto control financiero."
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la cadena sincronizada existe trazabilidad total porque las áreas comparten información."
+    },
+    {
+      "question": "Una función esencial de la logística es…",
+      "options": [
+        "Elaborar informes de auditoría externa.",
+        "Recepción de la mercancía, comprobando coincidencia y calidad.",
+        "Realizar campañas de captación de clientes.",
+        "Liquidar impuestos trimestrales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La logística se ocupa de la recepción de mercancías, asegurando calidad y cumplimiento."
+    },
+    {
+      "question": "La conservación como función logística implica…",
+      "options": [
+        "Garantizar condiciones adecuadas con el menor coste.",
+        "Elaborar estrategias de marketing.",
+        "Redactar informes financieros.",
+        "Diseñar planes de formación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conservación busca mantener el producto en condiciones adecuadas minimizando costes."
+    },
+    {
+      "question": "La gestión de existencias en logística permite…",
+      "options": [
+        "Elaborar balances contables.",
+        "Asegurar trazabilidad precisa del producto.",
+        "Ejecutar planes publicitarios.",
+        "Administrar nóminas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gestionar existencias correctamente garantiza trazabilidad precisa del producto."
+    },
+    {
+      "question": "¿Qué corresponde a la expedición de mercancías?",
+      "options": [
+        "Preparar la documentación y optimizar plazos de entrega.",
+        "Realizar nóminas.",
+        "Crear campañas de marketing.",
+        "Diseñar políticas de personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La expedición incluye preparar mercancías y documentos para salida, optimizando tiempos."
+    },
+    {
+      "question": "En un organigrama industrial, la logística se sitúa…",
+      "options": [
+        "Como parte central del marketing.",
+        "Relacionada con producción, aprovisionamiento y almacén.",
+        "En el área financiera.",
+        "Dentro de recursos humanos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la empresa industrial, la logística se vincula con producción, aprovisionamiento y almacén."
+    },
+    {
+      "question": "¿Qué efecto tiene el tiempo excesivo en almacén?",
+      "options": [
+        "Aumenta valor del producto.",
+        "Incrementa costes totales.",
+        "Reduce competitividad en marketing.",
+        "Mejora calidad."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El exceso de tiempo en almacén eleva costes sin aportar valor al producto."
+    },
+    {
+      "question": "Cuando la logística se contrata a una empresa externa, ¿qué sucede?",
+      "options": [
+        "Se elimina del organigrama interno.",
+        "Pasa a considerarse como staff.",
+        "Desaparece la función de aprovisionamiento.",
+        "Se integra en finanzas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La externalización convierte la logística en staff dentro del organigrama."
+    },
+    {
+      "question": "Ubicar mercancía recibida en el almacén corresponde a…",
+      "options": [
+        "Una función de conservación.",
+        "Recepción y almacenamiento.",
+        "Expansión comercial.",
+        "Recursos humanos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ubicar mercancía en almacén forma parte de la recepción y almacenamiento logístico."
+    },
+    {
+      "question": "Preparar documentación para el envío es función de…",
+      "options": [
+        "Finanzas.",
+        "Expedición de mercancías.",
+        "Marketing.",
+        "Recursos humanos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Esta actividad corresponde a la expedición de mercancías."
+    },
+    {
+      "question": "Realizar inventario corresponde a…",
+      "options": [
+        "Gestión de existencias.",
+        "Conservación.",
+        "Auditoría externa.",
+        "Marketing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El inventario es una actividad de gestión, organización y control de existencias."
+    },
+    {
+      "question": "¿Qué es el aprovisionamiento?",
+      "options": [
+        "Actividad de promoción comercial.",
+        "Conjunto de acciones para suministrar materias primas y mercancías a la empresa.",
+        "Proceso financiero de facturación.",
+        "Departamento de recursos humanos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprovisionamiento garantiza el suministro de materias primas o mercancías para la actividad empresarial."
+    },
+    {
+      "question": "Una decisión clave del aprovisionamiento es…",
+      "options": [
+        "Qué proveedores elegir equilibrando precio, calidad y entrega.",
+        "Diseñar un plan de marketing.",
+        "Elaborar estados contables.",
+        "Organizar formación interna."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una de las funciones clave del aprovisionamiento es seleccionar proveedores adecuados considerando precio, calidad y plazo."
+    },
+    {
+      "question": "El aprovisionamiento cumple funciones…",
+      "options": [
+        "Exclusivamente financieras.",
+        "Económicas y técnicas (como mantener stock óptimo).",
+        "Jurídicas y administrativas.",
+        "De marketing y publicidad."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Su papel es económico (minimizar costes) y técnico (asegurar stock suficiente y óptimo)."
+    },
+    {
+      "question": "Un objetivo del aprovisionamiento es…",
+      "options": [
+        "Garantizar stocks adecuados sin excesos ni roturas.",
+        "Reducir costes de personal.",
+        "Incrementar ventas publicitarias.",
+        "Elaborar informes de marketing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La gestión eficaz de existencias busca evitar excesos o roturas de stock."
+    },
+    {
+      "question": "¿Qué se busca al disminuir gasto en inventarios con software?",
+      "options": [
+        "Reducir tiempo de formación.",
+        "Contar con información histórica precisa.",
+        "Mejorar publicidad.",
+        "Elaborar nóminas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El software ayuda a optimizar inventarios mediante datos históricos."
+    },
+    {
+      "question": "El plan de aprovisionamiento se define como…",
+      "options": [
+        "Documento que planifica compras de la empresa para un periodo concreto.",
+        "Informe financiero de beneficios.",
+        "Estrategia de marketing.",
+        "Guía de formación del personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El plan de aprovisionamiento organiza las compras de todos los departamentos para un tiempo determinado."
+    },
+    {
+      "question": "Una característica del plan de aprovisionamiento es…",
+      "options": [
+        "Se elabora de forma aislada.",
+        "Surge anualmente para mejorar el anterior.",
+        "Se centra solo en marketing.",
+        "Es independiente de otros departamentos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plan surge cada año con el fin de mejorar el anterior y se realiza con participación de distintos departamentos."
+    },
+    {
+      "question": "¿Qué consecuencias tiene el exceso de stock?",
+      "options": [
+        "Incremento de costes y reducción de competitividad.",
+        "Mejora la calidad del producto.",
+        "Disminuye gastos de almacén.",
+        "Aumenta productividad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El exceso de stock eleva costes y reduce la competitividad."
+    },
+    {
+      "question": "Las etapas del plan de aprovisionamiento incluyen…",
+      "options": [
+        "Análisis inicial, desarrollo de contenido, aplicación, revisión y control.",
+        "Elaboración de balances contables.",
+        "Diseño de campañas publicitarias.",
+        "Formación en recursos humanos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El plan sigue etapas de análisis, desarrollo, aplicación y control."
+    },
+    {
+      "question": "El proceso de aprovisionamiento comienza con…",
+      "options": [
+        "Analizar necesidades de abastecimiento.",
+        "Elaborar nóminas.",
+        "Realizar campañas publicitarias.",
+        "Redactar balances financieros."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso inicia con el análisis de las necesidades de abastecimiento."
+    },
+    {
+      "question": "El proceso de aprovisionamiento incluye…",
+      "options": [
+        "Buscar proveedores, elegir, hacer pedidos y recepcionar mercancías.",
+        "Redactar estados financieros.",
+        "Diseñar publicidad digital.",
+        "Elaborar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre sus fases están la búsqueda de proveedores, selección, pedido y recepción."
+    },
+    {
+      "question": "El sistema MRP se refiere a…",
+      "options": [
+        "Materials Requirement Planning para planificar materiales y stocks.",
+        "Gestión de marketing digital.",
+        "Auditoría de recursos humanos.",
+        "Estrategia contable."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El MRP es un sistema de planificación de materiales y gestión de stocks."
+    },
+    {
+      "question": "Una función clave del MRP es…",
+      "options": [
+        "Determinar cuántos materiales necesita la empresa y cuándo.",
+        "Elaborar balances contables.",
+        "Crear campañas publicitarias.",
+        "Diseñar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El MRP informa sobre cuánto y cuándo aprovisionarse de materia prima."
+    },
+    {
+      "question": "Un ejemplo de planificación MRP es…",
+      "options": [
+        "Establecer lista de materiales necesarios.",
+        "Diseñar política de personal.",
+        "Elaborar nómina.",
+        "Redactar memoria anual."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una fase del MRP es elaborar la lista de materiales requeridos."
+    },
+    {
+      "question": "¿Qué software se puede utilizar en el MRP?",
+      "options": [
+        "SAP.",
+        "PowerPoint.",
+        "Photoshop.",
+        "AutoCAD."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El software SAP es un ejemplo de herramienta de planificación MRP."
+    },
+    {
+      "question": "El MRP se caracteriza por…",
+      "options": [
+        "Ser un sistema cíclico que se retroalimenta.",
+        "Aplicarse solo una vez.",
+        "Sustituir la contabilidad.",
+        "Suprimir procesos de compras."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El MRP funciona como cadena continua que se alimenta de la información generada."
+    },
+    {
+      "question": "Los flujos físicos en logística corresponden a…",
+      "options": [
+        "Movimientos de mercancías desde origen hasta puntos de venta.",
+        "Informes financieros.",
+        "Documentos legales.",
+        "Planes de marketing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los flujos físicos describen el transporte de mercancías."
+    },
+    {
+      "question": "Los flujos financieros en logística incluyen…",
+      "options": [
+        "Documentos de pago y costes asociados como transporte o aduanas.",
+        "Campañas publicitarias.",
+        "Inventarios de existencias.",
+        "Nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Comprenden documentos de pago y costes derivados de la cadena logística."
+    },
+    {
+      "question": "Los flujos de información en logística sirven para…",
+      "options": [
+        "Prever la demanda y cumplir plazos de entrega.",
+        "Diseñar campañas de marketing.",
+        "Elaborar balances contables.",
+        "Administrar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La información compartida entre agentes permite prever demanda y respetar entregas."
+    },
+    {
+      "question": "La relación entre logística y aprovisionamiento es que…",
+      "options": [
+        "Son conceptos distintos pero relacionados.",
+        "Son idénticos.",
+        "Uno sustituye al otro.",
+        "No tienen conexión."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambos conceptos están vinculados, aunque se diferencian en sus funciones específicas."
+    },
+    {
+      "question": "La idea principal de la logística es…",
+      "options": [
+        "Gestionar todo el proceso desde la adquisición de materias primas hasta el consumidor final.",
+        "Sustituir al marketing.",
+        "Elaborar estados financieros.",
+        "Organizar recursos humanos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La logística abarca la gestión de toda la cadena de suministro desde el origen hasta el cliente."
+    }
+  ]
+}

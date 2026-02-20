@@ -1,0 +1,445 @@
+{
+  "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 7: EL PROCESO DE APROVISIONAMIENTO",
+  "items": [
+    {
+      "question": "¿Cuál es la función principal del departamento de aprovisionamiento?",
+      "options": [
+        "Diseñar campañas de publicidad.",
+        "Conocer necesidades, predecir existencias y gestionar compras minimizando costes.",
+        "Redactar balances financieros.",
+        "Seleccionar y contratar personal."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprovisionamiento se encarga de conocer necesidades, prever existencias y gestionar compras minimizando costes."
+    },
+    {
+      "question": "¿Con qué departamento suele integrarse la función de aprovisionamiento en medianas y grandes empresas?",
+      "options": [
+        "Producción.",
+        "Comercial.",
+        "Recursos humanos.",
+        "Administración."
+      ],
+      "correctAnswer": 1,
+      "explanation": "En empresas de mayor tamaño, el aprovisionamiento suele formar parte del departamento comercial aunque con tareas distintas."
+    },
+    {
+      "question": "¿Qué tarea corresponde al departamento de producción?",
+      "options": [
+        "Solicitar materias primas necesarias con características específicas para la fabricación.",
+        "Redactar informes contables.",
+        "Diseñar campañas de marketing.",
+        "Gestionar las nóminas del personal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El departamento de producción define y solicita materias primas y sus características."
+    },
+    {
+      "question": "El departamento administrativo y financiero se ocupa de…",
+      "options": [
+        "La selección de personal.",
+        "La gestión económica y pagos de materias primas.",
+        "El control de almacén.",
+        "El diseño de publicidad."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Este departamento gestiona la documentación y pagos asociados a la compra de materias primas."
+    },
+    {
+      "question": "¿Cuál es la función del departamento de logística?",
+      "options": [
+        "Diseñar campañas.",
+        "Controlar y seguir productos desde adquisición hasta consumidor final.",
+        "Gestionar recursos humanos.",
+        "Redactar balances."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Logística controla y supervisa el flujo de productos desde la compra hasta la entrega al cliente final."
+    },
+    {
+      "question": "¿Qué criterio puede usarse para ubicar mercancía en el almacén?",
+      "options": [
+        "Volumen, rotación o valor económico.",
+        "Nombre del proveedor.",
+        "Número de empleados.",
+        "Estrategia publicitaria."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las empresas suelen ubicar mercancías atendiendo a volumen, rotación y valor económico."
+    },
+    {
+      "question": "¿Qué sistema informático se utiliza para la gestión de almacenes?",
+      "options": [
+        "ERP.",
+        "SGA.",
+        "CRM.",
+        "FactuSol."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Sistema de Gestión de Almacenes (SGA) controla el almacén y coordina procesos de ubicación y pedidos."
+    },
+    {
+      "question": "La tecnología RFID se utiliza para…",
+      "options": [
+        "Transmitir datos mediante ondas de radio y optimizar tareas logísticas.",
+        "Elaborar nóminas.",
+        "Diseñar organigramas.",
+        "Realizar campañas publicitarias."
+      ],
+      "correctAnswer": 0,
+      "explanation": "RFID transmite información por ondas de radio mejorando la comunicación y eficiencia en almacenes."
+    },
+    {
+      "question": "La orden de picking también se denomina…",
+      "options": [
+        "Nota de pedido.",
+        "Lista de extracción.",
+        "Nota de cargo.",
+        "Albarán."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La orden de picking es la lista de extracción usada para preparar pedidos."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la orden de picking?",
+      "options": [
+        "Permitir que pedidos lleguen a tiempo y sin errores al consumidor final.",
+        "Sustituir las facturas.",
+        "Diseñar campañas publicitarias.",
+        "Controlar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La orden de picking busca preparar pedidos correctamente para entregarlos puntualmente sin errores."
+    },
+    {
+      "question": "¿Qué información suele reflejar una orden de picking?",
+      "options": [
+        "Pasillo, sección, referencia y cantidad de productos.",
+        "Nóminas y balances.",
+        "Estrategia de marketing.",
+        "Datos de publicidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El documento incluye datos de ubicación y cantidad de productos para la preparación del pedido."
+    },
+    {
+      "question": "El batch picking consiste en…",
+      "options": [
+        "Preparar varios pedidos al mismo tiempo.",
+        "Emitir varias facturas.",
+        "Contratar personal en bloque.",
+        "Agrupar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El batch picking permite preparar varios pedidos en un mismo espacio de tiempo."
+    },
+    {
+      "question": "¿Qué ventaja ofrece el SGA en la orden de picking?",
+      "options": [
+        "Genera la orden automáticamente y la transmite por radiofrecuencia a empleados.",
+        "Sustituye el albarán.",
+        "Diseña campañas.",
+        "Redacta balances."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El SGA agiliza la preparación generando órdenes y enviándolas directamente a los empleados."
+    },
+    {
+      "question": "¿Qué documento surge tras acuerdo entre comprador y proveedor?",
+      "options": [
+        "Nota de pedido u orden de pedido.",
+        "Nota de cargo.",
+        "Albarán.",
+        "Factura."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una vez alcanzado el acuerdo se emite la nota de pedido detallando cantidad, precio y fecha de entrega."
+    },
+    {
+      "question": "¿Quién emite la carta de portes?",
+      "options": [
+        "La empresa de transporte.",
+        "El comprador.",
+        "El departamento de producción.",
+        "El departamento de marketing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La carta de portes es emitida por la empresa transportista como garantía de entrega."
+    },
+    {
+      "question": "La nota de recepción se utiliza para…",
+      "options": [
+        "Registrar mercancías que entran y verificar entregas.",
+        "Elaborar nóminas.",
+        "Diseñar campañas.",
+        "Emitir facturas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La nota de recepción registra la entrada de mercancías y controla que se cumplan plazos de entrega."
+    },
+    {
+      "question": "La nota de cargo también se denomina…",
+      "options": [
+        "Nota de débito.",
+        "Nota de pedido.",
+        "Albarán.",
+        "Orden de picking."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La nota de cargo o débito informa de un cargo adicional en el precio acordado."
+    },
+    {
+      "question": "El albarán acredita…",
+      "options": [
+        "La salida de mercancías del almacén y su entrega al comprador.",
+        "El cálculo de nóminas.",
+        "La estrategia de marketing.",
+        "Los balances financieros."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El albarán acompaña la mercancía enviada y certifica la entrega al cliente."
+    },
+    {
+      "question": "¿Cuántas copias del albarán se realizan normalmente?",
+      "options": [
+        "Tres copias: original y dos copias.",
+        "Una copia.",
+        "Cinco copias.",
+        "Ninguna."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se elaboran tres copias: original y dos copias, una para comprador y otra para vendedor."
+    },
+    {
+      "question": "¿Qué tipo de albarán incluye valoración económica?",
+      "options": [
+        "Albarán valorado.",
+        "Albarán sin valorar.",
+        "Nota de pedido.",
+        "Nota de recepción."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El albarán valorado incluye precios unitarios, totales e impuestos."
+    },
+    {
+      "question": "¿Cuándo es obligatorio emitir factura?",
+      "options": [
+        "En operaciones con empresarios, exportaciones, entregas intracomunitarias, ventas a la Administración o bienes con impuestos especiales.",
+        "Solo en ventas al consumidor final.",
+        "Solo cuando lo exige el cliente.",
+        "Nunca es obligatorio."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Real Decreto 1619/2012 regula la obligatoriedad de emitir factura en esos casos."
+    },
+    {
+      "question": "¿Cuánto tiempo debe conservarse una copia de factura?",
+      "options": [
+        "Al menos seis años.",
+        "Dos años.",
+        "Un año.",
+        "Diez años."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La empresa vendedora debe conservar la factura un mínimo de seis años."
+    },
+    {
+      "question": "Una factura simplificada puede emitirse cuando…",
+      "options": [
+        "El importe no supere los 400 € IVA incluido o como rectificativa.",
+        "El importe supere los 400 €.",
+        "Sea una exportación intracomunitaria.",
+        "Se trate de una compraventa con Administración Pública."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La factura simplificada se admite en operaciones inferiores a 400 € o rectificativas."
+    },
+    {
+      "question": "¿Qué tipo de factura agrupa varias operaciones en un periodo?",
+      "options": [
+        "Factura recapitulativa.",
+        "Factura simplificada.",
+        "Factura electrónica.",
+        "Factura rectificativa."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La recapitulativa concentra varias operaciones con un mismo cliente en un periodo."
+    },
+    {
+      "question": "¿Qué tipo de factura corrige errores de la original?",
+      "options": [
+        "Factura rectificativa.",
+        "Factura recapitulativa.",
+        "Factura proforma.",
+        "Factura electrónica."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La rectificativa corrige errores o devuelve mercancía en caso necesario."
+    },
+    {
+      "question": "¿Qué tipo de factura es similar a un presupuesto?",
+      "options": [
+        "Factura proforma.",
+        "Factura recapitulativa.",
+        "Factura rectificativa.",
+        "Factura electrónica."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La proforma es un documento previo, similar a presupuesto, usado en comercio internacional."
+    },
+    {
+      "question": "La factura electrónica debe cumplir…",
+      "options": [
+        "Estar firmada electrónicamente o con medio admitido y acuerdo previo entre partes.",
+        "No tener firma ni requisitos legales.",
+        "Solo emitirse en exportaciones.",
+        "Sustituir al albarán."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La factura electrónica es válida con firma electrónica o medio admitido y acuerdo comprador-vendedor."
+    },
+    {
+      "question": "¿Qué programa informático se utiliza en este tema para gestión y facturación?",
+      "options": [
+        "FactuSol.",
+        "ContaSol.",
+        "Excel.",
+        "SAP."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema se centra en FactuSol, herramienta gratuita de gestión y facturación."
+    },
+    {
+      "question": "¿Qué opción de FactuSol permite gestionar ventas y clientes?",
+      "options": [
+        "Pestaña ventas.",
+        "Pestaña compras.",
+        "Pestaña almacén.",
+        "Pestaña informes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La pestaña ventas reúne opciones para la relación comercial con clientes."
+    },
+    {
+      "question": "La pestaña compras de FactuSol sirve para…",
+      "options": [
+        "Gestionar relación con proveedores y compras.",
+        "Redactar balances.",
+        "Diseñar campañas.",
+        "Gestionar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Compras gestiona adquisición y relación con proveedores."
+    },
+    {
+      "question": "¿Qué función tiene la pestaña almacén de FactuSol?",
+      "options": [
+        "Controlar y gestionar existencias.",
+        "Elaborar balances financieros.",
+        "Diseñar publicidad.",
+        "Organizar recursos humanos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El apartado almacén sirve para gestionar y controlar inventario y existencias."
+    },
+    {
+      "question": "La pestaña administración de FactuSol se ocupa de…",
+      "options": [
+        "Documentos administrativos y su gestión.",
+        "Nóminas del personal.",
+        "Estrategias publicitarias.",
+        "Planes de producción."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Administración gestiona documentos administrativos en la empresa."
+    },
+    {
+      "question": "La pestaña informes de FactuSol permite…",
+      "options": [
+        "Extraer listados de compras, ventas, facturas y pedidos.",
+        "Redactar balances contables.",
+        "Elaborar nóminas.",
+        "Crear organigramas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Informes genera listados útiles de operaciones de la empresa."
+    },
+    {
+      "question": "La pestaña utilidades de FactuSol ofrece…",
+      "options": [
+        "Herramientas adicionales y conexión con ContaSol.",
+        "Nóminas.",
+        "Estrategias de marketing.",
+        "Publicidad."
+      ],
+      "correctAnswer": 0,
+      "explanation": "En utilidades se hallan herramientas complementarias y conexión con otros programas."
+    },
+    {
+      "question": "Un albarán sin valorar incluye…",
+      "options": [
+        "Identificación de mercancía sin valoración económica.",
+        "Valor unitario y total.",
+        "IVA y precios.",
+        "Descuentos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El albarán sin valorar refleja la mercancía enviada sin detallar valores económicos."
+    },
+    {
+      "question": "¿Qué documento interno evita roturas de stock?",
+      "options": [
+        "Nota de recepción o registro de entrada.",
+        "Nota de pedido.",
+        "Factura proforma.",
+        "Carta de portes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La nota de recepción registra mercancías que entran y asegura cumplimiento de fechas evitando roturas."
+    },
+    {
+      "question": "El EDI (Electronic Data Interchange) sirve para…",
+      "options": [
+        "Enviar y recibir información comercial entre empresas o departamentos.",
+        "Emitir albaranes.",
+        "Redactar balances.",
+        "Elaborar nóminas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El EDI gestiona electrónicamente la información comercial dentro o entre empresas."
+    },
+    {
+      "question": "¿Qué documento sirve como justificante legal en compraventas?",
+      "options": [
+        "Factura.",
+        "Nota de pedido.",
+        "Nota de cargo.",
+        "Albarán."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La factura es el justificante legal regulado en el RD 1619/2012."
+    },
+    {
+      "question": "El programa FactuSol puede…",
+      "options": [
+        "Crear y gestionar varias empresas y usuarios.",
+        "Elaborar balances externos.",
+        "Redactar campañas.",
+        "Diseñar organigramas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "FactuSol permite gestionar múltiples empresas y usuarios con la misma herramienta."
+    },
+    {
+      "question": "La idea principal del tema 7 es…",
+      "options": [
+        "Profundizar en el proceso de aprovisionamiento, documentos asociados y uso de FactuSol.",
+        "Estudiar únicamente estrategias publicitarias.",
+        "Elaborar balances financieros.",
+        "Diseñar organigramas."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tema 7 explica el aprovisionamiento, relación con departamentos, sistemas, documentos y FactuSol."
+    }
+  ]
+}
