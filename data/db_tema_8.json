@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 8: INCIDENCIAS EN LA RECEPCIÓN DE MERCANCÍAS Y EN ALMACENAJE",
   "items": [
     {
-      "question": "¿Qué aspecto es tan importante como la elección del proveedor?",
+      "question": "¿De qué depende la gestión y control del stock en una empresa?",
       "options": [
-        "Diseñar campañas publicitarias.",
-        "Comprobar que la mercancía recibida se adecúa a las necesidades de la empresa.",
-        "Redactar balances financieros.",
-        "Seleccionar personal de almacén."
+        "Solo del tamaño de la empresa",
+        "Solo de la legislación vigente",
+        "Exclusivamente del presupuesto disponible",
+        "Del tipo de productos que se comercialice, la zona geográfica, el tamaño de la empresa, entre otros factores"
       ],
-      "correctAnswer": 1,
-      "explanation": "Además de elegir un proveedor adecuado, es fundamental verificar que la mercancía recibida cumpla con las necesidades de la empresa."
+      "correctAnswer": 3,
+      "explanation": "La gestión y control del stock depende del tipo de productos, la zona geográfica, el tamaño de la empresa, etc. Fundamento: Métodos de control del stock, pág. 4."
     },
     {
-      "question": "¿Cuál es el método más frecuente para controlar las existencias en almacén?",
+      "question": "¿Cuál es el método más frecuente para controlar las existencias?",
       "options": [
-        "Elaboración de balances contables.",
-        "Fichas de artículos junto con el albarán.",
-        "Encuestas a clientes.",
-        "Nóminas del personal de almacén."
-      ],
-      "correctAnswer": 1,
-      "explanation": "El control de existencias suele hacerse mediante fichas de artículos, verificadas con el albarán."
-    },
-    {
-      "question": "¿Qué sistema se emplea actualmente en la mayoría de almacenes automatizados?",
-      "options": [
-        "ERP.",
-        "CRM.",
-        "SGA (Sistema de Gestión de Almacén).",
-        "Excel."
-      ],
-      "correctAnswer": 2,
-      "explanation": "Los almacenes modernos funcionan gracias a sistemas SGA que coordinan ubicación y control de mercancías."
-    },
-    {
-      "question": "El sistema ABC se utiliza para…",
-      "options": [
-        "Clasificar mercancías en función de su importancia o valor.",
-        "Diseñar balances contables.",
-        "Contratar personal de almacén.",
-        "Elaborar campañas publicitarias."
+        "Mediante fichas de artículos, que sirven para comprobar junto con el albarán que la mercancía recibida es la correcta",
+        "Las encuestas a clientes",
+        "Solo mediante inventarios anuales obligatorios",
+        "Exclusivamente a través de análisis financieros trimestrales"
       ],
       "correctAnswer": 0,
-      "explanation": "El sistema ABC clasifica mercancías según criterios de importancia o valor económico."
-    },
-    {
-      "question": "¿Qué método de valoración se menciona junto al PMP?",
-      "options": [
-        "FIFO (First in, First out).",
-        "LIFO.",
-        "Precio estándar.",
-        "Valor residual."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Los criterios de valoración de existencias incluyen PMP y FIFO."
+      "explanation": "El método más frecuente es mediante fichas de artículos, que sirven para comprobar junto con el albarán que la mercancía que se recibe es la correcta. Fundamento: Métodos de control del stock, pág. 4."
     },
     {
       "question": "¿Qué es un inventario?",
       "options": [
-        "Documento que detalla, categoriza y valora todas las existencias de la empresa en un periodo de tiempo.",
-        "Balance financiero de final de año.",
-        "Relación de clientes satisfechos.",
-        "Nómina de personal."
+        "Un contrato de suministro con proveedores",
+        "Un documento en el que se indica de manera detallada, se categoriza y valora el total de existencias en un periodo de tiempo",
+        "Una lista de precios actualizada de los productos",
+        "Un registro de ventas realizadas durante el año"
       ],
-      "correctAnswer": 0,
-      "explanation": "El inventario detalla y valora el total de existencias, aportando información esencial para la empresa."
+      "correctAnswer": 1,
+      "explanation": "El inventario es un documento en el que se indica de manera detallada, se categoriza y valora el total de existencias que existen en la empresa en un periodo de tiempo. Fundamento: El inventario, pág. 4."
     },
     {
-      "question": "Uno de los objetivos principales del inventario es…",
+      "question": "¿Cuál es uno de los objetivos principales de los inventarios?",
       "options": [
-        "Conocer el lugar y estado de las existencias.",
-        "Diseñar publicidad.",
-        "Redactar nóminas.",
-        "Elaborar balances financieros."
+        "Poder comparar y comprobar que la mercancía en almacén corresponde con la registrada en los documentos",
+        "Calcular el beneficio neto de la empresa año a año",
+        "Diseñar las campañas publicitarias de productos",
+        "Evaluar el rendimiento de los empleados del almacén"
       ],
       "correctAnswer": 0,
-      "explanation": "El inventario permite conocer ubicación, estado y valoración de existencias."
+      "explanation": "Uno de los objetivos es comparar y comprobar que la mercancía en almacén y la que se recibe corresponde con la registrada en los distintos documentos. Fundamento: El inventario, pág. 4."
     },
     {
-      "question": "¿Cuál de los siguientes NO es un sistema de codificación de inventario?",
+      "question": "¿Cuándo se produce una rotura de stocks?",
       "options": [
-        "Código de barras estándar.",
-        "Código de barras bidimensional.",
-        "Etiqueta RFID.",
-        "Firma electrónica."
+        "Cuando se rompe algún producto durante el transporte",
+        "Cuando el almacén tiene exceso de mercancía",
+        "Cuando una empresa no puede hacer frente a la demanda debido a que carece de mercancías",
+        "Cuando el proveedor sube los precios sin previo aviso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se produce rotura de stocks cuando una empresa no puede hacer frente a la demanda debido a que carece de mercancías. Fundamento: La rotura de stocks, pág. 5."
+    },
+    {
+      "question": "¿Qué son los costes de posesión de stock?",
+      "options": [
+        "Los beneficios obtenidos por la venta de mercancías",
+        "Los impuestos que paga la empresa por tener almacén propio",
+        "Los costes que una empresa debe asumir para conservar un nivel concreto de stocks",
+        "Los gastos de marketing de los productos almacenados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los costes de posesión de stock son aquellos que la empresa debe asumir para conservar un nivel concreto de stocks. Fundamento: La rotura de stocks, pág. 5."
+    },
+    {
+      "question": "¿Qué es la demanda insatisfecha diferida?",
+      "options": [
+        "La demanda de productos que el cliente ya no necesita",
+        "El retraso en la entrega de un pedido por no disponer de existencias suficientes",
+        "La pérdida definitiva de la relación con un cliente",
+        "La solicitud de productos que no fabrica la empresa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La demanda insatisfecha diferida es el retraso en la entrega de un pedido por no disponer de existencias suficientes. Fundamento: La rotura de stocks, pág. 5."
+    },
+    {
+      "question": "¿Qué es la demanda insatisfecha perdida?",
+      "options": [
+        "Cuando se pierde mercancía durante el transporte",
+        "Cuando la demanda del producto cae por cambios de tendencia",
+        "Cuando el proveedor deja de fabricar un producto específico",
+        "El momento en que se pierde la relación con un cliente por no poder atender la demanda"
       ],
       "correctAnswer": 3,
-      "explanation": "Los sistemas de codificación incluyen códigos de barras y etiquetas RFID, no firmas electrónicas."
+      "explanation": "La demanda insatisfecha perdida se produce cuando se pierde la relación con un cliente por no poder atender la demanda. Fundamento: La rotura de stocks, pág. 5."
     },
     {
-      "question": "¿Qué es la rotura de stock?",
+      "question": "¿Qué información aporta el índice de cobertura?",
       "options": [
-        "Situación en la que la empresa no puede atender la demanda por falta de mercancías.",
-        "Exceso de mercancías almacenadas.",
-        "Ventas superiores a la media.",
-        "Descuentos por compras."
+        "El porcentaje de artículos que no se pueden vender",
+        "El número de veces que un producto es repuesto en el almacén",
+        "Cuánto tiempo las existencias podrán hacer frente a la demanda prevista",
+        "El beneficio obtenido por cada producto vendido"
       ],
-      "correctAnswer": 0,
-      "explanation": "La rotura de stock ocurre cuando no se puede atender la demanda por falta de existencias."
+      "correctAnswer": 2,
+      "explanation": "El índice de cobertura aporta información sobre cuánto tiempo las existencias que hay en la empresa podrán hacer frente a la demanda prevista. Fundamento: La rotura de stocks, pág. 5."
     },
     {
-      "question": "¿Qué tipo de coste corresponde a la posesión de stock?",
+      "question": "¿Qué indica el índice de rotura?",
       "options": [
-        "Seguros de mercancías y maquinaria.",
-        "Nóminas de personal de oficina.",
-        "Campañas de publicidad.",
-        "Honorarios de dirección."
+        "Informa sobre el porcentaje de artículos que no se pueden vender por falta de existencia durante un periodo de tiempo",
+        "El número de productos dañados en el almacén",
+        "La cantidad de proveedores que incumplen los plazos",
+        "El porcentaje de clientes insatisfechos con el servicio"
       ],
       "correctAnswer": 0,
-      "explanation": "Los costes de posesión incluyen seguros, instalaciones, personal y maquinaria de almacén."
+      "explanation": "El índice de rotura informa sobre el porcentaje de artículos que no se pueden vender por falta de existencia durante un periodo de tiempo. Fundamento: La rotura de stocks, pág. 5."
     },
     {
-      "question": "¿Qué índice informa del tiempo que las existencias podrán cubrir la demanda prevista?",
+      "question": "¿Cómo se define el índice de rotación del stock?",
       "options": [
-        "Índice de cobertura.",
-        "Índice de rotura.",
-        "Índice de rotación.",
-        "Índice de calidad."
+        "Como el número de empleados que trabajan en el almacén",
+        "Como la cantidad de devoluciones realizadas en un año",
+        "Como el coste total de mantenimiento del almacén",
+        "Como el número de veces que un producto es repuesto en el almacén, recuperándose la inversión más el margen de beneficio"
       ],
-      "correctAnswer": 0,
-      "explanation": "El índice de cobertura indica cuántos días las existencias actuales podrán satisfacer la demanda."
+      "correctAnswer": 3,
+      "explanation": "El índice de rotación es el número de veces que un producto es repuesto en el almacén, recuperando la inversión más el margen de beneficio en un determinado espacio de tiempo. Fundamento: Índice de rotación, pág. 6."
     },
     {
-      "question": "¿Qué significa demanda insatisfecha diferida?",
+      "question": "¿Qué significa un índice de rotación bajo?",
       "options": [
-        "Retraso en la entrega de un pedido por falta de stock.",
-        "Pérdida definitiva del cliente.",
-        "Exceso de inventario.",
-        "Recepción de mercancía en mal estado."
+        "Que los artículos tienen mucho movimiento",
+        "Que los precios de los productos son muy competitivos",
+        "Que la empresa es muy eficiente en su gestión",
+        "Que la empresa no ha recuperado muchas veces la inversión realizada y los artículos pueden ser obsoletos a medio plazo"
       ],
-      "correctAnswer": 0,
-      "explanation": "La demanda insatisfecha diferida es el retraso en la entrega por falta de existencias."
+      "correctAnswer": 3,
+      "explanation": "Un índice bajo significa que la empresa no ha recuperado muchas veces la inversión realizada, pudiendo existir pérdidas y artículos obsoletos a medio plazo. Fundamento: Índice de rotación, pág. 6."
     },
     {
-      "question": "¿Qué mide el índice de rotación de stock?",
+      "question": "¿Qué objetivo tienen las empresas respecto al índice de rotación?",
       "options": [
-        "Número de veces que un producto se repone en un periodo determinado.",
-        "Cantidad de errores en pedidos.",
-        "Nivel de satisfacción de clientes.",
-        "Valor del inmovilizado de almacén."
+        "Aumentar el índice de rotación pero sin que se vea afectado el margen comercial",
+        "Mantenerlo siempre constante sin variaciones",
+        "Reducir el índice de rotación al mínimo posible",
+        "Ignorar este índice porque no influye en la rentabilidad"
       ],
       "correctAnswer": 0,
-      "explanation": "El índice de rotación mide cuántas veces se repone un producto en un periodo concreto."
-    },
-    {
-      "question": "¿Qué ocurre si el índice de rotación es bajo?",
-      "options": [
-        "El producto se vuelve obsoleto y puede generar pérdidas.",
-        "La empresa gana más margen comercial.",
-        "Los artículos se reponen con mayor frecuencia.",
-        "Se incrementa la satisfacción del cliente."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Un índice bajo implica baja rotación, riesgo de obsolescencia y posibles pérdidas."
+      "explanation": "El objetivo de las empresas es aumentar el índice de rotación, pero sin que se vea afectado el margen comercial. Fundamento: Índice de rotación, pág. 6."
     },
     {
       "question": "¿Qué tipo de inventario se realiza al inicio de un ejercicio económico?",
       "options": [
-        "Inventario inicial.",
-        "Inventario anual.",
-        "Inventario circunstancial.",
-        "Inventario constante."
+        "Inventario circunstancial",
+        "Inventario constante",
+        "Inventario al inicio",
+        "Inventario extracontable"
       ],
-      "correctAnswer": 0,
-      "explanation": "El inventario inicial corresponde al que se hace al comienzo del ejercicio económico."
+      "correctAnswer": 2,
+      "explanation": "El inventario al inicio hace referencia al inventario que se realiza al inicio de un ejercicio económico. Fundamento: Tipos de inventarios, pág. 6."
     },
     {
-      "question": "¿Qué inventario se centra en unidades físicas sin valorar económicamente?",
+      "question": "¿Qué caracteriza a un inventario extracontable?",
       "options": [
-        "Inventario extracontable.",
-        "Inventario contable.",
-        "Inventario anual.",
-        "Inventario inicial."
+        "Se centra exclusivamente en el valor monetario de las existencias",
+        "Debe realizarse según marca la normativa del PGC",
+        "Solo se realiza al final del ejercicio económico",
+        "Centra la atención en el número de unidades físicas del almacén sin dar tanta importancia a la valoración económica"
       ],
-      "correctAnswer": 0,
-      "explanation": "El extracontable se centra en unidades físicas y no en el valor económico."
+      "correctAnswer": 3,
+      "explanation": "Los inventarios extracontables centran la atención en el número de unidades físicas del almacén, sin dar tanta importancia a la valoración económica. Fundamento: Tipos de inventarios, pág. 6."
     },
     {
-      "question": "¿Cuál es el objetivo del inventario constante?",
+      "question": "¿Qué es un inventario constante?",
       "options": [
-        "Proporcionar información diaria y actualizada a través de fichas de almacén.",
-        "Realizarlo solo al final del ejercicio.",
-        "Elaborarlo en circunstancias excepcionales.",
-        "Identificar exclusivamente productos terminados."
+        "Se realiza solo al cierre del ejercicio económico",
+        "Se realiza una vez cada cinco años",
+        "Se realiza de manera diaria a través de las fichas de almacén y aporta información actualizada",
+        "Solo se realiza cuando hay una circunstancia especial"
       ],
-      "correctAnswer": 0,
-      "explanation": "El inventario constante se realiza de forma diaria mediante fichas de almacén."
+      "correctAnswer": 2,
+      "explanation": "El inventario constante se realiza de manera diaria a través de las fichas de almacén y aporta información actualizada. Fundamento: Tipos de inventarios, pág. 6."
     },
     {
-      "question": "¿Qué indicador mide el porcentaje de pedidos entregados en el momento acordado?",
+      "question": "¿A qué norma deben adecuarse los ratios de control en la gestión de compras?",
       "options": [
-        "Pedidos a tiempo.",
-        "Pedidos completos.",
-        "Pedidos con errores.",
-        "Pedidos devueltos."
+        "A la norma ISO 9001 de gestión de calidad",
+        "A la norma UNE de calidad alimentaria",
+        "A la norma ISO 14001 de medio ambiente",
+        "A la norma ISO 27001 de seguridad informática"
       ],
       "correctAnswer": 0,
-      "explanation": "Los pedidos a tiempo muestran el porcentaje entregado en la fecha pactada."
+      "explanation": "En la gestión de compras, los ratios de control que se utilizan deben adecuarse a la norma ISO 9001. Fundamento: Ratios de control, pág. 7."
     },
     {
-      "question": "¿Qué indicador mide el porcentaje de pedidos recibidos con errores?",
+      "question": "¿Qué información aporta el ratio de pedidos completos?",
       "options": [
-        "Pedidos con errores.",
-        "Pedidos devueltos.",
-        "Pedidos a tiempo.",
-        "Pedidos no atendidos."
+        "Information sobre los pedidos recibidos de manera completa (todas las unidades) en relación al número de pedidos totales",
+        "El tiempo medio de entrega de los pedidos",
+        "El número de proveedores que atienden los pedidos",
+        "El porcentaje de pedidos devueltos por el comprador"
       ],
       "correctAnswer": 0,
-      "explanation": "El indicador \"pedidos con errores\" señala los recibidos con algún fallo."
+      "explanation": "El ratio de pedidos completos aporta información sobre los pedidos recibidos de manera completa en relación al número de pedidos totales. Fundamento: Ratios de control, pág. 7."
     },
     {
-      "question": "¿Cuál es el objetivo de los indicadores de calidad en compras?",
+      "question": "¿Qué mide el ratio de pedidos a tiempo?",
       "options": [
-        "Analizar causas de incidencias y establecer medidas correctivas.",
-        "Aumentar el gasto publicitario.",
-        "Reducir personal de almacén.",
-        "Elaborar balances financieros."
+        "El número de proveedores con los que se trabaja",
+        "El coste medio de cada pedido realizado",
+        "La cantidad total de mercancía almacenada",
+        "El porcentaje de pedidos entregados en el momento acordado frente al número de pedidos totales"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los indicadores ayudan a identificar problemas y aplicar medidas correctivas."
+      "correctAnswer": 3,
+      "explanation": "El ratio de pedidos a tiempo aporta información sobre el porcentaje de pedidos entregados en el momento acordado frente al número de pedidos totales. Fundamento: Ratios de control, pág. 7."
     },
     {
-      "question": "¿Qué norma regula los sistemas de gestión de calidad aplicables a proveedores?",
+      "question": "¿Qué mide el índice de proveedores con certificados de calidad?",
       "options": [
-        "ISO 9001.",
-        "ISO 14001.",
-        "ISO 45001.",
-        "ISO 50001."
+        "El coste de obtener la certificación ISO",
+        "El porcentaje de proveedores con certificado de calidad respecto al número total de proveedores",
+        "El número de auditorías realizadas a proveedores",
+        "La calidad media de los productos recibidos"
       ],
-      "correctAnswer": 0,
-      "explanation": "La ISO 9001 regula los sistemas de gestión de calidad y control de proveedores."
+      "correctAnswer": 1,
+      "explanation": "El índice de proveedores con certificados de calidad mide el porcentaje de proveedores certificados respecto al total de proveedores. Fundamento: Indicadores de calidad, pág. 8."
     },
     {
-      "question": "¿Qué indicador mide la rapidez con la que un proveedor responde a una solicitud?",
+      "question": "¿Qué mide el índice de plazo de respuesta?",
       "options": [
-        "Índice de plazo de respuesta.",
-        "Índice de adaptación.",
-        "Índice de ajuste de precio.",
-        "Índice de calidad."
+        "El tiempo que tarda el cliente en pagar la factura",
+        "El grado de reacción de respuesta que tiene un proveedor ante la solicitud de información por parte del cliente",
+        "El plazo de entrega de la mercancía al consumidor final",
+        "El tiempo que tarda el proveedor en fabricar el producto"
       ],
-      "correctAnswer": 0,
-      "explanation": "El índice de plazo de respuesta mide los días en que un proveedor atiende una solicitud."
+      "correctAnswer": 1,
+      "explanation": "El índice de plazo de respuesta mide el grado de reacción de respuesta del proveedor ante la solicitud de información por parte del cliente. Fundamento: Indicadores de calidad, pág. 8."
     },
     {
-      "question": "¿Qué indicador mide el grado de adaptación de un proveedor a modificaciones solicitadas?",
+      "question": "¿Qué mide el índice de ajuste del precio?",
       "options": [
-        "Índice de adaptación.",
-        "Índice de calidad.",
-        "Índice de cobertura.",
-        "Índice de rotación."
+        "La diferencia entre el coste de producción y el precio de venta",
+        "El descuento medio que ofrece el proveedor",
+        "La relación entre el precio que marca el mercado y el que propone la empresa proveedora",
+        "La inflación aplicada a los productos del almacén"
       ],
-      "correctAnswer": 0,
-      "explanation": "Este indicador mide cuántas modificaciones solicitadas fueron aceptadas por el proveedor."
+      "correctAnswer": 2,
+      "explanation": "El índice de ajuste del precio mide la relación entre el precio que marca en un momento dado el mercado y el que propone la empresa proveedora. Fundamento: Indicadores de calidad, pág. 8."
     },
     {
-      "question": "¿Qué indicador compara el precio del proveedor con el del mercado?",
+      "question": "¿Cuándo se produce una incidencia en el proceso de aprovisionamiento?",
       "options": [
-        "Índice de ajuste del precio.",
-        "Índice de adaptación.",
-        "Índice de cobertura.",
-        "Índice de rotura."
+        "Solo cuando se pierde la totalidad de la mercancía",
+        "Solo cuando el precio final es superior al presupuestado",
+        "Únicamente cuando el proveedor cierra su negocio",
+        "Cuando algo no ocurre como estaba establecido en el proceso"
       ],
-      "correctAnswer": 0,
-      "explanation": "El índice de ajuste del precio compara la oferta del proveedor con los precios del mercado."
+      "correctAnswer": 3,
+      "explanation": "Se produce una incidencia cuando algo no ocurre como estaba establecido. Deben ser informadas y registradas desde el momento de su conocimiento. Fundamento: Incidencias y medidas, pág. 9."
     },
     {
-      "question": "¿Qué valor de pedidos con errores indica baja calidad?",
+      "question": "¿Cómo se valoran las incidencias?",
       "options": [
-        "Superior al 10%.",
-        "Superior al 1%.",
-        "Igual al 0%.",
-        "Menor al 5%."
+        "Desde leves (1) a inaceptables (5), rompiéndose las relaciones con el proveedor si se asigna valor 5",
+        "De un mínimo de 10 a un máximo de 100",
+        "Solo como graves o leves, sin escalas",
+        "No existe un sistema de valoración establecido"
       ],
       "correctAnswer": 0,
-      "explanation": "Si el porcentaje de pedidos con errores supera el 10%, la calidad no es considerada adecuada."
+      "explanation": "Las incidencias se valoran desde leves (1) a inaceptables (5). Si se asigna valor 5, se rompen las relaciones con el proveedor. Fundamento: Incidencias y medidas, pág. 9."
     },
     {
-      "question": "¿Qué indicador mide los pedidos rechazados por el proveedor?",
+      "question": "¿Qué establece la norma ISO 9001 respecto a los informes de evaluación de proveedores?",
       "options": [
-        "Pedidos no atendidos.",
-        "Pedidos devueltos.",
-        "Pedidos con errores.",
-        "Pedidos a tiempo."
+        "Que solo las empresas grandes deben evaluar proveedores",
+        "Que la empresa debe comprobar que el producto recibido se adecua a las condiciones acordadas y evaluar la relación con proveedores",
+        "Que los informes son opcionales y no influyen en la certificación",
+        "Que solo deben evaluarse proveedores internacionales"
       ],
-      "correctAnswer": 0,
-      "explanation": "El indicador \"pedidos no atendidos\" refleja los pedidos rechazados por el proveedor."
+      "correctAnswer": 1,
+      "explanation": "La norma ISO 9001 establece que la empresa debe comprobar que el producto se adecua a lo acordado y seleccionar, evaluar y reevaluar la relación con proveedores. Fundamento: Informes de evaluación, pág. 10."
     },
     {
-      "question": "¿Qué documento se elabora para evaluar a proveedores de acuerdo con ISO 9001?",
+      "question": "¿En qué consiste el método de factores ponderados para evaluar proveedores?",
       "options": [
-        "Informes de evaluación de proveedores.",
-        "Factura proforma.",
-        "Certificado de origen.",
-        "Nota de pedido."
+        "En elegir al proveedor que ofrezca el precio más bajo sin otros criterios",
+        "En especificar qué aspectos inciden en el suministro, asignarles una ponderación según su relevancia y valorarlos para obtener conclusiones",
+        "En seleccionar proveedores por orden alfabético",
+        "En comprar a todos los proveedores disponibles por igual"
       ],
-      "correctAnswer": 0,
-      "explanation": "ISO 9001 establece la necesidad de elaborar informes de evaluación de proveedores."
+      "correctAnswer": 1,
+      "explanation": "El método de factores ponderados especifica qué aspectos inciden en el suministro, les asigna una ponderación según su relevancia y, tras valorarlos, se obtienen conclusiones. Fundamento: Informes de evaluación, pág. 10."
     },
     {
-      "question": "¿Cuál es la primera etapa del método de factores ponderados?",
+      "question": "¿Cuáles son las etapas del método de factores ponderados?",
       "options": [
-        "Elección de criterios a evaluar.",
-        "Valoración de resultados.",
-        "Medición de indicadores.",
-        "Asignación de valor."
+        "Elección de criterios, asignación de valor, medición, valoración y resultados",
+        "Diseño, producción y distribución",
+        "Investigación, selección y contratación",
+        "Análisis, planificación, ejecución y control"
       ],
       "correctAnswer": 0,
-      "explanation": "La primera etapa del método es la elección de criterios relevantes para la empresa."
+      "explanation": "Las cinco etapas son: elección de criterios, asignación de valor, medición, valoración y resultados. Fundamento: Informes de evaluación, pág. 10-11."
     },
     {
-      "question": "¿Qué etapa consiste en asignar importancia a cada indicador?",
+      "question": "¿Qué función cumple el stock desde el punto de vista comercial?",
       "options": [
-        "Asignación de valor.",
-        "Valoración.",
-        "Resultados.",
-        "Medición."
+        "Permite aumentar los precios de venta al consumidor",
+        "Llevando una correcta previsión de demanda se cumplen los plazos de entrega, facilitando una relación comercial eficiente y prolongada",
+        "Elimina la necesidad de negociar con proveedores",
+        "Solo sirve para almacenar productos descatalogados"
       ],
-      "correctAnswer": 0,
-      "explanation": "La segunda etapa del método es asignar un valor ponderado a cada indicador."
+      "correctAnswer": 1,
+      "explanation": "La función comercial del stock es que, llevando una correcta previsión de la demanda, es posible cumplir con los plazos de entrega a clientes, facilitando una relación comercial eficiente. Fundamento: Resolución caso práctico, pág. 12."
     },
     {
-      "question": "¿Qué etapa se basa en calcular cómo incide cada indicador en el suministro?",
+      "question": "¿Qué son las economías de escala en relación con la función financiera del stock?",
       "options": [
-        "Medición.",
-        "Valoración.",
-        "Resultados.",
-        "Elección de criterios."
+        "La eliminación de intermediarios en la cadena de suministro",
+        "La reducción de empleados para ahorrar costes salariales",
+        "La compra en mayor cantidad por parte del comprador para beneficiarse de posibles descuentos",
+        "La inversión en tecnología para automatizar el almacén"
       ],
-      "correctAnswer": 0,
-      "explanation": "La medición consiste en calcular el impacto de cada indicador en el proceso de suministro."
+      "correctAnswer": 2,
+      "explanation": "Las economías de escala se producen cuando la empresa adquiere mayor cantidad para beneficiarse de posibles descuentos. Fundamento: Resolución caso práctico, pág. 12."
+    },
+    {
+      "question": "¿Qué hacen algunas empresas para enmascarar problemas de ineficiencia en el almacén?",
+      "options": [
+        "Reducen drásticamente su inventario",
+        "Cambian de proveedor constantemente",
+        "Adquieren y almacenan una cantidad de stock excesiva, evitando roturas pero sin resolver otros problemas",
+        "Automatizan completamente el almacén"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En numerosas ocasiones las empresas adquieren y almacenan stock excesivo para enmascarar problemas de ineficiencia; no se producen roturas pero continúan existiendo otros problemas. Fundamento: La rotura de stocks, pág. 5."
     }
   ]
 }

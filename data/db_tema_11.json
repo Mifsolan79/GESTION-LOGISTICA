@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 11: LA CALIDAD EN LA LOGÍSTICA",
   "items": [
     {
-      "question": "¿Qué implica el concepto de calidad total?",
+      "question": "¿Cuándo surge el sistema de calidad basado en el concepto de calidad total?",
       "options": [
-        "Control exclusivo de la producción.",
-        "Revisión y mejora continua de todas las actividades de la empresa.",
-        "Incrementar los precios de venta.",
-        "Delegar el control de calidad en proveedores externos."
+        "Cuando las empresas deciden reducir su plantilla de trabajadores",
+        "Cuando las organizaciones evolucionan y se dan cuenta de que los controles de calidad deben ir más allá del proceso productivo",
+        "Cuando el gobierno impone normativas de calidad obligatorias",
+        "Cuando los consumidores dejan de comprar productos de baja calidad"
       ],
       "correctAnswer": 1,
-      "explanation": "La calidad total supone un proceso de mejora continua que abarca todas las actividades de la empresa y requiere implicación de todos los miembros."
+      "explanation": "El sistema de calidad total surge cuando las organizaciones evolucionan y se dan cuenta de que los controles de calidad deben ir más allá del proceso productivo. Fundamento: Calidad total, pág. 4."
     },
     {
-      "question": "¿Cuál es uno de los principios de la calidad total?",
+      "question": "¿Cuáles son los tres elementos imprescindibles para un sistema de calidad total?",
       "options": [
-        "Situar al cliente como objetivo principal.",
-        "Incrementar la producción sin control.",
-        "Reducir la implicación de los empleados.",
-        "Priorizar los beneficios a corto plazo."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La calidad total se basa en la satisfacción del cliente como meta principal junto a la mejora continua."
-    },
-    {
-      "question": "¿Qué norma internacional regula los sistemas de gestión de calidad?",
-      "options": [
-        "ISO 14001.",
-        "ISO 9001.",
-        "ISO 22000.",
-        "ISO 50001."
+        "Publicidad, precios bajos y tecnología avanzada",
+        "La satisfacción constante del cliente, optimizar los recursos y situar a las personas como recurso más importante",
+        "Automatización, reducción de personal y aumento de producción",
+        "Solo la satisfacción del cliente y la reducción de costes"
       ],
       "correctAnswer": 1,
-      "explanation": "La norma ISO 9001 es la referencia internacional para sistemas de gestión de calidad."
+      "explanation": "Los tres elementos son: satisfacción constante del cliente, optimizar los recursos del proceso productivo y de comercialización, y situar a las personas como el recurso más importante. Fundamento: Calidad total, pág. 4."
     },
     {
-      "question": "¿Cuál es el objetivo principal de la norma ISO 9001?",
+      "question": "¿Cuál es la expresión en inglés para referirse al sistema de calidad total?",
       "options": [
-        "Reducir personal.",
-        "Aumentar la satisfacción del cliente.",
-        "Eliminar la competencia.",
-        "Evitar el uso de tecnología."
+        "Quality Control System (QCS)",
+        "Complete Quality Process (CQP)",
+        "Full Quality Standard (FQS)",
+        "Total Quality Management (TQM)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En inglés, la expresión que se utiliza para hacer referencia a este sistema de calidad total es Total Quality Management (TQM). Fundamento: Calidad total, pág. 4."
+    },
+    {
+      "question": "¿Para qué fue creada la norma internacional ISO 9001?",
+      "options": [
+        "Para regular el comercio exterior de las empresas",
+        "Para establecer los precios mínimos de los productos",
+        "Para controlar y llevar a cabo el sistema de gestión de calidad (SGC) que aplican las empresas",
+        "Para clasificar a las empresas por su tamaño"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La norma ISO 9001 fue creada para controlar y llevar a cabo el sistema de gestión de calidad (SGC) para mejorar la competitividad y consecución de objetivos. Fundamento: ISO 9001, pág. 5."
+    },
+    {
+      "question": "¿Qué tipo de empresas pueden obtener el certificado de calidad ISO 9001?",
+      "options": [
+        "Cualquier empresa, independientemente del tipo y tamaño que posea",
+        "Solo las empresas industriales",
+        "Solo las grandes multinacionales",
+        "Solo las empresas con más de 50 empleados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cualquier empresa, independientemente del tipo y el tamaño que posea, puede obtener el certificado de calidad ISO 9001. Fundamento: ISO 9001, pág. 5."
+    },
+    {
+      "question": "¿En qué está centrada la norma ISO 9001?",
+      "options": [
+        "En la reducción de costes de producción",
+        "En el aumento de la producción industrial",
+        "En la satisfacción de las necesidades del cliente",
+        "En la regulación del comercio internacional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo principal de la ISO 9001 es la satisfacción de las necesidades del cliente, por eso se dice que es una norma centrada en el cliente. Fundamento: ISO 9001, pág. 5."
+    },
+    {
+      "question": "¿Qué ventajas obtienen las empresas con certificado ISO 9001 frente a la competencia?",
+      "options": [
+        "Solo reducción de impuestos",
+        "Optimización de costes, mayor satisfacción de clientes, mejora de imagen corporativa, expansión a mercados y mayor motivación de empleados",
+        "Exclusivamente acceso a subvenciones públicas",
+        "Solo incremento de ventas online"
       ],
       "correctAnswer": 1,
-      "explanation": "La norma ISO 9001 busca garantizar la satisfacción de las necesidades del cliente mediante mejora continua."
+      "explanation": "Las empresas con ISO 9001 se distinguen por: optimización de costes, mayor satisfacción de clientes, mejora de imagen corporativa, expansión a mercados y mayor motivación de empleados. Fundamento: ISO 9001, pág. 5."
     },
     {
-      "question": "¿Qué exige la norma ISO 9001 a las empresas certificadas?",
+      "question": "¿Qué empresa desarrolló el sistema Just in Time (JIT)?",
       "options": [
-        "Auditorías internas periódicas.",
-        "Solo controles de producción.",
-        "Eliminación de proveedores.",
-        "Planes publicitarios obligatorios."
+        "Ford a principios del siglo XX",
+        "Amazon a finales del siglo XX",
+        "Toyota a mediados del siglo XX",
+        "Samsung en la década de los 80"
       ],
-      "correctAnswer": 0,
-      "explanation": "La norma ISO 9001 requiere auditorías internas periódicas para verificar la mejora continua."
+      "correctAnswer": 2,
+      "explanation": "Fue la empresa Toyota, a mediados del siglo XX, la que desarrolló lo que hoy se conoce como sistema just in time o JIT. Fundamento: JIT, pág. 5."
     },
     {
-      "question": "¿Cuál es un beneficio de la certificación ISO 9001?",
+      "question": "¿En qué consiste el sistema Just in Time?",
       "options": [
-        "Mejora de la imagen corporativa y mayor satisfacción de clientes.",
-        "Eliminación de costes laborales.",
-        "Sustitución de la logística tradicional.",
-        "Reducción de la calidad del producto."
+        "En almacenar la mayor cantidad posible de productos como reserva",
+        "En producir solo cuando hay excedente de materia prima",
+        "En fabricar todos los productos de una vez por trimestre",
+        "En almacenar el mínimo de unidades posibles para minimizar los costes de almacenamiento"
       ],
-      "correctAnswer": 0,
-      "explanation": "Obtener la certificación aporta beneficios como optimización de costes, mejor imagen y satisfacción del cliente."
+      "correctAnswer": 3,
+      "explanation": "El JIT consiste en almacenar el mínimo de unidades posibles de cada producto para minimizar los costes de almacenamiento. Fundamento: JIT, pág. 5."
     },
     {
-      "question": "¿En qué consiste el sistema Just in time?",
+      "question": "¿Qué diferencia hay entre el sistema push y el sistema pull?",
       "options": [
-        "Almacenar el mínimo de unidades necesarias y abastecerse en el momento indicado.",
-        "Aumentar existencias para evitar roturas de stock.",
-        "Delegar la producción en empresas externas.",
-        "Eliminar el control de calidad."
+        "El push es el sistema JIT y el pull es el método tradicional",
+        "No existe diferencia alguna entre ambos sistemas",
+        "Ambos se refieren al mismo método de producción",
+        "El push es el método tradicional de producción y almacenamiento, mientras que el pull es el sistema JIT"
       ],
-      "correctAnswer": 0,
-      "explanation": "El sistema JIT busca minimizar costes de almacenamiento abasteciéndose solo de lo necesario en el momento adecuado."
+      "correctAnswer": 3,
+      "explanation": "El sistema push es el método tradicional de producción y almacenamiento, mientras que el sistema pull se desarrolla mediante el sistema just in time. Fundamento: JIT, pág. 5."
     },
     {
-      "question": "¿Cuál es un objetivo del sistema Just in time?",
+      "question": "¿Cuáles son los tres elementos esenciales para que funcione el sistema JIT?",
       "options": [
-        "Evitar desperdicio y sobreproducción.",
-        "Incrementar el stock de seguridad.",
-        "Reducir la implicación del personal.",
-        "Aumentar desplazamientos innecesarios."
+        "Publicidad, precio competitivo y distribución rápida",
+        "Solo planificación y control de inventarios",
+        "Automatización, tecnología avanzada y reducción de personal",
+        "Coordinación exhaustiva en fabricación, calidad total como filosofía empresarial e implicación de las personas"
       ],
-      "correctAnswer": 0,
-      "explanation": "El JIT busca eliminar desperdicios y sobreproducción mediante control de procesos y calidad total."
+      "correctAnswer": 3,
+      "explanation": "Deben combinarse: coordinación exhaustiva en el proceso de fabricación, calidad total como filosofía empresarial e implicación de las personas. Fundamento: JIT, pág. 6."
     },
     {
-      "question": "¿Qué empresa desarrolló el sistema Just in time?",
+      "question": "¿Qué es el principio Kaizen aplicado por Toyota?",
       "options": [
-        "Toyota.",
-        "Ford.",
-        "General Motors.",
-        "Nissan."
+        "Un principio según el cual se puede afrontar cualquier incidencia en el momento en que se produzca y evitar que se convierta en un problema más grave",
+        "Un sistema de fabricación automatizada",
+        "Un software de gestión de almacenes",
+        "Un sistema exclusivo de contabilidad japonesa"
       ],
       "correctAnswer": 0,
-      "explanation": "El sistema JIT fue creado por Toyota a mediados del siglo XX."
+      "explanation": "El principio Kaizen consiste en poder afrontar cualquier incidencia en el momento en que se produzca, y evitar que se convierta en un problema más grave. Fundamento: Caso práctico Toyota, pág. 6."
     },
     {
-      "question": "¿Cuál es la filosofía en la que se basa Toyota para la calidad?",
+      "question": "¿Qué tipo de estrategias buscan las empresas con calidad total en la resolución de problemas?",
       "options": [
-        "Kaizen o mejora continua.",
-        "Downsizing.",
-        "Benchmarking.",
-        "Outsourcing."
+        "Estrategias reactivas, esperando a que surjan los problemas",
+        "Estrategias proactivas con respecto a la resolución de problemas y posibles anomalías",
+        "Solo estrategias de marketing para mejorar la imagen",
+        "Estrategias de reducción de plantilla"
       ],
-      "correctAnswer": 0,
-      "explanation": "Toyota aplica el principio Kaizen, que consiste en la mejora continua y rápida resolución de incidencias."
+      "correctAnswer": 1,
+      "explanation": "Las empresas con calidad total buscan estrategias proactivas para la resolución de problemas y posibles anomalías. Fundamento: Calidad en la gestión de compras, pág. 7."
     },
     {
-      "question": "¿Qué sistema utiliza tarjetas para identificar procesos en la producción?",
+      "question": "¿Qué aspectos repercuten en el sistema de calidad total del proceso de aprovisionamiento?",
       "options": [
-        "Kanban.",
-        "Lean Six Sigma.",
-        "Just in time.",
-        "Blockchain."
+        "Solo el precio de compra de las materias primas",
+        "Exclusivamente el tiempo de entrega del producto",
+        "La selección de proveedores, condiciones negociadas, decisión sobre materiales, recepción y almacenaje de mercancía",
+        "Solo la calidad del envase del producto"
       ],
-      "correctAnswer": 0,
-      "explanation": "El sistema Kanban asigna tarjetas a los productos indicando fases de producción."
+      "correctAnswer": 2,
+      "explanation": "En el aprovisionamiento repercuten la selección de proveedores, condiciones negociadas, materiales a adquirir, recepción y almacenaje de mercancía. Fundamento: Calidad en compras, pág. 7."
     },
     {
-      "question": "¿Qué aspecto es clave en la calidad de las compras?",
+      "question": "¿Qué indica el indicador de coste por unidad almacenada?",
       "options": [
-        "Selección de proveedores y negociación de condiciones.",
-        "Aumento de existencias sin control.",
-        "Eliminación de la planificación.",
-        "Contratación de personal sin experiencia."
+        "Información sobre el coste de cada unidad en el almacén (coste total de almacén / stock medio)",
+        "El beneficio por cada unidad vendida",
+        "El precio de venta al público de cada producto",
+        "El coste de transporte por unidad enviada"
       ],
       "correctAnswer": 0,
-      "explanation": "La calidad en las compras depende de la correcta selección de proveedores, negociación y planificación."
+      "explanation": "El coste por unidad almacenada aporta información sobre el coste de cada unidad en el almacén, calculándose como coste total de almacén entre stock medio. Fundamento: Calidad en almacén, pág. 7."
     },
     {
-      "question": "¿Qué indicador mide el coste de cada unidad almacenada?",
+      "question": "¿Cuándo la gestión de almacén maximiza la calidad según los indicadores?",
       "options": [
-        "Coste por unidad almacenada.",
-        "Coste por m2.",
-        "Coste por unidad entregada.",
-        "Coste de transporte."
+        "Cuanto mayores sean los resultados de los indicadores",
+        "Cuanto menores sean los resultados de los indicadores de coste",
+        "Cuando los indicadores se mantienen constantes sin variaciones",
+        "Cuando no se utilizan indicadores de ningún tipo"
       ],
-      "correctAnswer": 0,
-      "explanation": "El coste por unidad almacenada relaciona el coste total del almacén con el stock medio."
+      "correctAnswer": 1,
+      "explanation": "La gestión de almacén maximizará la calidad cuanto menores sean los resultados recogidos de estos indicadores. Fundamento: Calidad en almacén, pág. 7."
     },
     {
-      "question": "¿Qué indicador mide el coste por cada unidad expedida?",
+      "question": "¿A qué nos referimos cuando hablamos de trazabilidad del producto?",
       "options": [
-        "Coste por unidad entregada.",
-        "Coste por m2.",
-        "Coste por unidad almacenada.",
-        "Coste total del transporte."
+        "A la identificación de proveedores, información del proceso productivo y recorrido desde materias primas hasta el consumidor final",
+        "Solo al proceso de fabricación en la planta",
+        "Solo al seguimiento del transporte de mercancías",
+        "Al proceso de diseño del envase"
       ],
       "correctAnswer": 0,
-      "explanation": "El coste por unidad entregada relaciona el coste total de salidas con el número de unidades expedidas."
+      "explanation": "La trazabilidad incluye: identificación de proveedores, información del proceso productivo y recorrido desde materias primas hasta el consumidor final. Fundamento: Código QR, pág. 8."
     },
     {
-      "question": "¿Qué indicador relaciona el coste total del almacén con su superficie?",
+      "question": "¿Qué es el blockchain aplicado a la calidad logística?",
       "options": [
-        "Coste por m2 de superficie.",
-        "Coste por unidad almacenada.",
-        "Coste por unidad entregada.",
-        "Coste de transporte."
+        "Un sistema de contabilidad digital",
+        "Un software de gestión de inventarios",
+        "Una criptomoneda para pagos entre empresas",
+        "Un método que recoge información sobre el producto a través de un código QR, donde cada parte de la cadena logística introduce datos"
       ],
-      "correctAnswer": 0,
-      "explanation": "El coste por m2 relaciona el coste del almacén con la superficie total utilizada."
+      "correctAnswer": 3,
+      "explanation": "El blockchain en este contexto consiste en adjuntar un código QR donde cada parte de la cadena logística introduce datos, garantizando que la información no ha sido falsificada. Fundamento: Código QR, pág. 8."
     },
     {
-      "question": "¿Qué herramienta permite al consumidor conocer trazabilidad y origen de productos?",
+      "question": "¿Qué información puede conocer el consumidor al escanear un código QR del producto?",
       "options": [
-        "Código QR.",
-        "Kanban.",
-        "Just in time.",
-        "Carta de porte."
+        "Solo el precio del producto",
+        "Solo la marca del fabricante",
+        "Solo el nombre del transportista",
+        "Ubicación del producto, origen y tipo de alimentación recibida (en alimentos de origen animal)"
       ],
-      "correctAnswer": 0,
-      "explanation": "El código QR proporciona al consumidor información sobre trazabilidad, origen y características del producto."
+      "correctAnswer": 3,
+      "explanation": "El consumidor puede conocer la ubicación del producto, su origen y el tipo de alimentación recibida (en alimentos de origen animal). Fundamento: Código QR, pág. 8."
     },
     {
-      "question": "¿Qué tecnología se asocia al uso del código QR en calidad?",
+      "question": "¿Qué busca el sistema cross-docking?",
       "options": [
-        "Blockchain.",
-        "RFID.",
-        "EDI.",
-        "ERP."
+        "Aumentar el tiempo de almacenaje para mejor conservación",
+        "Satisfacer las necesidades del cliente eliminando el almacenaje de las mercancías que van a ser distribuidas",
+        "Incrementar la cantidad de inventario disponible",
+        "Solo reducir el personal del almacén"
       ],
-      "correctAnswer": 0,
-      "explanation": "El uso del código QR como herramienta de calidad se apoya en blockchain para garantizar veracidad de los datos."
+      "correctAnswer": 1,
+      "explanation": "El cross-docking persigue satisfacer las necesidades del cliente eliminando el almacenaje de las mercancías que van a ser distribuidas. Fundamento: Cross docking, pág. 8."
     },
     {
-      "question": "¿Qué sistema de calidad busca eliminar el almacenaje de mercancías?",
+      "question": "¿En cuánto tiempo se deben realizar las tareas de embalaje, consolidación y expedición en cross-docking?",
       "options": [
-        "Cross docking.",
-        "Just in time.",
-        "Kanban.",
-        "ERP."
+        "En un máximo de 24 horas",
+        "En un máximo de 72 horas",
+        "En un máximo de una semana",
+        "No existe límite de tiempo establecido"
       ],
       "correctAnswer": 0,
-      "explanation": "El cross docking elimina el almacenaje, preparando la mercancía para su expedición en menos de 24 horas."
+      "explanation": "Como el cross-docking se caracteriza por evitar el almacenamiento, las tareas de embalaje, consolidación y expedición se realizan en un máximo de 24 horas. Fundamento: Cross docking, pág. 9."
     },
     {
-      "question": "¿Cuál es una función principal del cross docking?",
+      "question": "¿Qué caracteriza al cross-docking directo?",
       "options": [
-        "Transporte y distribución inmediata de mercancías.",
-        "Incremento de existencias en almacén.",
-        "Publicidad de productos.",
-        "Contratación de personal."
+        "Se utiliza en productos con alto nivel de rotación y el proveedor prepara los pedidos desde su origen",
+        "La mercancía debe ser preparada según los pedidos tras la recepción",
+        "Solo se aplica a productos de gran tamaño",
+        "Requiere almacenaje temporal de al menos 48 horas"
       ],
       "correctAnswer": 0,
-      "explanation": "El cross docking se basa en transportar, recibir y expedir mercancía sin almacenarla."
+      "explanation": "El cross-docking directo se usa en productos con alto nivel de rotación, donde el proveedor prepara los pedidos desde su origen. Fundamento: Cross docking, pág. 9."
     },
     {
-      "question": "¿Qué tipo de productos suelen usar cross docking directo?",
+      "question": "¿Qué diferencia al cross-docking indirecto del directo?",
       "options": [
-        "Productos de alta rotación como frescos y de pequeñas dimensiones.",
-        "Productos de baja demanda.",
-        "Productos industriales de gran tamaño.",
-        "Productos financieros."
+        "En el indirecto la mercancía debe ser preparada según los pedidos solicitados tras su recepción",
+        "En el indirecto no se recibe mercancía de proveedores",
+        "No existe ninguna diferencia entre ambos tipos",
+        "El indirecto solo se usa para mercancías peligrosas"
       ],
       "correctAnswer": 0,
-      "explanation": "El cross docking directo se aplica a productos de alta rotación y pequeñas dimensiones, como frescos."
+      "explanation": "En el cross-docking indirecto, una vez recibida la mercancía, debe ser preparada según los pedidos solicitados para su posterior expedición. Fundamento: Cross docking, pág. 9."
     },
     {
-      "question": "¿Qué mide el coste del transporte en función de ventas?",
+      "question": "¿De qué se benefician las empresas que utilizan el sistema cross-docking?",
       "options": [
-        "Relación entre coste del transporte y ventas totales.",
-        "Relación entre ventas y coste de almacenaje.",
-        "Relación entre unidades expedidas y coste.",
-        "Relación entre m2 y coste."
+        "De mayor inversión en infraestructuras y más personal",
+        "De más espacio de almacenamiento",
+        "De una menor inversión en infraestructuras, eliminación de costes de inventario y menor contratación de personal",
+        "Solo de mejor imagen de marca"
       ],
-      "correctAnswer": 0,
-      "explanation": "El indicador relaciona coste de transporte con ventas totales, mostrando eficiencia logística."
+      "correctAnswer": 2,
+      "explanation": "Las empresas se benefician de menor inversión en infraestructuras, eliminación de costes de inventario y menor contratación de personal. Fundamento: Cross docking, pág. 9."
     },
     {
-      "question": "¿Qué indicador compara transporte propio con transporte externo?",
+      "question": "¿Cuáles son los objetivos de los sistemas de verificación de calidad de proveedores?",
       "options": [
-        "Coste transporte interno/externo.",
-        "Coste por unidad almacenada.",
-        "Coste por m2.",
-        "Coste por unidad entregada."
+        "Gestión de calidad reconocida internacionalmente, lenguaje común, relaciones duraderas y modelo de excelencia",
+        "Solo reducir el número de proveedores",
+        "Exclusivamente obtener mejores precios",
+        "Solo cumplir con requisitos legales locales"
       ],
       "correctAnswer": 0,
-      "explanation": "Este indicador determina la conveniencia de usar transporte propio o contratar externo."
+      "explanation": "Los objetivos son: gestión de calidad reconocida internacionalmente, lenguaje común, relaciones con proveedores más duraderas y perseguir un modelo de excelencia. Fundamento: Verificación de calidad, pág. 10."
     },
     {
-      "question": "¿Qué objetivo tienen los sistemas de verificación de calidad de proveedores?",
+      "question": "¿Qué indica la norma ISO 9001 sobre el proceso de gestión de calidad con proveedores?",
       "options": [
-        "Garantizar suministros de calidad competitivos mediante normas internacionales.",
-        "Reducir costes de personal.",
-        "Incrementar la publicidad.",
-        "Eliminar controles."
+        "Solo revisar los precios una vez al año",
+        "Exclusivamente elegir al proveedor más barato",
+        "Llevar control y seguimiento, revisar criterios de selección y evaluación, colaborar con nuevos proveedores y disponer de sistema de verificación",
+        "Solo mantener los mismos proveedores sin evaluación"
       ],
-      "correctAnswer": 0,
-      "explanation": "Estos sistemas aseguran relaciones duraderas con proveedores certificados y competitivos."
+      "correctAnswer": 2,
+      "explanation": "La ISO 9001 indica: control y seguimiento de proveedores, revisión de criterios, colaboración con nuevos proveedores y sistema de verificación de calidad. Fundamento: Verificación de calidad, pág. 10."
     },
     {
-      "question": "¿Cuál es uno de los principios en la verificación de calidad de proveedores según ISO 9001?",
+      "question": "¿Qué ocurre cuando se detectan incidencias graves en el análisis de proveedores?",
       "options": [
-        "Control y seguimiento de proveedores.",
-        "Eliminación de nuevos proveedores.",
-        "Reducir auditorías.",
-        "Evitar revisiones periódicas."
+        "Se ignoran si el proveedor tiene buen precio",
+        "Pueden provocar la aparición de un listado de no conformidades y, tras un periodo, se decide si mantener el suministro",
+        "Se termina la relación comercial inmediatamente sin consulta",
+        "Solo se informa al departamento de marketing"
       ],
-      "correctAnswer": 0,
-      "explanation": "La norma ISO 9001 exige control, seguimiento y revisiones periódicas de proveedores."
+      "correctAnswer": 1,
+      "explanation": "Las incidencias graves pueden provocar un listado de no conformidades. Pasado un periodo se decidirá si mantener el suministro con dicho proveedor. Fundamento: Verificación de calidad, pág. 10."
     },
     {
-      "question": "¿Qué ocurre si se detectan incidencias graves en un proveedor?",
+      "question": "¿En qué consiste el sistema Kanban?",
       "options": [
-        "Pueden derivar en listado de no conformidades y reconsideración del suministro.",
-        "Se incrementan los pedidos.",
-        "Se mantiene el suministro sin cambios.",
-        "Se elimina todo control."
+        "En un método de fabricación masiva de productos",
+        "En un sistema de venta directa al consumidor",
+        "En asignar tarjetas a los productos durante la fabricación para especificar a qué proceso ha sido sometido y cuál es la siguiente fase",
+        "En un software de contabilidad empresarial"
       ],
-      "correctAnswer": 0,
-      "explanation": "Incidencias graves pueden generar listados de no conformidad y llevar a suspender la relación con el proveedor."
+      "correctAnswer": 2,
+      "explanation": "El sistema Kanban consiste en asignar tarjetas a los productos durante la fabricación para especificar a qué proceso ha sido sometido y cuál es la siguiente fase. Fundamento: Caso práctico Toyota, pág. 6."
     },
     {
-      "question": "¿Qué aspecto distingue a la calidad logística?",
+      "question": "¿Qué requisito es esencial para que el sistema JIT funcione eficientemente?",
       "options": [
-        "Capacidad de satisfacer al consumidor y diferenciarse de la competencia.",
-        "Reducir publicidad.",
-        "Aumentar costes sin control.",
-        "Contratar personal eventual."
+        "Tener muchos almacenes llenos de stock de seguridad",
+        "Reducir el número de proveedores a uno solo",
+        "Poseer un proceso de fabricación con un alto grado de automatización",
+        "Eliminar completamente el departamento de calidad"
       ],
-      "correctAnswer": 0,
-      "explanation": "La calidad logística se centra en satisfacer al consumidor y destacar frente a la competencia."
+      "correctAnswer": 2,
+      "explanation": "El JIT resulta muy difícil de llevar a cabo si la empresa no posee un proceso de fabricación con un alto grado de automatización que garantice la calidad total. Fundamento: JIT, pág. 6."
     },
     {
-      "question": "¿Qué elemento humano es esencial en un sistema de calidad total?",
+      "question": "¿Qué estrategia sigue el modelo de calidad total?",
       "options": [
-        "Los empleados como recurso principal que necesita atención.",
-        "Solo directivos.",
-        "Solo proveedores.",
-        "Clientes externos únicamente."
+        "Reducir plantilla para aumentar beneficios a corto plazo",
+        "Solo mejorar la imagen publicitaria de la empresa",
+        "Aumentar la producción sin control de calidad",
+        "Conseguir ser más competitiva a la vez que se optimiza la utilización de recursos y se minimizan los costes"
       ],
-      "correctAnswer": 0,
-      "explanation": "La calidad total reconoce a los empleados como recurso clave que requiere motivación y cuidado."
-    },
-    {
-      "question": "¿Qué estrategia sigue la calidad total para ser competitiva?",
-      "options": [
-        "Optimizar recursos y minimizar costes.",
-        "Aumentar producción sin control.",
-        "Reducir implicación de empleados.",
-        "Evitar relación con proveedores."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La estrategia es optimizar recursos y reducir costes para aumentar competitividad."
-    },
-    {
-      "question": "¿Qué resultado busca la implementación de ISO 9001?",
-      "options": [
-        "Diferenciarse de competidores mediante garantía de calidad.",
-        "Evitar controles.",
-        "Aumentar costes.",
-        "Sustituir mejora continua."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El certificado ISO 9001 distingue a las empresas frente a la competencia por su calidad asegurada."
-    },
-    {
-      "question": "¿Qué requisito implica la implantación de ISO 9001?",
-      "options": [
-        "Asesoramiento y auditoría con coste asociado.",
-        "Eliminación de empleados.",
-        "Supresión de proveedores.",
-        "Inexistencia de controles."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Implementar ISO 9001 implica planificar, auditar y asumir costes de asesoría y auditoría."
+      "correctAnswer": 3,
+      "explanation": "La estrategia de calidad total es ser más competitiva optimizando la utilización de recursos y minimizando los costes. Fundamento: Calidad total, pág. 4."
     }
   ]
 }

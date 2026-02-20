@@ -4,332 +4,332 @@
     {
       "question": "¿Qué caracteriza a un mercado de competencia perfecta?",
       "options": [
-        "Un único oferente controla el precio.",
-        "Muchos oferentes y demandantes con productos similares.",
-        "Un único comprador controla el precio.",
-        "Varias empresas con productos diferenciados."
-      ],
-      "correctAnswer": 1,
-      "explanation": "En la competencia perfecta existen numerosos oferentes y demandantes con productos homogéneos; las empresas son precio aceptantes."
-    },
-    {
-      "question": "En la competencia perfecta, las empresas son consideradas…",
-      "options": [
-        "Precio aceptantes.",
-        "Precio decisoras.",
-        "Líderes de mercado.",
-        "Exclusivas."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Al no poder influir en el precio, las empresas son precio aceptantes."
-    },
-    {
-      "question": "¿Qué condición debe cumplir el transporte en competencia perfecta?",
-      "options": [
-        "Coste elevado por la dispersión de clientes.",
-        "Coste casi inexistente porque el consumidor puede acudir a otro proveedor.",
-        "Coste compartido por oferentes y demandantes.",
-        "Siempre cubierto por el comprador."
-      ],
-      "correctAnswer": 1,
-      "explanation": "El coste de transporte debe ser mínimo, ya que el cliente puede acudir fácilmente a otro proveedor."
-    },
-    {
-      "question": "En un mercado de monopolio…",
-      "options": [
-        "Existen muchos oferentes y demandantes.",
-        "Una sola empresa controla el mercado y fija precios.",
-        "Varias empresas ofrecen productos diferenciados.",
-        "Un único comprador controla el mercado."
-      ],
-      "correctAnswer": 1,
-      "explanation": "En el monopolio hay un único oferente que controla la fijación de precios y las condiciones de acceso al mercado."
-    },
-    {
-      "question": "¿Qué es un oligopolio?",
-      "options": [
-        "Un mercado con muchos oferentes y demandantes.",
-        "Pocas empresas dominan el mercado y pueden influir en precios.",
-        "Un único comprador fija el precio.",
-        "Una sola empresa controla toda la oferta."
-      ],
-      "correctAnswer": 1,
-      "explanation": "En el oligopolio pocas empresas dominan el mercado y coordinan aspectos como producción y precios."
-    },
-    {
-      "question": "Un ejemplo de competencia monopolística es…",
-      "options": [
-        "El mercado de comida rápida.",
-        "La obra pública.",
-        "El transporte ferroviario público.",
-        "La minería de diamantes."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La competencia monopolística existe cuando varios oferentes venden productos diferenciados, como en el mercado de comida rápida."
-    },
-    {
-      "question": "¿Qué caracteriza al monopsonio?",
-      "options": [
-        "Un único oferente controla precios.",
-        "Un único comprador frente a varios oferentes.",
-        "Varias empresas con productos diferenciados.",
-        "Muchos oferentes y consumidores."
-      ],
-      "correctAnswer": 1,
-      "explanation": "El monopsonio es una situación en la que existe un único comprador frente a varios oferentes, con poder decisorio sobre el precio."
-    },
-    {
-      "question": "La matriz Kraljic clasifica los productos según…",
-      "options": [
-        "El impacto en resultados y el riesgo de suministro.",
-        "El precio de mercado y la calidad del producto.",
-        "El nivel de publicidad y la demanda potencial.",
-        "La competencia y la exclusividad de proveedores."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La matriz Kraljic clasifica productos según su repercusión en la empresa y el riesgo de suministro."
-    },
-    {
-      "question": "Un producto rutinario se caracteriza por…",
-      "options": [
-        "Ser poco importante y con bajo riesgo de suministro.",
-        "Alta repercusión y pocos proveedores.",
-        "Poca repercusión pero riesgo elevado de suministro.",
-        "Alta importancia y gran oferta de proveedores."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Los productos rutinarios son poco relevantes y fáciles de conseguir en el mercado."
-    },
-    {
-      "question": "Un ejemplo de producto cuello de botella es…",
-      "options": [
-        "Harina en una panadería.",
-        "Material de limpieza.",
-        "Maquinaria muy específica.",
-        "Refrescos de cola."
+        "Existe un único oferente que controla el mercado",
+        "Solo existen dos o tres empresas que compiten entre sí",
+        "Intercambian bienes y servicios muchos oferentes y demandantes, con productos muy similares",
+        "Un solo comprador tiene el poder de fijar precios"
       ],
       "correctAnswer": 2,
-      "explanation": "Los productos cuello de botella tienen baja repercusión, pero alto riesgo de suministro, como maquinaria específica."
+      "explanation": "Existe mercado de competencia perfecta cuando intercambian bienes y servicios muchos oferentes y demandantes, y los productos ofrecidos son muy similares. Fundamento: Competencia perfecta, pág. 4."
     },
     {
-      "question": "Los productos palanca se caracterizan por…",
+      "question": "¿Qué significa que las empresas de competencia perfecta sean 'precio aceptantes'?",
       "options": [
-        "Alta repercusión y amplia disponibilidad de proveedores.",
-        "Bajo impacto y bajo riesgo de suministro.",
-        "Poca repercusión y alto riesgo de suministro.",
-        "Alta importancia y un único proveedor."
+        "Que fijan el precio más alto del mercado",
+        "Que pueden modificar los precios cuando lo deseen",
+        "Que no ejercen ningún control sobre el precio de los productos o servicios que comercializan",
+        "Que aceptan los precios impuestos por el gobierno"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los productos palanca son esenciales para la empresa, pero se pueden adquirir a muchos proveedores."
+      "correctAnswer": 2,
+      "explanation": "Las empresas precio aceptantes no ejercen ningún control sobre el precio de los productos o servicios que comercializan. Fundamento: Competencia perfecta, pág. 4."
     },
     {
-      "question": "La estrategia con productos estratégicos debe ser…",
+      "question": "¿Qué ocurre con la competencia perfecta según muchas teorías actuales?",
       "options": [
-        "Fidelizar al proveedor clave.",
-        "Reducir unidades adquiridas.",
-        "Cambiar de proveedor para reducir costes.",
-        "Descentralizar las compras."
+        "Es el tipo de mercado más común en la actualidad",
+        "Solo existe en países en desarrollo",
+        "Se encuentra en todos los sectores industriales",
+        "Prácticamente no se da en ningún mercado debido al crecimiento de la oferta de productos diferenciados"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los productos estratégicos tienen gran repercusión y pocos proveedores, por lo que se debe fidelizar la relación."
+      "correctAnswer": 3,
+      "explanation": "Debido al crecimiento de oferta de productos muy similares, muchas teorías afirman que la situación de competencia perfecta no se da prácticamente en ningún mercado. Fundamento: Competencia perfecta, pág. 4."
     },
     {
-      "question": "Una desventaja del aprovisionamiento internacional es…",
+      "question": "¿Qué es un monopolio?",
       "options": [
-        "Mayores costes de transporte y plazos de entrega.",
-        "Acceso a mercados más amplios.",
-        "Posibilidad de precios competitivos.",
-        "Diversificación de proveedores."
+        "Una situación donde existe un único oferente que maneja el mercado y posee control sobre la fijación de precios",
+        "Un mercado con muchos oferentes y demandantes",
+        "Un mercado donde solo hay un comprador",
+        "Una situación donde pocas empresas controlan la producción"
       ],
       "correctAnswer": 0,
-      "explanation": "Una de las desventajas principales es el coste elevado de transporte y mayor tiempo de entrega."
+      "explanation": "En una situación de monopolio existe un único oferente que maneja el mercado y posee el control sobre la fijación de precios. Fundamento: Monopolio, pág. 5."
     },
     {
-      "question": "¿Qué documento internacional no tiene validez contable pero informa sobre la operación?",
+      "question": "¿Qué caracteriza a un oligopolio?",
       "options": [
-        "Factura proforma.",
-        "Factura comercial.",
-        "Certificado de origen.",
-        "Bill of Landing."
+        "Un mercado con un solo oferente y muchos demandantes",
+        "Un mercado donde todos los productos son idénticos",
+        "Existen pocas empresas que ofrecen productos similares, con suficiente autonomía para influir en la fijación de precios",
+        "Un mercado donde un solo comprador determina los precios"
       ],
-      "correctAnswer": 0,
-      "explanation": "La factura proforma carece de validez legal pero sirve de base para cálculos de aranceles."
+      "correctAnswer": 2,
+      "explanation": "En un oligopolio existen pocas empresas que ofrecen productos similares, con suficiente autonomía para influir en la fijación de precios. Fundamento: Oligopolio, pág. 5."
     },
     {
-      "question": "El DUA corresponde a…",
+      "question": "¿Qué es un monopsonio?",
       "options": [
-        "Declaración aduanera de exportación o importación.",
-        "Certificado de origen emitido por la Cámara de Comercio.",
-        "Factura comercial internacional.",
-        "Carta de crédito bancaria."
+        "Un tipo de mercado exclusivo del sector tecnológico",
+        "Un mercado con muchos compradores y un solo vendedor",
+        "Un acuerdo entre empresas para fijar precios conjuntamente",
+        "Un mercado donde existe una sola empresa compradora o un único consumidor final pero varios oferentes"
       ],
-      "correctAnswer": 0,
-      "explanation": "El DUA es el documento administrativo que acompaña a las operaciones de exportación e importación."
+      "correctAnswer": 3,
+      "explanation": "El monopsonio se produce cuando en un mercado existe una sola empresa compradora o un único consumidor final pero varios oferentes. Fundamento: Otros mercados, pág. 5."
     },
     {
-      "question": "El certificado EUR1 sirve para…",
+      "question": "¿Qué es la competencia monopolística?",
       "options": [
-        "Exportar a países con acuerdos preferenciales con la UE.",
-        "Determinar impuestos nacionales.",
-        "Certificar la calidad de los productos.",
-        "Sustituir la factura comercial."
+        "Un mercado donde solo existe un oferente",
+        "Un mercado con productos completamente idénticos entre todos los oferentes",
+        "Un tipo de mercado que solo se da en el sector público",
+        "Una situación donde existen varios oferentes con productos diferenciados, lo que les permite tener algo de control sobre precios y producción"
       ],
-      "correctAnswer": 0,
-      "explanation": "El EUR1 acredita la exportación a países con acuerdos preferenciales, reduciendo costes aduaneros."
+      "correctAnswer": 3,
+      "explanation": "La competencia monopolística es aquella donde existen varios oferentes con productos diferenciados, lo que les permite tener algo de control ante los precios y la producción. Fundamento: Otros mercados, pág. 5."
     },
     {
-      "question": "¿Qué documento acredita el origen de la mercancía?",
+      "question": "¿Qué es la matriz Kraljic?",
       "options": [
-        "Certificado de origen emitido por la Cámara de Comercio.",
-        "Factura proforma.",
-        "Bill of Landing.",
-        "Certificado EUR1."
+        "Un instrumento de gestión de stock y aprovisionamiento que clasifica productos según su importancia para la empresa y su riesgo de suministro",
+        "Un modelo de gestión de recursos humanos",
+        "Un software para la gestión de inventarios en tiempo real",
+        "Un sistema de evaluación de empleados del departamento de compras"
       ],
       "correctAnswer": 0,
-      "explanation": "El certificado de origen confirma que la mercancía procede del país emisor."
+      "explanation": "La matriz Kraljic es un instrumento de gestión de stock y aprovisionamiento que clasifica productos según la importancia para la empresa y el riesgo de suministro. Fundamento: La matriz Kraljic, pág. 6."
     },
     {
-      "question": "El Bill of Landing se utiliza para…",
+      "question": "¿Cómo se clasifican los productos rutinarios según la matriz Kraljic?",
       "options": [
-        "Transporte marítimo como contrato y justificante de entrega.",
-        "Transporte aéreo.",
-        "Operaciones financieras.",
-        "Certificación de calidad."
+        "Materiales que no tienen una gran importancia y pueden adquirirse en una gran variedad de empresas proveedoras",
+        "Materiales muy necesarios pero con muchas alternativas de proveedores",
+        "Materiales con gran importancia y alto riesgo de suministro",
+        "Materiales con poca repercusión pero con riesgo de suministro"
       ],
       "correctAnswer": 0,
-      "explanation": "El Bill of Landing es el conocimiento de embarque propio del transporte marítimo."
+      "explanation": "Los productos rutinarios son materiales sin gran importancia para la actividad diaria y con gran variedad de proveedores donde adquirirlos. Fundamento: La matriz Kraljic, pág. 6."
     },
     {
-      "question": "La OMC regula…",
+      "question": "¿Qué son los productos cuello de botella según la matriz Kraljic?",
       "options": [
-        "Normas del comercio internacional.",
-        "Relaciones laborales nacionales.",
-        "Estrategias de marketing internacional.",
-        "Planes financieros de empresas globales."
+        "Materiales con poca repercusión en la empresa pero con riesgo de aprovisionamiento al ser suministrados por un número limitado de proveedores",
+        "Materiales con gran impacto económico y muchos proveedores",
+        "Productos de primera necesidad con bajo coste",
+        "Materiales estratégicos para la producción principal"
       ],
       "correctAnswer": 0,
-      "explanation": "La Organización Mundial del Comercio establece acuerdos y normas de comercio internacional."
+      "explanation": "Los productos cuello de botella tienen poca repercusión en la empresa pero presentan riesgo a la hora de ser adquiridos porque solo son suministrados por un número limitado de proveedores. Fundamento: La matriz Kraljic, pág. 6."
     },
     {
-      "question": "Un acuerdo de la OMC es…",
+      "question": "¿Qué estrategia se recomienda para los productos palanca?",
       "options": [
-        "GATT (Acuerdo General sobre Aranceles y Comercio).",
-        "Pacto de Varsovia.",
-        "Tratado de Maastricht.",
-        "NAFTA."
+        "Fidelizar al proveedor e incorporarlo a la organización",
+        "Intentar negociar el precio más competitivo, pudiendo incluso cambiar de proveedor para reducir costes",
+        "Descentralizar las compras a cada sede",
+        "Buscar alternativas para asegurar el abastecimiento"
       ],
-      "correctAnswer": 0,
-      "explanation": "El GATT forma parte de los principales acuerdos regulados por la OMC."
+      "correctAnswer": 1,
+      "explanation": "Para los productos palanca, la estrategia sería intentar negociar el precio más competitivo, pudiendo incluso cambiar de proveedor para reducir costes. Fundamento: Estrategias según la matriz Kraljic, pág. 7."
     },
     {
-      "question": "¿Qué estrategia es recomendable en negociaciones internacionales?",
+      "question": "¿Qué estrategia se recomienda para los productos estratégicos?",
       "options": [
-        "Estrategia ganar-ganar con objetivos comunes.",
-        "Estrategia de imposición unilateral.",
-        "Estrategia de reducción de confianza.",
-        "Estrategia de aumento de costes."
+        "Buscar siempre el precio más bajo posible",
+        "Reducir las unidades adquiridas y descentralizar las compras",
+        "Fidelizar al proveedor estratégico, incluso llegando a incorporarlo a la organización de la empresa",
+        "Cambiar de proveedor cada cierto tiempo"
       ],
-      "correctAnswer": 0,
-      "explanation": "En negociaciones internacionales es recomendable aplicar la estrategia ganar-ganar, basada en objetivos comunes."
+      "correctAnswer": 2,
+      "explanation": "Para productos estratégicos, la estrategia debería ser fidelizar al proveedor, incluso llegando a incorporarlo a la organización de la empresa. Fundamento: Estrategias según la matriz Kraljic, pág. 7."
     },
     {
-      "question": "Un medio de pago internacional muy utilizado es…",
+      "question": "¿Por qué las empresas se internacionalizan en su aprovisionamiento?",
       "options": [
-        "Carta de crédito bancaria.",
-        "Pago contra entrega.",
-        "Pago en especie.",
-        "Pago con publicidad."
+        "Porque es obligatorio por ley comercializar internacionalmente",
+        "Porque los proveedores internacionales son siempre más baratos",
+        "Normalmente por no encontrar los materiales necesarios en el mercado nacional",
+        "Para obtener ventajas fiscales exclusivamente"
       ],
-      "correctAnswer": 0,
-      "explanation": "La carta de crédito es el medio más utilizado y seguro en comercio internacional."
+      "correctAnswer": 2,
+      "explanation": "Normalmente la internacionalización se produce por no encontrar los materiales necesarios en el mercado nacional. Fundamento: Aprovisionamiento en mercados internacionales, pág. 7."
     },
     {
-      "question": "El pago contra documentos consiste en…",
+      "question": "¿Cuál es una desventaja del aprovisionamiento en mercados internacionales?",
       "options": [
-        "Intercambio de documentos y pago a través de un banco intermediario.",
-        "Pago directo al transportista.",
-        "Pago por adelantado.",
-        "Pago en especie."
+        "Mayor rapidez en los plazos de entrega",
+        "Menor variedad de productos disponibles",
+        "El escaso conocimiento del producto, no conociéndose su calidad hasta que llega a la empresa compradora",
+        "Mayor facilidad de comunicación entre las partes"
       ],
-      "correctAnswer": 0,
-      "explanation": "En el pago contra documentos el banco recibe los documentos del exportador y el dinero del importador, realizando el intercambio."
+      "correctAnswer": 2,
+      "explanation": "Una desventaja es el escaso conocimiento del producto, ya que con frecuencia no se conoce la calidad hasta que los artículos llegan a la empresa compradora. Fundamento: Aprovisionamiento internacional, pág. 7."
     },
     {
-      "question": "El pago por adelantado implica…",
+      "question": "¿Qué son los Incoterms?",
       "options": [
-        "Que el comprador paga antes de que la mercancía se envíe.",
-        "Que el comprador paga en el momento de la entrega.",
-        "Que un banco intermedia.",
-        "Que el pago depende del certificado de origen."
+        "Contratos de trabajo para empleados internacionales",
+        "Normas comunes reconocidas internacionalmente que reflejan acuerdos entre vendedor y comprador sobre aspectos de la entrega de mercancía",
+        "Impuestos especiales para el comercio exterior",
+        "Certificados de calidad para productos importados"
       ],
-      "correctAnswer": 0,
-      "explanation": "El pago por adelantado se realiza incluso antes de preparar el envío de la mercancía."
+      "correctAnswer": 1,
+      "explanation": "Los Incoterms son normas comunes reconocidas internacionalmente, desarrolladas por la ICC, que reflejan acuerdos entre vendedor y comprador sobre aspectos de la entrega de mercancía. Fundamento: Aprovisionamiento internacional, pág. 8."
     },
     {
-      "question": "Una herramienta informática que organiza aprovisionamiento online es…",
+      "question": "¿Qué es una factura proforma?",
       "options": [
-        "E-Procurement.",
-        "E-Sourcing.",
-        "ERP.",
-        "E-Tendering."
+        "Una factura con plena validez legal y repercusión contable",
+        "Una declaración de exportación ante las autoridades aduaneras",
+        "Un contrato de transporte marítimo internacional",
+        "Un documento que no tiene repercusión contable o comercial pero sirve para proporcionar información en el cálculo de aranceles u otras tasas"
       ],
-      "correctAnswer": 0,
-      "explanation": "El E-Procurement gestiona el proceso de aprovisionamiento online y reaprovisiona automáticamente."
+      "correctAnswer": 3,
+      "explanation": "La factura proforma no tiene repercusión contable o comercial pero sirve para proporcionar información en el cálculo de aranceles u otras tasas. Fundamento: Documentos internacionales, pág. 8."
     },
     {
-      "question": "El E-Sourcing se utiliza para…",
+      "question": "¿Qué es el Documento Único Administrativo (DUA)?",
       "options": [
-        "Intercambiar ofertas y condiciones con proveedores.",
-        "Reaprovisionar automáticamente mercancías.",
-        "Coordinar áreas internas de la empresa.",
-        "Elaborar balances contables."
+        "Un certificado de calidad del producto exportado",
+        "La declaración de exportación o importación que se debe proporcionar a las autoridades aduaneras",
+        "Una factura comercial con validez legal",
+        "Un contrato de navegación marítima"
       ],
-      "correctAnswer": 0,
-      "explanation": "El E-Sourcing permite enviar necesidades a proveedores y recibir ofertas para iniciar negociación."
+      "correctAnswer": 1,
+      "explanation": "El DUA es la declaración de exportación o importación que se debe proporcionar a las autoridades aduaneras para la correspondiente extracción o entrega de mercancías. Fundamento: Documentos internacionales, pág. 8."
     },
     {
-      "question": "El E-Tendering se aplica cuando…",
+      "question": "¿Qué es el Bill of Lading (conocimiento de embarque)?",
       "options": [
-        "Ya existe una lista de posibles proveedores para seguir comparando ofertas.",
-        "La empresa necesita reaprovisionamiento automático.",
-        "Se coordina internamente la gestión empresarial.",
-        "No existen proveedores disponibles."
+        "Un certificado emitido por la Cámara de Comercio sobre el origen de la mercancía",
+        "Un contrato de transporte marítimo que asegura la conservación y entrega de la mercancía entre emisor, receptor y transportista",
+        "Una declaración aduanera para productos de importación",
+        "Una factura proforma para el comercio electrónico"
       ],
-      "correctAnswer": 0,
-      "explanation": "El E-Tendering complementa al E-Sourcing, permitiendo profundizar en la comparación entre proveedores."
+      "correctAnswer": 1,
+      "explanation": "El Bill of Lading es un contrato de transporte marítimo que asegura la conservación y entrega de la mercancía entre la empresa emisora, receptora y el transportista. Fundamento: Documentos internacionales, pág. 8."
     },
     {
-      "question": "Una ventaja del uso de geolocalizadores en logística es…",
+      "question": "¿Qué es el certificado de origen?",
       "options": [
-        "Información en tiempo real sobre rutas y transporte.",
-        "Reducción de costes financieros.",
-        "Eliminación de la factura proforma.",
-        "Sustitución de la carta de crédito."
+        "Un seguro de transporte para mercancía internacional",
+        "Un documento emitido por la Cámara de Comercio que certifica que la mercancía es originaria de ese lugar",
+        "Un contrato de exclusividad con el proveedor",
+        "Una autorización para la venta al por menor"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los geolocalizadores aportan información en tiempo real sobre rutas de transporte."
+      "correctAnswer": 1,
+      "explanation": "El certificado de origen es emitido por la Cámara de Comercio del país de origen y certifica que la mercancía enviada es originaria de ese lugar. Fundamento: Documentos internacionales, pág. 8."
     },
     {
-      "question": "Un ejemplo de producto estratégico en la matriz Kraljic es…",
+      "question": "¿Cuál es el medio de pago más utilizado y recomendable en operaciones comerciales internacionales?",
       "options": [
-        "Piedras preciosas en una joyería.",
-        "Material de limpieza en oficinas.",
-        "Harina en una panadería.",
-        "Maquinaria de bajo coste."
+        "El pago contra entrega al transportista",
+        "El pago por adelantado antes de preparar el envío",
+        "La carta de crédito, donde el banco del importador se compromete a pagar al exportador al cumplir las condiciones del contrato",
+        "El pago en efectivo al momento de recibir la mercancía"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los productos estratégicos son de alta importancia y pocos proveedores, como las piedras preciosas en joyería."
+      "correctAnswer": 2,
+      "explanation": "La carta de crédito es el documento más utilizado en operaciones comerciales internacionales y el más recomendable para la empresa. Fundamento: Pago a proveedores internacionales, pág. 9."
     },
     {
-      "question": "Un ejemplo de producto palanca es…",
+      "question": "¿Qué es el pago contra documentos?",
       "options": [
-        "Harina en una panadería.",
-        "Material de limpieza.",
-        "Maquinaria específica.",
-        "Piedras preciosas."
+        "El pago mediante una entidad bancaria que actúa como intermediario, recibiendo documentos del exportador y pago del importador",
+        "El pago directo en efectivo al proveedor en su oficina",
+        "El pago anticipado de toda la mercancía antes del envío",
+        "El pago a plazos sin intervención bancaria"
       ],
       "correctAnswer": 0,
-      "explanation": "La harina en una panadería es esencial pero puede adquirirse en muchos proveedores."
+      "explanation": "En el pago contra documentos, una entidad bancaria actúa como intermediario: recibe los documentos del exportador y el pago del importador, aportando confianza y reduciendo riesgos. Fundamento: Pago contra documentos, pág. 10."
+    },
+    {
+      "question": "¿Qué es el E-Procurement?",
+      "options": [
+        "Un sistema de selección de personal por internet",
+        "Un software exclusivo para la gestión contable",
+        "Un programa de formación online para empleados",
+        "Un sistema online de gestión de compraventa que organiza las tareas de aprovisionamiento en toda la cadena logística"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El E-Procurement es un sistema online de gestión de compraventa que organiza las tareas de aprovisionamiento, optimizando cada una de ellas en toda la cadena logística. Fundamento: Aplicaciones informáticas, pág. 10."
+    },
+    {
+      "question": "¿Qué es el E-Sourcing?",
+      "options": [
+        "Una plataforma de publicidad para empresas",
+        "Un programa de gestión de recursos humanos online",
+        "Un software de diseño gráfico para catálogos digitales",
+        "Una herramienta de comercio electrónico para intercambiar ofertas con empresas proveedoras e información de productos y servicios"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El E-Sourcing se utiliza como herramienta de comercio electrónico para intercambiar ofertas con empresas proveedoras e información de productos y servicios. Fundamento: Aplicaciones informáticas, pág. 10."
+    },
+    {
+      "question": "¿Para qué se utiliza el E-Tendering?",
+      "options": [
+        "Cuando la empresa ya tiene una lista de posibles proveedores y necesitan seguir intercambiando información para elegir al más adecuado",
+        "Para gestionar la contabilidad general de la empresa",
+        "Para buscar clientes nuevos en mercados internacionales",
+        "Para diseñar productos nuevos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El E-Tendering se utiliza cuando la empresa compradora ya tiene una lista de posibles proveedores y necesitan continuar intercambiando información para elegir al más adecuado. Fundamento: Aplicaciones informáticas, pág. 10."
+    },
+    {
+      "question": "¿Qué deben conocer en profundidad las personas que negocien con un país extranjero?",
+      "options": [
+        "Solo el idioma oficial del país",
+        "Las características del país como cultura, normas de cortesía y protocolo, y la forma de relación comercial",
+        "Exclusivamente la legislación fiscal del país",
+        "Únicamente la moneda local y los tipos de cambio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lo primero es conocer en profundidad el país: cultura, normas de cortesía y protocolo, forma de la relación comercial, etc. Fundamento: Claves para la negociación internacional, pág. 9."
+    },
+    {
+      "question": "¿Qué organización establece las normas del comercio internacional?",
+      "options": [
+        "La Organización Mundial del Comercio (OMC)",
+        "La Organización de las Naciones Unidas (ONU)",
+        "El Fondo Monetario Internacional (FMI)",
+        "La Cámara de Comercio Local"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Organización Mundial del Comercio (OMC) es la que se encarga de establecer las normas de comercio internacional. Fundamento: Claves para la negociación internacional, pág. 9."
+    },
+    {
+      "question": "¿Qué estrategia deben seguir las empresas en competencia perfecta respecto a la publicidad?",
+      "options": [
+        "Invertir grandes cantidades en campañas publicitarias masivas",
+        "Contratar exclusivamente publicidad televisiva",
+        "Dedicar al menos el 50% del presupuesto a marketing",
+        "Normalmente no necesitan una gran inversión en campañas publicitarias"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En mercados de competencia perfecta, normalmente no se necesita una gran inversión en campañas publicitarias. Fundamento: Competencia perfecta, pág. 4."
+    },
+    {
+      "question": "¿Qué es el certificado de circulación EUR1?",
+      "options": [
+        "Un permiso de conducir internacional para transportistas",
+        "Un certificado de calidad exigido por la Unión Europea",
+        "Un documento que sirve para exportar a países con acuerdos preferenciales de comercialización en la UE, pudiendo beneficiar en costes de aduana",
+        "Un documento de identificación fiscal para empresas europeas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El certificado EUR1 sirve para exportar a países con acuerdos preferenciales de comercialización en la UE y puede beneficiar en costes de aduana. Fundamento: Documentos internacionales, pág. 8."
+    },
+    {
+      "question": "¿Cuáles son las causas de que para el resto de empresas sea muy difícil acceder a un mercado monopolístico?",
+      "options": [
+        "Porque los consumidores no desean nuevos productos",
+        "Las causas pueden ser motivos tecnológicos, obtención de recursos o leyes que impidan la libre comercialización",
+        "Porque el gobierno prohíbe la creación de nuevas empresas en cualquier sector",
+        "Porque los precios son demasiado bajos para competir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las causas de la dificultad para acceder a un mercado monopolístico pueden ser por motivos tecnológicos, obtención de recursos o leyes que impidan la libre comercialización. Fundamento: Monopolio, pág. 5."
+    },
+    {
+      "question": "¿Qué importancia tienen los geolocalizadores en la gestión de mercancías?",
+      "options": [
+        "Han facilitado la gestión de mercancías respecto al transporte, aportando información en tiempo real sobre posibles rutas",
+        "Solo sirven para localizar empleados de la empresa",
+        "No tienen ninguna utilidad en la logística actual",
+        "Se utilizan exclusivamente para el comercio electrónico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los geolocalizadores han facilitado la gestión de mercancías respecto al transporte, ya que aportan información en tiempo real sobre posibles rutas. Fundamento: Aplicaciones informáticas, pág. 10."
     }
   ]
 }

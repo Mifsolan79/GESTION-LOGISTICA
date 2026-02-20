@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 12: LOS COSTES LOGÍSTICOS",
   "items": [
     {
-      "question": "¿Qué se entiende por costes logísticos?",
+      "question": "¿Cómo se definen los costes logísticos?",
       "options": [
-        "Aquellos que surgen desde la adquisición de materias primas hasta la llegada al cliente final.",
-        "Únicamente los gastos de publicidad.",
-        "Los costes financieros de las operaciones bancarias.",
-        "Los salarios del personal administrativo exclusivamente."
+        "Son los gastos exclusivos del departamento de marketing",
+        "Los impuestos que la empresa paga anualmente",
+        "Únicamente el precio pagado al proveedor por la mercancía",
+        "Aquellos que surgen desde que la materia prima llega al almacén hasta que el producto final llega al cliente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los costes logísticos son la suma de todos los costes desde la adquisición de materia prima, pasando por almacenaje y gestión de stock, hasta la entrega al consumidor final. Fundamento: Concepto de coste logístico, pág. 4."
+    },
+    {
+      "question": "¿Cuál es uno de los objetivos principales de la gestión de costes logísticos?",
+      "options": [
+        "Incrementar el precio de venta al público",
+        "Utilizar siempre el transporte más caro para asegurar rapidez",
+        "Contratar al mayor número de proveedores posible",
+        "Reducir los costes y ser más competitiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los objetivos principales son ser más competitiva, reducir los costes, cumplir con la cadena de suministro y satisfacer al cliente. Fundamento: Concepto de coste logístico, pág. 4."
+    },
+    {
+      "question": "¿En qué se dividen los costes logísticos según la función de la que dependan?",
+      "options": [
+        "En costes de gestión de la información y costes de control de flujo de materiales",
+        "En costes de personal y costes de maquinaria",
+        "En costes nacionales e internacionales",
+        "En costes de oficina y costes de almacén"
       ],
       "correctAnswer": 0,
-      "explanation": "Los costes logísticos comprenden todos los que aparecen desde la adquisición de la materia prima, pasando por el almacenamiento y la distribución, hasta llegar al consumidor final."
-    },
-    {
-      "question": "¿Cuál es uno de los objetivos principales de la gestión de costes en las empresas?",
-      "options": [
-        "Incrementar el número de proveedores.",
-        "Ser más competitiva y reducir costes.",
-        "Disminuir la producción para aumentar precios.",
-        "Evitar el uso de tecnología logística."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Los objetivos principales de la gestión de costes son aumentar la competitividad, reducir costes y satisfacer las necesidades de la cadena de suministro."
-    },
-    {
-      "question": "¿Cuál de los siguientes NO es un coste logístico?",
-      "options": [
-        "Costes de pedidos.",
-        "Costes financieros.",
-        "Costes de publicidad.",
-        "Costes de almacenamiento."
-      ],
-      "correctAnswer": 2,
-      "explanation": "Los costes logísticos incluyen pedidos, transporte, distribución, almacenamiento, administración, financieros, inventario y servicio al cliente, pero no los de publicidad."
+      "explanation": "Todos estos costes pueden dividirse en gestión de la información y control de flujo de materiales. Fundamento: Concepto de coste logístico, pág. 4."
     },
     {
       "question": "¿Qué son los costes directos?",
       "options": [
-        "Los que se relacionan directamente con un producto o servicio.",
-        "Los que no pueden asociarse a ningún producto.",
-        "Los que siempre varían con la producción.",
-        "Los que surgen solo en la administración."
+        "Aquellos que tienen una relación directa con el producto o servicio y se establecen con exactitud",
+        "Gastos que no tienen ninguna relación con la producción",
+        "Gastos generales de la oficina central",
+        "Impuestos municipales de la empresa"
       ],
       "correctAnswer": 0,
-      "explanation": "Los costes directos son aquellos que tienen relación directa con un producto o servicio, y se pueden calcular con exactitud."
+      "explanation": "Los costes directos tienen una relación directa con el producto o servicio; la cantidad que corresponde a cada producto se establece con exactitud. Fundamento: Clasificación de costes, pág. 5."
     },
     {
       "question": "¿Qué son los costes indirectos?",
       "options": [
-        "Los que surgen en la cadena logística sin poder asignarse a un producto concreto.",
-        "Los que dependen del nivel de producción.",
-        "Los que provienen de la publicidad.",
-        "Los que siempre están asociados al almacén."
+        "Aquellos que se miden por cada unidad de producto",
+        "Gastos que no pueden relacionarse directamente con ningún producto, servicio o centro logístico",
+        "El coste de la materia prima principal",
+        "El precio del transporte de cada pedido"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes indirectos son aquellos que no se pueden relacionar directamente con un producto y deben repartirse entre distintas secciones o actividades."
+      "correctAnswer": 1,
+      "explanation": "Los costes indirectos surgen en la cadena logística pero no pueden relacionarse directamente con un producto específico (ej.: personal, impuestos, alquileres). Fundamento: Clasificación de costes, pág. 5."
     },
     {
-      "question": "¿Qué son los costes fijos?",
+      "question": "¿Cómo se definen los costes fijos?",
       "options": [
-        "Los que no dependen del número de unidades fabricadas o almacenadas.",
-        "Los que siempre varían en función de la producción.",
-        "Los que surgen solo por actividades administrativas.",
-        "Los que se relacionan con la publicidad."
+        "Varían según el número de unidades producidas",
+        "Surgen en la actividad diaria y no dependen de las unidades fabricadas o almacenadas",
+        "Son los que cambian cada mes según las ventas",
+        "El coste de la materia prima"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes fijos permanecen constantes independientemente del nivel de actividad de la empresa."
+      "correctAnswer": 1,
+      "explanation": "Los costes fijos no varían en función del nivel de actividad (ej.: alquiler, amortización de maquinaria). Fundamento: Clasificación de costes, pág. 5."
     },
     {
       "question": "¿Qué son los costes variables?",
       "options": [
-        "Aquellos que dependen del nivel de actividad de la empresa.",
-        "Los que no varían con la producción.",
-        "Los que surgen únicamente por el uso de maquinaria.",
-        "Los que solo afectan a la administración."
+        "Gastos que se mantienen constantes todo el año",
+        "El sueldo del gerente de la empresa",
+        "Dependen del nivel de actividad y varían según el número de unidades producidas o almacenadas",
+        "El seguro del edificio del almacén"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes variables cambian según las unidades producidas o almacenadas, como materias primas o transporte."
+      "correctAnswer": 2,
+      "explanation": "Los costes variables varían en función del número de unidades producidas o almacenadas (ej.: materias primas, transporte). Fundamento: Clasificación de costes, pág. 5."
     },
     {
-      "question": "¿Qué representa el umbral de rentabilidad?",
+      "question": "¿Qué es el umbral de rentabilidad o punto muerto?",
       "options": [
-        "El punto en el que ingresos totales e iguales a costes totales.",
-        "El momento en que los costes superan a los ingresos.",
-        "El periodo en que la empresa solo obtiene beneficios.",
-        "El límite en que los costes indirectos se anulan."
+        "El número de unidades donde los ingresos totales son iguales a los gastos totales (beneficio cero)",
+        "El momento en que la empresa tiene más deudas que capital",
+        "El volumen máximo de producción de una fábrica",
+        "El precio mínimo al que se puede vender un producto"
       ],
       "correctAnswer": 0,
-      "explanation": "El umbral de rentabilidad corresponde al punto en el que los ingresos totales igualan a los costes totales, sin beneficios ni pérdidas."
+      "explanation": "El umbral de rentabilidad es el momento donde no se obtienen ni beneficios ni pérdidas (Ingresos totales = Costes totales). Fundamento: Umbral de rentabilidad, pág. 5."
     },
     {
-      "question": "¿Cuál es la fórmula general del beneficio o pérdida?",
+      "question": "¿Qué forma el coste de compra en el aprovisionamiento?",
       "options": [
-        "IT - CT.",
-        "PV * Q.",
-        "CF / Q.",
-        "CV / Q."
+        "Solo el precio unitario multiplicado por unidades",
+        "Únicamente los gastos de transporte",
+        "Precio unitario * unidades + gastos asociados - descuentos",
+        "El presupuesto inicial sin tener en cuenta descuentos"
       ],
-      "correctAnswer": 0,
-      "explanation": "El beneficio o pérdida se obtiene como la diferencia entre ingresos totales (IT) y costes totales (CT)."
+      "correctAnswer": 2,
+      "explanation": "El coste de compra es el precio unitario por unidades, más gastos adicionales, menos descuentos. Fundamento: Costes de aprovisionamiento, pág. 6."
     },
     {
-      "question": "¿Qué es el coste de aprovisionamiento?",
+      "question": "¿Cuándo surge el coste de emisión de pedido?",
       "options": [
-        "El que se obtiene del coste de compra y de emisión del pedido.",
-        "El coste de almacenamiento de mercancía.",
-        "El coste de la distribución interna.",
-        "El coste de amortización de inmovilizados."
+        "Cuando el cliente paga la factura",
+        "Cuando el producto llega al consumidor final",
+        "Cuando la empresa compradora solicita mercancía a uno de sus proveedores",
+        "Al finalizar el ejercicio económico"
       ],
-      "correctAnswer": 0,
-      "explanation": "El coste de aprovisionamiento se compone del coste de compra más el coste de emisión del pedido."
+      "correctAnswer": 2,
+      "explanation": "Surge cuando la empresa compradora solicita mercancía a sus proveedores, incluyendo personal, equipos y suministros. Fundamento: Costes de aprovisionamiento, pág. 6."
     },
     {
-      "question": "¿Qué incluye el coste de compra?",
+      "question": "¿Cómo se calcula el coste unitario de la emisión de pedidos?",
       "options": [
-        "Precio unitario por unidades, más gastos y menos descuentos.",
-        "Solo el precio unitario de los productos.",
-        "Exclusivamente las bonificaciones.",
-        "Únicamente los gastos financieros."
+        "Dividiendo el stock medio entre las ventas",
+        "Multiplicando el precio del producto por los pedidos",
+        "Restando los descuentos al coste de personal",
+        "Dividiendo el coste total de emisión entre el número de pedidos"
       ],
-      "correctAnswer": 0,
-      "explanation": "El coste de compra incluye el precio unitario, los gastos asociados y la deducción de descuentos aplicables."
-    },
-    {
-      "question": "¿Qué es el coste de emisión de pedido?",
-      "options": [
-        "El que surge cuando la empresa solicita mercancía a un proveedor.",
-        "El coste de almacenamiento.",
-        "El coste de amortización de equipos.",
-        "El coste de distribución."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El coste de emisión de pedido aparece cuando la empresa solicita mercancía a sus proveedores e incluye personal, equipos, materiales y suministros."
+      "correctAnswer": 3,
+      "explanation": "El coste unitario se obtiene dividiendo el coste total de emisión de pedidos entre el número de pedidos en un periodo. Fundamento: Costes de aprovisionamiento, pág. 6."
     },
     {
       "question": "¿Qué son los costes de almacenamiento?",
       "options": [
-        "Aquellos que surgen en la recepción y almacenaje de mercancía.",
-        "Los derivados de la contratación de publicidad.",
-        "Los que dependen solo del transporte externo.",
-        "Los que provienen del pago de impuestos financieros."
+        "Solo el sueldo de los mozos de almacén",
+        "Aquellos que surgen en el proceso de recepción y almacenaje de mercancía",
+        "El coste de fabricación de los productos",
+        "Las pérdidas por ventas no realizadas"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes de almacenamiento surgen en el proceso de recepción y conservación de mercancías."
+      "correctAnswer": 1,
+      "explanation": "Son aquellos que surgen en el proceso de recepción y almacenaje, incluyendo espacio, instalaciones, amortización y manipulación. Fundamento: Costes de almacenamiento, pág. 7."
     },
     {
-      "question": "¿Cuál es un ejemplo de coste de espacio?",
+      "question": "¿Qué incluye el coste del espacio en el almacén?",
       "options": [
-        "Arrendamiento o impuestos relacionados con el almacén.",
-        "Salarios de personal administrativo.",
-        "Gastos de campañas publicitarias.",
-        "Compra de materias primas."
+        "Arrendamiento o financiación, reparaciones, impuestos y seguros del recinto físico",
+        "Solo la electricidad del edificio",
+        "El precio de los productos guardados",
+        "El marketing de los productos almacenados"
       ],
       "correctAnswer": 0,
-      "explanation": "El coste de espacio incluye arrendamiento, financiación, reparación, impuestos y seguros del almacén."
+      "explanation": "Está relacionado con el espacio físico destinado a custodiar mercancías: arrendamiento, reparaciones, impuestos, seguros, etc. Fundamento: Costes de almacenamiento, pág. 7."
     },
     {
-      "question": "¿Qué son los costes de instalaciones?",
+      "question": "¿Qué es la amortización desde el punto de vista contable?",
       "options": [
-        "Los derivados de la inversión en maquinaria y elementos de gestión del almacén.",
-        "Los relacionados únicamente con publicidad.",
-        "Los que provienen del transporte de mercancía.",
-        "Los que surgen en la administración."
+        "El beneficio extra obtenido por vender rápido",
+        "El coste de adquirir un nuevo empleado",
+        "El pago fraccionado de un préstamo bancario",
+        "La pérdida de valor de un bien por su uso con el paso del tiempo"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes de instalaciones corresponden a inversiones en maquinaria y equipos para el almacén."
+      "correctAnswer": 3,
+      "explanation": "La amortización representa la pérdida de valor por el uso de un bien (equipos, maquinaria, programas). Fundamento: Costes de almacenamiento, pág. 8."
     },
     {
-      "question": "¿Qué se entiende por amortización en logística?",
+      "question": "¿Qué forman los costes de manipulación en el almacén?",
       "options": [
-        "Pérdida de valor de un bien por el uso.",
-        "El aumento de costes de personal.",
-        "El incremento del valor de los activos.",
-        "El cálculo del beneficio."
+        "Salarios del personal de manipulación, alquiler/amortización de maquinaria y suministros asociados",
+        "Solo el alquiler de carretillas",
+        "El coste de las etiquetas de los bultos",
+        "Las multas por retrasos en la carga"
       ],
       "correctAnswer": 0,
-      "explanation": "La amortización refleja la pérdida de valor de un bien a lo largo de su vida útil por el uso."
+      "explanation": "Incluyen los gastos de salarios, maquinaria de manipulación y suministros necesarios para estas tareas. Fundamento: Costes de almacenamiento, pág. 8."
     },
     {
-      "question": "¿Cuál es un ejemplo de coste de manipulación?",
+      "question": "¿Cómo suelen calcularse los costes de transporte según la distancia?",
       "options": [
-        "Gastos de salarios del personal de almacén y alquiler de maquinaria.",
-        "Pago de publicidad.",
-        "Compra de materia prima.",
-        "Bonificación de impuestos."
+        "Es un coste fijo que no depende de la distancia",
+        "Dividiendo el peso total entre la distancia",
+        "Multiplicando los bultos por el coste del combustible",
+        "Coste total del transporte dividido por el número de km totales recorridos"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes de manipulación incluyen salarios del personal, alquiler de maquinaria y suministros."
+      "correctAnswer": 3,
+      "explanation": "El coste de transporte por km se obtiene dividiendo el coste total del transporte entre los km totales recorridos. Fundamento: Costes de transporte, pág. 8."
     },
     {
-      "question": "¿Qué son los costes de externalización?",
+      "question": "¿Qué forman los costes de transporte con medios propios?",
       "options": [
-        "Los pagos al operador logístico por hacerse cargo de ciertas tareas.",
-        "Los gastos en publicidad digital.",
-        "Los sueldos de administrativos.",
-        "Los costes financieros."
+        "Solo el importe de la factura del transportista externo",
+        "El precio de compra del vehículo sin más gastos",
+        "Únicamente el gasto de gasolina",
+        "Personal (sueldos y SS), impuestos, seguros, amortización del vehículo, combustible y mantenimiento"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes de externalización son los abonados al operador logístico para que realice ciertas tareas."
+      "correctAnswer": 3,
+      "explanation": "Incluye personal, impuestos del vehículo, seguros, amortización, combustible y mantenimiento. Fundamento: Costes de distribución, pág. 9."
     },
     {
-      "question": "¿Cuál es un criterio para calcular los costes de transporte?",
+      "question": "¿Cómo se calculan los costes de transporte con servicio de terceros?",
       "options": [
-        "Distancia, peso o bulto.",
-        "Número de empleados.",
-        "Coste publicitario.",
-        "Valor contable."
+        "Sumando todos los gastos de mantenimiento de la flota propia",
+        "Dividiendo el sueldo de los conductores por el número de bultos",
+        "Teniendo en cuenta el importe de las facturas generadas por los proveedores de transporte",
+        "Calculando la amortización de los camiones alquilados"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes de transporte suelen calcularse según la distancia, el peso o el bulto transportado."
+      "correctAnswer": 2,
+      "explanation": "El cálculo es sencillo: se basa en el importe de las facturas que los proveedores externos generan por el servicio. Fundamento: Costes de distribución, pág. 9."
     },
     {
-      "question": "¿Qué son los costes de distribución?",
+      "question": "¿Qué son los costes de administración logística?",
       "options": [
-        "Los que surgen al transportar mercancías entre dos puntos distintos.",
-        "Los que dependen de la publicidad.",
-        "Los costes de amortización de maquinaria.",
-        "Los impuestos sobre beneficios."
+        "El sueldo exclusivo de la alta directiva",
+        "Los intereses de los préstamos bancarios",
+        "El coste de los productos que se pierden en el almacén",
+        "Los gastos de personal en tareas de recepción, expedición, inventarios y el intercambio de información"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes de distribución corresponden al transporte entre dos puntos, como de vendedor a comprador."
+      "correctAnswer": 3,
+      "explanation": "Incluyen gastos de personal para gestión de documentos, inventarios, recepción y expedición. Fundamento: Costes de administración, pág. 9."
     },
     {
-      "question": "¿Qué incluyen los costes de transporte con medios propios?",
+      "question": "¿Qué es la rotura de stock?",
       "options": [
-        "Personal, seguros, impuestos, amortización y combustible.",
-        "Exclusivamente las facturas de terceros.",
-        "Solo el coste de amortización.",
-        "Solo el coste del combustible."
+        "No poder realizar la venta por falta de existencias, provocando pérdida económica y de imagen",
+        "Cuando se rompe un producto físicamente en el almacén",
+        "El exceso de productos que no se pueden vender",
+        "El momento de cerrar el almacén por vacaciones"
       ],
       "correctAnswer": 0,
-      "explanation": "Los costes de transporte con medios propios incluyen personal, seguros, impuestos, amortización, combustible y mantenimiento."
+      "explanation": "Provoca pérdida económica por la venta no realizada y un impacto negativo en la imagen de marca. Fundamento: Gestión de costes logísticos, pág. 11."
     },
     {
-      "question": "¿Cómo se calculan los costes de transporte con terceros?",
+      "question": "¿Qué coste genera el tratamiento de las devoluciones de clientes?",
       "options": [
-        "Según el importe de las facturas emitidas por los proveedores de transporte.",
-        "Sumando únicamente los salarios del personal.",
-        "Estimando el valor contable de la flota.",
-        "Mediante el cálculo de amortizaciones."
+        "Un beneficio adicional por servicio postventa",
+        "Logística inversa (serie de costes en muchas ocasiones difíciles de recuperar)",
+        "Solo el coste del papel de la nueva factura",
+        "Ninguno, ya que el cliente suele pagar el envío de vuelta"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes de transporte con terceros se calculan teniendo en cuenta las facturas recibidas por los servicios de transporte."
+      "correctAnswer": 1,
+      "explanation": "El proceso de devolución genera una serie de costes (logística inversa) difíciles de recuperar. Fundamento: Gestión de costes logísticos, pág. 11."
     },
     {
-      "question": "¿Qué son los costes de transporte interno?",
+      "question": "¿Qué se entiende por obsolescencia de un producto?",
       "options": [
-        "Los que se producen dentro del almacén y la organización.",
-        "Los que dependen del transporte externo.",
-        "Los que provienen de campañas de marketing.",
-        "Los que están ligados a amortizaciones de vehículos."
+        "Que el producto ha sido robado del almacén",
+        "Cuando el producto está nuevo pero nadie lo quiere comprar",
+        "El estado al que llega un bien una vez ha finalizado su vida útil o tecnología",
+        "El aumento de valor de un producto antiguo"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes de transporte interno son los que ocurren en el almacén y dentro de la organización."
+      "correctAnswer": 2,
+      "explanation": "La obsolescencia es el estado al que llega un bien una vez finalizada su vida útil, según lo programado por el fabricante. Fundamento: Gestión de costes logísticos, pág. 11."
     },
     {
-      "question": "¿Qué son los costes de administración?",
+      "question": "¿Qué son los costes de información en logística?",
       "options": [
-        "Los derivados de la gestión del almacén, inventarios y expediciones.",
-        "Los gastos en campañas publicitarias.",
-        "Los sueldos de directivos únicamente.",
-        "Los costes financieros."
+        "Costes de preparación de mercancía, comunicación interna/externa y gestión de ventas",
+        "El precio de los ordenadores del almacén",
+        "Únicamente el coste de la conexión a internet",
+        "Los anuncios en televisión de los productos"
       ],
       "correctAnswer": 0,
-      "explanation": "Los costes de administración corresponden a la gestión logística: recepción, expedición, inventarios y documentación."
+      "explanation": "También llamados de administración de la logística, surgen al controlar y gestionar la información que fluctúa en la empresa. Fundamento: Resolución caso práctico, pág. 12."
     },
     {
-      "question": "¿Qué fórmula calcula el coste de administración por hora?",
+      "question": "¿Qué factor influye indirectamente en los costes logísticos?",
       "options": [
-        "Coste total de la administración / Nº total de horas de administración logística.",
-        "Coste total de la administración / Nº de kg de existencias.",
-        "Coste total de la administración / Nº total de palés utilizados.",
-        "Coste total de la administración / Nº de empleados."
+        "El nombre de la empresa proveedora",
+        "El color de las estanterías del almacén",
+        "La frecuencia en las operaciones de compraventa y el tamaño de los pedidos",
+        "El horario de oficina de los comerciales"
       ],
-      "correctAnswer": 0,
-      "explanation": "El coste por hora se obtiene dividiendo el coste total de la administración entre el número total de horas."
+      "correctAnswer": 2,
+      "explanation": "Influyen la cantidad almacenada, frecuencia de operaciones, tamaño de pedidos, tipos de envases, etc. Fundamento: Gestión de costes logísticos, pág. 12."
     },
     {
-      "question": "¿Qué fórmula calcula el coste de administración por kg?",
+      "question": "¿Qué es el ingreso total (IT)?",
       "options": [
-        "Coste total de la administración / Nº total de kg de existencias.",
-        "Coste total de la administración / Nº de palés.",
-        "Coste total de la administración / Nº de horas.",
-        "Coste total de la administración / Nº de pedidos."
+        "El beneficio neto después de impuestos",
+        "El capital total aportado por los socios",
+        "El precio de venta unitario multiplicado por la cantidad vendida (PV * Q)",
+        "La suma de las facturas pendientes de cobro"
       ],
-      "correctAnswer": 0,
-      "explanation": "El cálculo por kg divide el coste total de la administración entre los kg de existencias almacenadas."
+      "correctAnswer": 2,
+      "explanation": "El ingreso total se calcula multiplicando el precio de venta (PV) por la cantidad de unidades (Q). Fundamento: Umbral de rentabilidad, pág. 5."
     },
     {
-      "question": "¿Qué fórmula calcula el coste de administración por unidad de carga?",
+      "question": "¿Por qué el desarrollo económico de un país influye en los costes logísticos?",
       "options": [
-        "Coste total de la administración / Nº de palés.",
-        "Coste total de la administración / Nº de kg.",
-        "Coste total de la administración / Nº de horas.",
-        "Coste total de la administración / Nº de pedidos."
+        "Porque obliga a subir los precios de venta",
+        "Porque aumenta el número de días festivos",
+        "Su desarrollo suele suponer una disminución de los costes logísticos para las empresas locales",
+        "No tiene ninguna relación con la logística"
       ],
-      "correctAnswer": 0,
-      "explanation": "El cálculo por unidad de carga se obtiene dividiendo el coste de administración entre el número de palés."
+      "correctAnswer": 2,
+      "explanation": "El crecimiento económico de un país suele conllevar infraestructuras que disminuyen los costes logísticos. Fundamento: Concepto de coste logístico, pág. 4."
     },
     {
-      "question": "¿Qué representan los costes ocultos?",
+      "question": "¿Qué son los costes semidirectos?",
       "options": [
-        "Gastos indirectos como rotura de stock, devoluciones, desajustes y obsolescencia.",
-        "Gastos publicitarios.",
-        "Costes salariales.",
-        "Costes de amortización."
+        "Costes fijos que cambian a mitad de año",
+        "Costes indirectos que pueden contabilizarse por sistemas de reparto y están involucrados en el control por máquina o sección",
+        "Descuentos que se aplican solo a mitad del pedido",
+        "Salarios de personal temporal"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los costes ocultos son gastos indirectos como rotura de stock, devoluciones, desajustes en inventario y obsolescencia."
+      "correctAnswer": 1,
+      "explanation": "Son costes indirectos pero asignables mediante sistemas de reparto a secciones o máquinas específicas. Fundamento: Clasificación de costes, pág. 5."
     },
     {
-      "question": "¿Qué efecto tiene la rotura de stock?",
+      "question": "¿Cómo se calcula el coste fijo unitario (CFu)?",
       "options": [
-        "Pérdida económica y deterioro de la imagen de la marca.",
-        "Aumento de beneficios.",
-        "Reducción de costes de almacenamiento.",
-        "Incremento de clientes."
+        "Multiplicando el coste fijo por el variable",
+        "Dividiendo el coste fijo total entre la cantidad de unidades (CF / Q)",
+        "Restando el precio de venta al coste total",
+        "Es igual para cualquier nivel de producción"
       ],
-      "correctAnswer": 0,
-      "explanation": "La rotura de stock genera pérdida económica y un impacto negativo en la imagen de la marca."
+      "correctAnswer": 1,
+      "explanation": "El coste fijo unitario se obtiene dividiendo el total de costes fijos entre el número de unidades producidas. Fundamento: Umbral de rentabilidad, pág. 5."
     },
     {
-      "question": "¿Qué provoca el desajuste en inventarios?",
+      "question": "¿Cuál es la fórmula para calcular el Umbral de Rentabilidad (Q*)?",
       "options": [
-        "Diferencias por robo, pérdida o deterioro de mercancías.",
-        "Mejora en la gestión de pedidos.",
-        "Reducción de costes financieros.",
-        "Aumento de productividad."
+        "Q* = IT - CT",
+        "Q* = CF / (PV - CVu)",
+        "Q* = PV * Q",
+        "Q* = CF + CV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El punto muerto se halla dividiendo los costes fijos entre el margen de contribución (Precio - Coste Variable Unitario). Fundamento: Umbral de rentabilidad, pág. 5."
+    },
+    {
+      "question": "¿Qué incluyen los costes financieros en la logística?",
+      "options": [
+        "El coste de oportunidad o el coste del capital invertido en el stock almacenado",
+        "El precio de venta del producto",
+        "El pago fraccionado de las facturas de la luz",
+        "Solo las comisiones bancarias por transferencias"
       ],
       "correctAnswer": 0,
-      "explanation": "Los desajustes en inventario se deben a robos, pérdidas o deterioros de productos."
+      "explanation": "Los costes financieros surgen por el capital inmovilizado en las existencias almacenadas. Fundamento: Concepto de coste logístico, pág. 4."
     }
   ]
 }

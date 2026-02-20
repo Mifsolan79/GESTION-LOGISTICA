@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 2: GESTIÓN DE STOCKS. MÉTODOS Y SISTEMAS DE GESTIÓN",
   "items": [
     {
-      "question": "¿Cuál es una variable que influye en el aprovisionamiento?",
+      "question": "¿Cuál es una de las variables que influyen en las decisiones de aprovisionamiento?",
       "options": [
-        "Diseño del logotipo de la empresa.",
-        "Demanda esperada y su evolución.",
-        "Formación de recursos humanos.",
-        "Estrategias de publicidad."
+        "La ubicación de las oficinas centrales de la empresa",
+        "El color del embalaje de los productos",
+        "La demanda esperada, basada en revisiones de la demanda de periodos anteriores y evolución de ventas",
+        "El número de empleados del departamento de marketing"
       ],
-      "correctAnswer": 1,
-      "explanation": "Una variable fundamental para tomar decisiones de aprovisionamiento es la demanda esperada, basada en ventas anteriores, evolución del mercado y competencia."
+      "correctAnswer": 2,
+      "explanation": "Una de las variables es la demanda esperada, donde los encargados realizan revisiones de la demanda en periodos anteriores y estudian la evolución de ventas, mercado y competencia. Fundamento: Variables que influyen en el aprovisionamiento, pág. 4."
     },
     {
-      "question": "¿Qué significa previsión de existencias vendidas?",
+      "question": "¿Para qué es importante conocer la cantidad de mercancía vendida en periodos anteriores?",
       "options": [
-        "Estimar costes financieros.",
-        "Conocer ventas pasadas y compararlas con la situación actual para estimar ventas futuras.",
-        "Elaborar planes de marketing.",
-        "Diseñar organigramas de personal."
+        "Para diseñar el logotipo de la empresa",
+        "Para determinar el horario laboral de los empleados",
+        "Para poder realizar una correcta estimación de las ventas y la previsión de existencias que serán vendidas",
+        "Para calcular el importe de los impuestos"
       ],
-      "correctAnswer": 1,
-      "explanation": "La previsión de existencias vendidas consiste en comparar datos históricos de ventas con la situación actual para estimar correctamente la demanda."
+      "correctAnswer": 2,
+      "explanation": "Es importante conocer la previsión de existencias que serán vendidas, comparando la cantidad de mercancía vendida en otros periodos con la situación actual para realizar una correcta estimación. Fundamento: Variables que influyen en el aprovisionamiento, pág. 4."
     },
     {
-      "question": "¿Cuál de las siguientes es otra variable del aprovisionamiento?",
+      "question": "Según el método ABC, ¿cómo se clasifica la mercancía del Grupo A?",
       "options": [
-        "Coste de gestión de existencias.",
-        "Plan de formación interna.",
-        "Campañas publicitarias.",
-        "Imagen corporativa."
+        "Pocas unidades físicas con gran valor económico",
+        "Valor medio de unidades y económico",
+        "Muchas unidades físicas con bajo valor económico",
+        "Unidades en tránsito con valor variable"
       ],
       "correctAnswer": 0,
-      "explanation": "El coste de gestión de existencias es clave para decidir cuánto stock puede almacenar la empresa sin costes excesivos ni rotura de stock."
-    },
-    {
-      "question": "¿Por qué son importantes los acuerdos con proveedores?",
-      "options": [
-        "Permiten controlar inventarios internos.",
-        "Facilitan plazos de entrega y métodos de pago.",
-        "Sustituyen al departamento comercial.",
-        "Reducen la necesidad de marketing."
-      ],
-      "correctAnswer": 1,
-      "explanation": "La relación con los proveedores es clave porque define plazos de entrega y formas de pago, lo que influye en el aprovisionamiento."
-    },
-    {
-      "question": "Según el método ABC, ¿cómo se clasifica el stock del grupo A?",
-      "options": [
-        "Muchas unidades de bajo valor.",
-        "Pocas unidades con gran valor económico.",
-        "Unidades de valor medio.",
-        "Productos terminados de baja rotación."
-      ],
-      "correctAnswer": 1,
-      "explanation": "El grupo A se compone de pocas unidades físicas pero con alto valor económico."
-    },
-    {
-      "question": "El stock de ciclo se define como…",
-      "options": [
-        "Existencias para cubrir la demanda regular.",
-        "Stock necesario en fechas festivas.",
-        "Existencias adquiridas por especulación.",
-        "Productos que no pueden venderse."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El stock de ciclo corresponde al número de existencias necesarias para cubrir la demanda habitual."
+      "explanation": "Según el método ABC, el Grupo A corresponde a pocas unidades físicas con gran valor económico. Fundamento: Gestión de stocks. Clasificación, pág. 5."
     },
     {
       "question": "¿Qué es el stock de seguridad?",
       "options": [
-        "Existencias compradas para especulación.",
-        "Existencias para atender aumentos puntuales de demanda.",
-        "Stock máximo que se puede almacenar.",
-        "Existencias muertas."
+        "El stock necesario para atender la demanda en un momento puntual de aumento",
+        "Las existencias utilizadas para exposición en el establecimiento",
+        "Las existencias que no pueden ser vendidas por sus características",
+        "El número máximo de existencias que la empresa puede almacenar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El stock de seguridad es el stock necesario para atender la demanda en un momento puntual de aumento. Fundamento: Gestión de stocks. Clasificación, pág. 5."
+    },
+    {
+      "question": "¿Qué es el stock muerto?",
+      "options": [
+        "Existencias almacenadas temporalmente para una campaña estacional",
+        "Existencias que por sus características o las del mercado no pueden ser vendidas",
+        "El nivel mínimo de existencias para atender la demanda regular",
+        "Productos terminados almacenados listos para su distribución"
       ],
       "correctAnswer": 1,
-      "explanation": "El stock de seguridad cubre la demanda en momentos de incremento imprevisto."
+      "explanation": "El stock muerto son existencias que por sus características o las del mercado no pueden ser vendidas. Fundamento: Gestión de stocks. Clasificación, pág. 5."
     },
     {
-      "question": "Un ejemplo de stock estacional es…",
+      "question": "¿Qué es el stock estacional?",
       "options": [
-        "Turrón en Navidad.",
-        "Harina desechada.",
-        "Levadura para roscones de Reyes.",
-        "Trigo sobrante."
+        "Las existencias máximas que una empresa puede almacenar",
+        "El stock necesario para cubrir la demanda durante todo el año",
+        "Las existencias sobrantes de la temporada anterior",
+        "El stock necesario en momentos puntuales del año, como el turrón en Navidad"
       ],
-      "correctAnswer": 0,
-      "explanation": "El stock estacional corresponde a productos demandados en momentos concretos del año, como el turrón en Navidad."
+      "correctAnswer": 3,
+      "explanation": "El stock estacional es el stock necesario en momentos puntuales del año, como por ejemplo el turrón en Navidad. Fundamento: Gestión de stocks. Clasificación, pág. 5."
     },
     {
-      "question": "¿Qué caracteriza al stock de especulación?",
+      "question": "¿Qué información proporciona el código de barras sobre un producto?",
       "options": [
-        "Se adquiere anticipando futuras necesidades del mercado.",
-        "Se utiliza solo para exposición en tienda.",
-        "Corresponde a productos terminados.",
-        "Son existencias no vendibles."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El stock de especulación se adquiere previendo que será necesario en el futuro."
-    },
-    {
-      "question": "El stock muerto se define como…",
-      "options": [
-        "Existencias que no pueden venderse por características propias o del mercado.",
-        "Existencias de presentación.",
-        "Stock de tránsito.",
-        "Stock de anticipación."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El stock muerto son productos que ya no pueden ser vendidos."
-    },
-    {
-      "question": "¿Qué identifica el sistema de código de barras?",
-      "options": [
-        "Solo el país de origen.",
-        "País de origen, proveedor y producto.",
-        "El departamento de recursos humanos.",
-        "Las cuentas contables."
+        "El nombre del cliente que comprará el producto",
+        "El país de origen, el proveedor y el propio producto",
+        "La fecha exacta de caducidad",
+        "El precio final de venta al público"
       ],
       "correctAnswer": 1,
-      "explanation": "El código de barras refleja información sobre país, proveedor y producto."
+      "explanation": "El código de barras da información a través de un número del país de origen, el proveedor y el propio producto. Fundamento: Métodos de gestión de stocks, pág. 6."
     },
     {
-      "question": "El código de barras bidimensional se diferencia por…",
+      "question": "¿Qué ventaja tiene el código QR respecto al código de barras tradicional?",
       "options": [
-        "Usar secuencia de barras verticales.",
-        "Almacenar más información en matriz de puntos.",
-        "Ser ilegible sin contacto visual.",
-        "Solo reflejar precio."
+        "Es capaz de almacenar más cantidad de información",
+        "No necesita ningún dispositivo para ser leído",
+        "Es más barato de producir y no requiere tinta",
+        "Funciona sin conexión a internet ni dispositivos electrónicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El código de barras bidimensional (QR) es capaz de almacenar más cantidad de información que el código de barras tradicional. Fundamento: Métodos de gestión de stocks, pág. 6."
+    },
+    {
+      "question": "¿Qué peculiaridad tiene el código de barras bidimensional (QR)?",
+      "options": [
+        "Solo funciona con dispositivos Apple",
+        "Necesita contacto visual directo con el instrumento que se encarga de leerlo",
+        "No puede almacenar información numérica",
+        "Requiere una conexión a internet permanente"
       ],
       "correctAnswer": 1,
-      "explanation": "El código bidimensional, como el QR, almacena más información pero requiere contacto visual directo."
+      "explanation": "El código QR tiene la peculiaridad de que necesita contacto visual directo con el instrumento que se encarga de leerlo. Fundamento: Métodos de gestión de stocks, pág. 6."
     },
     {
-      "question": "¿Qué ventaja tiene la etiqueta por radiofrecuencia?",
+      "question": "¿Qué caracteriza a la etiqueta electrónica por radiofrecuencia (RFID)?",
       "options": [
-        "Permite lectura sin contacto visual y trazabilidad inmediata.",
-        "Solo identifica el país de origen.",
-        "Es menos avanzada que un código de barras.",
-        "Se limita a la función contable."
+        "Requiere contacto visual directo obligatorio con un lector",
+        "Solo almacena el precio del producto",
+        "Permite la lectura sin necesidad de contacto visual y facilita la trazabilidad desde el primer momento",
+        "Es el sistema más básico de control de existencias"
       ],
-      "correctAnswer": 0,
-      "explanation": "La etiqueta RFID permite lectura sin contacto visual y facilita trazabilidad desde el inicio."
+      "correctAnswer": 2,
+      "explanation": "La etiqueta RFID puede leerse sin necesidad de contacto visual con un lector concreto, permite la trazabilidad desde el primer momento y es más avanzada que las anteriores. Fundamento: Métodos de gestión de stocks, pág. 6."
     },
     {
-      "question": "¿Cuál es el objetivo del volumen óptimo de pedido?",
+      "question": "¿Qué es el volumen óptimo de pedidos?",
       "options": [
-        "Minimizar costes de almacenamiento y pedido.",
-        "Maximizar ventas publicitarias.",
-        "Reducir gastos de personal.",
-        "Elaborar planes de marketing."
+        "La cantidad máxima de productos que caben en el almacén",
+        "La cantidad de mercancía que el proveedor puede enviar en un solo transporte",
+        "El número total de pedidos realizados durante un año fiscal",
+        "La cantidad de unidades que la empresa debe adquirir en un periodo determinado con la finalidad de minimizar los costes"
       ],
-      "correctAnswer": 0,
-      "explanation": "El volumen óptimo de pedido busca la cantidad adecuada para reducir costes de almacenamiento y emisión de pedidos."
+      "correctAnswer": 3,
+      "explanation": "El volumen óptimo de pedidos es la cantidad de unidades que la empresa debe adquirir en un periodo determinado con la finalidad de minimizar los costes. Fundamento: El volumen óptimo de pedidos, pág. 7."
     },
     {
-      "question": "¿Qué mide el stock de seguridad?",
+      "question": "En la fórmula del volumen óptimo de pedidos, ¿qué representa 'D'?",
       "options": [
-        "Diferencia entre plazos de entrega y la demanda media.",
-        "El coste financiero de ventas.",
-        "El volumen de publicidad.",
-        "La estructura organizativa."
+        "El coste de almacenamiento",
+        "La demanda anual",
+        "El coste de emisión de pedido",
+        "La distancia al proveedor"
       ],
-      "correctAnswer": 0,
-      "explanation": "El stock de seguridad se calcula como la diferencia entre plazo máximo y real de entrega multiplicado por la demanda media diaria."
+      "correctAnswer": 1,
+      "explanation": "En la fórmula del VOP, D representa la demanda anual, que se calcula como D = Dm × 360. Fundamento: El volumen óptimo de pedidos, pág. 7."
     },
     {
-      "question": "El punto de pedido se calcula sumando…",
+      "question": "¿Cómo se calcula el stock de seguridad?",
       "options": [
-        "Stock de seguridad + (plazo de entrega * demanda media diaria).",
-        "Volumen de ventas + coste publicitario.",
-        "Nóminas + demanda prevista.",
-        "Existencias + campañas de marketing."
+        "Ss = Dm × PE",
+        "Ss = (PME + PE) × Ca",
+        "Ss = (PME – PE) × Dm",
+        "Ss = D / Q"
       ],
-      "correctAnswer": 0,
-      "explanation": "El punto de pedido resulta de añadir el stock de seguridad al producto del plazo de entrega por la demanda media diaria."
+      "correctAnswer": 2,
+      "explanation": "El stock de seguridad se calcula como Ss = (PME – PE) × Dm, donde PME es el plazo máximo de entrega, PE es el plazo de entrega y Dm es la demanda media diaria. Fundamento: El volumen óptimo de pedidos, pág. 8."
     },
     {
-      "question": "La demanda insatisfecha diferida significa…",
+      "question": "¿Qué es la demanda insatisfecha o rotura de stocks?",
       "options": [
-        "El cliente acepta recibir más tarde el pedido.",
-        "El pedido nunca será atendido.",
-        "El stock máximo cubre toda la demanda.",
-        "El proveedor cancela el contrato."
+        "Cuando la empresa tiene exceso de inventario en el almacén",
+        "Cuando los proveedores entregan más mercancía de la solicitada",
+        "Cuando la empresa decide cerrar temporalmente su almacén central",
+        "Cuando parte de las existencias demandadas no se encuentran en el punto de venta ni almacenadas y no se puede atender al consumidor"
       ],
-      "correctAnswer": 0,
-      "explanation": "La demanda insatisfecha diferida es cuando el cliente espera el pedido aunque no esté disponible en el momento."
+      "correctAnswer": 3,
+      "explanation": "La rotura de stocks se produce cuando parte de las existencias demandadas no se encuentran en el punto de venta ni almacenadas y no se puede atender a las necesidades del consumidor. Fundamento: Costes de la demanda insatisfecha, pág. 8."
     },
     {
-      "question": "La demanda insatisfecha perdida implica…",
+      "question": "¿Qué opciones tiene la empresa ante una demanda insatisfecha?",
       "options": [
-        "No se atiende el pedido del cliente.",
-        "Se aplaza la entrega unos días.",
-        "Se sustituye el producto por otro.",
-        "El proveedor amplía plazo."
+        "Solo puede cancelar la relación con el cliente definitivamente",
+        "Obligatoriamente debe comprar el producto a la competencia",
+        "Debe subir el precio del producto para compensar la falta de stock",
+        "Retrasar la entrega del pedido (demanda diferida) o no atender el pedido (demanda perdida)"
       ],
-      "correctAnswer": 0,
-      "explanation": "La demanda perdida se produce cuando la empresa no atiende el pedido solicitado."
+      "correctAnswer": 3,
+      "explanation": "Ante la rotura de stocks, la empresa puede retrasar la entrega del pedido (demanda insatisfecha diferida) o directamente no atender dicho pedido (demanda insatisfecha perdida). Fundamento: Costes de la demanda insatisfecha, pág. 8."
     },
     {
-      "question": "El período medio de maduración incluye…",
+      "question": "¿Qué componentes forman el Período Medio de Maduración (PMM)?",
       "options": [
-        "Almacenamiento, fabricación, ventas y cobro.",
-        "Nóminas, marketing y contabilidad.",
-        "Auditoría, balances y publicidad.",
-        "Campañas comerciales."
+        "PMM = PMa + PMf + PMv + PMc",
+        "PMM = Activo corriente – Pasivo corriente",
+        "PMM = Costes fijos + Costes variables + Beneficio",
+        "PMM = Ingresos – Gastos – Amortizaciones"
       ],
       "correctAnswer": 0,
-      "explanation": "El PMM suma períodos de almacenamiento, fabricación, ventas y cobro."
+      "explanation": "El PMM se compone de: Período medio de almacenamiento (PMa) + Período medio de fabricación (PMf) + Período medio de ventas (PMv) + Período medio de cobro (PMc). Fundamento: Costes de la demanda insatisfecha, pág. 9."
     },
     {
-      "question": "¿Qué añade el período medio de maduración financiero (PMF)?",
+      "question": "¿Qué diferencia el período medio de maduración financiero (PMF) del PMM?",
       "options": [
-        "Resta el período medio de pago a proveedores.",
-        "Suma los gastos de publicidad.",
-        "Incluye planes de formación.",
-        "Considera auditoría externa."
+        "Incluye el tiempo que tarda la empresa en pagar a sus proveedores (PMp), que se resta del PMM",
+        "No tiene en cuenta el período medio de fabricación",
+        "Solo se aplica a empresas del sector financiero",
+        "Excluye el período medio de cobro"
       ],
       "correctAnswer": 0,
-      "explanation": "El PMF resta al PMM el período medio de pago a proveedores."
+      "explanation": "El PMF incluye el tiempo que tarda la empresa en pagar a sus proveedores: PMF = PMa + PMf + PMv + PMc – PMp. Fundamento: Costes de la demanda insatisfecha, pág. 9."
     },
     {
-      "question": "¿Qué es un ERP?",
+      "question": "¿Qué es un ERP (Enterprise Resource Planning)?",
       "options": [
-        "Software de planificación de recursos empresariales que integra áreas.",
-        "Programa de edición gráfica.",
-        "Plan de marketing.",
-        "Herramienta contable aislada."
+        "Un tipo de código de barras electrónico avanzado",
+        "El software que se encarga de llevar la gestión conjunta de los distintos departamentos de la empresa",
+        "Un método de clasificación de stocks tipo ABC",
+        "Un sistema de etiquetado por radiofrecuencia para productos"
       ],
-      "correctAnswer": 0,
-      "explanation": "Un ERP es un software que gestiona de manera integrada distintos departamentos."
+      "correctAnswer": 1,
+      "explanation": "El ERP (Enterprise Resource Planning) es el software que se encarga de llevar la gestión conjunta de los distintos departamentos de la empresa. Fundamento: Sistemas informáticos de gestión de stocks, pág. 9."
     },
     {
-      "question": "¿Qué función tiene un SGA?",
+      "question": "¿Qué son los sistemas de gestión de almacenes (SGA)?",
       "options": [
-        "Gestionar almacenes de forma automatizada.",
-        "Crear campañas publicitarias.",
-        "Sustituir la contabilidad.",
-        "Gestionar nóminas."
+        "Documentos físicos de registro de mercancías en papel",
+        "Softwares que gestionan el almacén de forma automatizada, pudiendo ser utilizado en distintos almacenes de la empresa",
+        "Sistemas de vigilancia por cámara para la seguridad del almacén",
+        "Programas exclusivos para el control de nóminas del personal"
       ],
-      "correctAnswer": 0,
-      "explanation": "Un SGA es un software especializado en la gestión de almacenes y existencias."
+      "correctAnswer": 1,
+      "explanation": "Los SGA son softwares que gestionan el almacén de forma automatizada. Solo es necesario instalarlo en un operador, pero puede ser utilizado en los distintos almacenes de la empresa. Fundamento: Sistemas informáticos de gestión de stocks, pág. 9."
     },
     {
-      "question": "¿Cuál es una ventaja del SGA?",
+      "question": "¿Cuál de las siguientes NO es una función del software de gestión de stocks?",
       "options": [
-        "Localizar productos rápidamente.",
-        "Elaborar estados financieros.",
-        "Diseñar organigramas.",
-        "Gestionar personal."
+        "Diseñar campañas publicitarias para los productos almacenados",
+        "Registrar la información relativa a los pedidos",
+        "Localizar los productos de manera rápida y sencilla",
+        "Minimizar el tiempo y las tareas a realizar"
       ],
       "correctAnswer": 0,
-      "explanation": "Un SGA facilita la localización rápida de productos en almacén."
+      "explanation": "El software SGA sirve para localizar productos, registrar pedidos, minimizar tiempos y lograr eficacia en almacenamiento. Diseñar campañas publicitarias no es una función del SGA. Fundamento: Sistemas informáticos de gestión de stocks, pág. 9."
     },
     {
-      "question": "Un ejemplo de software SGA es…",
+      "question": "¿Quién creó el modelo Just in Time (JIT) y en qué época surgió?",
       "options": [
-        "Siges SGA o Libra SGA.",
-        "Photoshop.",
-        "Excel.",
-        "AutoCAD."
+        "Henry Ford en los años veinte en Estados Unidos",
+        "Steve Jobs en los años noventa en Silicon Valley",
+        "Jeff Bezos en los años dos mil en Amazon",
+        "Kiichiro Toyoda en los años cuarenta en Japón"
       ],
-      "correctAnswer": 0,
-      "explanation": "Ejemplos de SGA son Siges SGA, Warehouse o Libra SGA."
+      "correctAnswer": 3,
+      "explanation": "El modelo JIT surge en los años cuarenta de la mano de Kiichiro Toyoda, encargado de la división de motores de Toyota en Japón. Fundamento: Enfoque JIT, pág. 11."
     },
     {
-      "question": "El modelo Just in Time busca…",
+      "question": "¿En qué consiste el sistema Just in Time (JIT)?",
       "options": [
-        "Minimizar stock y costes de almacenamiento.",
-        "Aumentar inventarios.",
-        "Elaborar balances financieros.",
-        "Incrementar publicidad."
+        "En almacenar la mayor cantidad posible de stock para anticipar la demanda",
+        "En fabricar productos en grandes lotes para reducir costes unitarios",
+        "En minimizar la cantidad de stock, fabricando únicamente lo necesario en el momento necesario, para reducir costes de almacenamiento",
+        "En externalizar toda la producción a países con mano de obra más barata"
       ],
-      "correctAnswer": 0,
-      "explanation": "El JIT consiste en reducir stocks al mínimo, fabricando solo lo necesario en el momento oportuno."
+      "correctAnswer": 2,
+      "explanation": "El JIT consiste en minimizar la cantidad de stock, fabricando únicamente lo necesario en el momento necesario, con la finalidad de reducir costes de almacenamiento. Fundamento: Enfoque JIT, pág. 11."
     },
     {
-      "question": "¿Cuál es una ventaja del JIT?",
+      "question": "¿Cuál es una de las ventajas del sistema JIT?",
       "options": [
-        "Reducir desechos y tiempos de espera.",
-        "Incrementar publicidad.",
-        "Aumentar stock al máximo.",
-        "Disminuir calidad."
+        "Aumentar la cantidad de productos almacenados",
+        "Minimizar los costes de almacenamiento",
+        "Incrementar los desechos de producción",
+        "Alargar los tiempos de espera en la fabricación"
       ],
-      "correctAnswer": 0,
-      "explanation": "El JIT reduce desperdicios, tiempos y costes de almacenamiento."
+      "correctAnswer": 1,
+      "explanation": "Una de las ventajas del JIT es minimizar los costes de almacenamiento. También reduce la cantidad de desechos y minimiza los tiempos de espera. Fundamento: Enfoque JIT, pág. 11."
     },
     {
-      "question": "Una necesidad del JIT es…",
+      "question": "¿Cuál es una necesidad del sistema JIT para funcionar correctamente?",
       "options": [
-        "Sistema automatizado y asegurar calidad total.",
-        "Exceso de stock.",
-        "Campañas de marketing.",
-        "Elaborar nóminas."
+        "Múltiples proveedores sin acuerdos específicos",
+        "Un almacén de gran tamaño para guardar reservas",
+        "Un sistema totalmente automatizado",
+        "Personal sin formación específica en logística"
       ],
-      "correctAnswer": 0,
-      "explanation": "Para aplicar JIT se necesita automatización y control de calidad."
+      "correctAnswer": 2,
+      "explanation": "Para que el JIT funcione es necesario un sistema totalmente automatizado, capacidad de producir gran cantidad en poco tiempo y asegurar la calidad total. Fundamento: Enfoque JIT, pág. 11."
     },
     {
-      "question": "¿Qué significa Kanban?",
+      "question": "¿Qué significa la palabra 'Kanban' en japonés?",
       "options": [
-        "Registro visual o tarjeta en japonés.",
-        "Auditoría externa.",
-        "Publicidad en medios.",
-        "Software de contabilidad."
+        "Registro visual o tarjeta",
+        "Producción rápida",
+        "Control total",
+        "Almacén inteligente"
       ],
       "correctAnswer": 0,
-      "explanation": "Kanban significa tarjeta o registro visual en japonés."
+      "explanation": "Kanban significa registro visual, tarjeta en japonés. Fundamento: Sistemas de tarjetas Kanban, pág. 11."
     },
     {
-      "question": "El Kanban consiste en…",
+      "question": "¿En qué consiste el sistema de tarjetas Kanban?",
       "options": [
-        "Tarjetas que identifican artículos intermedios o finales en la producción.",
-        "Estrategia de marketing.",
-        "Plan financiero.",
-        "Auditoría de calidad."
+        "En un sistema de pagos electrónicos a proveedores",
+        "En un método de selección de personal por competencias",
+        "En identificar tarjetas relacionadas con artículos de una línea de producción que registran cada etapa del proceso productivo",
+        "En una técnica de diseño de envases para productos de lujo"
       ],
-      "correctAnswer": 0,
-      "explanation": "El sistema Kanban utiliza tarjetas asociadas a productos para registrar etapas del proceso."
+      "correctAnswer": 2,
+      "explanation": "El sistema Kanban consiste en identificar tarjetas relacionadas con artículos intermedios o acabados de una línea de producción, que realizan un registro en cada etapa del proceso productivo. Fundamento: Sistemas de tarjetas Kanban, pág. 11."
     },
     {
-      "question": "El Kanban imita…",
+      "question": "¿Qué es la rotación de un artículo en el almacén?",
       "options": [
-        "A un código de barras para identificar productos.",
-        "A un plan de marketing.",
-        "A una auditoría contable.",
-        "A un software financiero."
+        "El número de veces que se cambia de ubicación dentro del almacén",
+        "El tiempo que tarda en deteriorarse el producto almacenado",
+        "La frecuencia con la que se actualiza el precio del producto",
+        "El número de entradas y salidas del artículo en el almacén"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La rotación de un artículo significa el número de entradas y salidas de éste en el almacén. A mayor índice de rotación, mayor número de ventas. Fundamento: Métodos de gestión de stocks, pág. 6."
+    },
+    {
+      "question": "¿Qué es el período medio de almacenamiento (PMa)?",
+      "options": [
+        "El tiempo que la empresa tarda en fabricar el producto terminado",
+        "El tiempo que permanecen los productos fabricados almacenados hasta su venta",
+        "El tiempo que permanecen las materias primas almacenadas hasta que son incorporadas al proceso de producción",
+        "El tiempo de espera del cobro aplazado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El período medio de almacenamiento (PMa) es el tiempo que permanecen las materias primas almacenadas hasta que son incorporadas al proceso de producción. Fundamento: Costes de la demanda insatisfecha, pág. 9."
+    },
+    {
+      "question": "¿Qué es el stock de ciclo?",
+      "options": [
+        "El número de existencias necesarias para cubrir la demanda",
+        "El stock necesario en momentos puntuales del año",
+        "Las existencias para exposición en el establecimiento",
+        "Las existencias adquiridas para un futuro aumento de la demanda"
       ],
       "correctAnswer": 0,
-      "explanation": "El Kanban funciona como un código de barras que identifica productos por características."
+      "explanation": "El stock de ciclo es el número de existencias necesarias para cubrir la demanda. Fundamento: Gestión de stocks. Clasificación, pág. 5."
+    },
+    {
+      "question": "¿Qué relación tiene el coste de gestión de existencias con las decisiones de aprovisionamiento?",
+      "options": [
+        "No influye en las decisiones de aprovisionamiento",
+        "Solo afecta a las empresas comerciales, no a las industriales",
+        "Es irrelevante si la empresa tiene muchos proveedores",
+        "Es importante conocer el nivel de stock que puede almacenar la empresa sin incurrir en costes elevados ni rotura de stock"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Es muy importante conocer el nivel de stock que puede almacenar la empresa sin incurrir en costes elevados ni rotura de stock. Fundamento: Variables que influyen en el aprovisionamiento, pág. 4."
     }
   ]
 }

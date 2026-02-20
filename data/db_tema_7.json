@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 7: EL PROCESO DE APROVISIONAMIENTO",
   "items": [
     {
-      "question": "¿Cuál es la función principal del departamento de aprovisionamiento?",
+      "question": "¿Dónde se incluye normalmente la función de aprovisionamiento en una mediana y gran empresa?",
       "options": [
-        "Diseñar campañas de publicidad.",
-        "Conocer necesidades, predecir existencias y gestionar compras minimizando costes.",
-        "Redactar balances financieros.",
-        "Seleccionar y contratar personal."
+        "En el departamento de recursos humanos",
+        "En el departamento de informática",
+        "En el departamento de producción exclusivamente",
+        "En el departamento comercial, aunque lleva a cabo tareas distintas del área de compra"
       ],
-      "correctAnswer": 1,
-      "explanation": "El aprovisionamiento se encarga de conocer necesidades, prever existencias y gestionar compras minimizando costes."
+      "correctAnswer": 3,
+      "explanation": "Normalmente en una mediana y gran empresa la función de aprovisionamiento se incluye en el departamento comercial, aunque lleva a cabo tareas distintas que el área de compra. Fundamento: Relación con otros departamentos, pág. 4."
     },
     {
-      "question": "¿Con qué departamento suele integrarse la función de aprovisionamiento en medianas y grandes empresas?",
+      "question": "¿Cuál es una función del aprovisionamiento?",
       "options": [
-        "Producción.",
-        "Comercial.",
-        "Recursos humanos.",
-        "Administración."
+        "Diseñar campañas publicitarias para los productos",
+        "Conocer las necesidades de la empresa y predecir el nivel de existencias necesarias",
+        "Seleccionar al personal del departamento de ventas",
+        "Aprobar los presupuestos de marketing anual"
       ],
       "correctAnswer": 1,
-      "explanation": "En empresas de mayor tamaño, el aprovisionamiento suele formar parte del departamento comercial aunque con tareas distintas."
+      "explanation": "Una función del aprovisionamiento es conocer las necesidades de la empresa y predecir el nivel de existencias necesarias. Fundamento: Relación con otros departamentos, pág. 4."
     },
     {
-      "question": "¿Qué tarea corresponde al departamento de producción?",
+      "question": "¿De qué se encarga el departamento de producción en relación con el aprovisionamiento?",
       "options": [
-        "Solicitar materias primas necesarias con características específicas para la fabricación.",
-        "Redactar informes contables.",
-        "Diseñar campañas de marketing.",
-        "Gestionar las nóminas del personal."
+        "De gestionar los pagos a los proveedores",
+        "De solicitar las materias primas necesarias y especificar las características que deben poseer para la correcta fabricación",
+        "De seleccionar al personal del almacén",
+        "De diseñar el embalaje de los productos terminados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El departamento de producción se encarga de solicitar las materias primas necesarias y las características que deben poseer para la correcta fabricación de productos. Fundamento: Relación con otros departamentos, pág. 4."
+    },
+    {
+      "question": "¿De qué se encarga el departamento de logística?",
+      "options": [
+        "De la selección y contratación del personal de la empresa",
+        "De la gestión financiera y contable de la empresa",
+        "De hacer control y seguimiento de los productos desde su adquisición hasta la llegada al consumidor final",
+        "De la negociación de contratos con proveedores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El departamento de logística se encarga de hacer control y seguimiento de los productos desde su adquisición hasta la llegada al consumidor final. Fundamento: Relación con otros departamentos, pág. 4."
+    },
+    {
+      "question": "¿Qué criterios suelen seguir las empresas para ubicar la mercancía en el almacén?",
+      "options": [
+        "El color y la forma del producto exclusivamente",
+        "Solo el nombre del proveedor por orden alfabético",
+        "Criterios como volumen, rotación y valor económico",
+        "Únicamente la fecha de llegada al almacén"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Normalmente cada empresa sigue ciertos criterios a la hora de ubicar la mercancía como volumen, rotación, valor económico, entre otros. Fundamento: Sistemas de seguimiento y control, pág. 4."
+    },
+    {
+      "question": "¿Qué es un SGA?",
+      "options": [
+        "Un programa informático que se utiliza para llevar a cabo la gestión y control de almacenes",
+        "Un sistema de gestión administrativa",
+        "Un software exclusivo para la contabilidad",
+        "Un sistema de gestión de personal"
       ],
       "correctAnswer": 0,
-      "explanation": "El departamento de producción define y solicita materias primas y sus características."
+      "explanation": "Un sistema de gestión de almacenes (SGA) es un programa informático que se utiliza para llevar a cabo la gestión y control de almacenes. Fundamento: Sistemas de seguimiento y control, pág. 4."
     },
     {
-      "question": "El departamento administrativo y financiero se ocupa de…",
+      "question": "¿Cuál es la tarea principal del sistema RFID?",
       "options": [
-        "La selección de personal.",
-        "La gestión económica y pagos de materias primas.",
-        "El control de almacén.",
-        "El diseño de publicidad."
+        "La elaboración de nóminas del personal del almacén",
+        "La contabilización de las ventas diarias de la empresa",
+        "La transmisión de objetos a través de ondas de radio, permitiendo enviar comunicaciones constantes a los operarios",
+        "El diseño de etiquetas publicitarias para los productos"
       ],
-      "correctAnswer": 1,
-      "explanation": "Este departamento gestiona la documentación y pagos asociados a la compra de materias primas."
+      "correctAnswer": 2,
+      "explanation": "El RFID recopila datos y su tarea principal es la transmisión de objetos a través de ondas de radio, permitiendo enviar comunicaciones constantes a los operarios. Fundamento: Sistemas de seguimiento y control, pág. 5."
     },
     {
-      "question": "¿Cuál es la función del departamento de logística?",
+      "question": "¿Qué es la orden de picking?",
       "options": [
-        "Diseñar campañas.",
-        "Controlar y seguir productos desde adquisición hasta consumidor final.",
-        "Gestionar recursos humanos.",
-        "Redactar balances."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Logística controla y supervisa el flujo de productos desde la compra hasta la entrega al cliente final."
-    },
-    {
-      "question": "¿Qué criterio puede usarse para ubicar mercancía en el almacén?",
-      "options": [
-        "Volumen, rotación o valor económico.",
-        "Nombre del proveedor.",
-        "Número de empleados.",
-        "Estrategia publicitaria."
+        "Un documento necesario para la preparación de pedidos que contiene las tareas que deben realizar los empleados del almacén",
+        "Un contrato de compraventa entre empresas",
+        "Un certificado de calidad del producto terminado",
+        "Un documento financiero para el registro de pagos"
       ],
       "correctAnswer": 0,
-      "explanation": "Las empresas suelen ubicar mercancías atendiendo a volumen, rotación y valor económico."
-    },
-    {
-      "question": "¿Qué sistema informático se utiliza para la gestión de almacenes?",
-      "options": [
-        "ERP.",
-        "SGA.",
-        "CRM.",
-        "FactuSol."
-      ],
-      "correctAnswer": 1,
-      "explanation": "El Sistema de Gestión de Almacenes (SGA) controla el almacén y coordina procesos de ubicación y pedidos."
-    },
-    {
-      "question": "La tecnología RFID se utiliza para…",
-      "options": [
-        "Transmitir datos mediante ondas de radio y optimizar tareas logísticas.",
-        "Elaborar nóminas.",
-        "Diseñar organigramas.",
-        "Realizar campañas publicitarias."
-      ],
-      "correctAnswer": 0,
-      "explanation": "RFID transmite información por ondas de radio mejorando la comunicación y eficiencia en almacenes."
-    },
-    {
-      "question": "La orden de picking también se denomina…",
-      "options": [
-        "Nota de pedido.",
-        "Lista de extracción.",
-        "Nota de cargo.",
-        "Albarán."
-      ],
-      "correctAnswer": 1,
-      "explanation": "La orden de picking es la lista de extracción usada para preparar pedidos."
+      "explanation": "La orden de picking, o lista de extracción, es un documento necesario para la preparación de pedidos que contiene las tareas que deben llevar a cabo los empleados del almacén. Fundamento: Orden de picking, pág. 5."
     },
     {
       "question": "¿Cuál es el objetivo principal de la orden de picking?",
       "options": [
-        "Permitir que pedidos lleguen a tiempo y sin errores al consumidor final.",
-        "Sustituir las facturas.",
-        "Diseñar campañas publicitarias.",
-        "Controlar nóminas."
+        "Calcular el beneficio neto de cada venta",
+        "Que los empleados posean la información necesaria para no cometer errores como seleccionar un producto inadecuado o no preparar la cantidad necesaria",
+        "Registrar las ausencias del personal del almacén",
+        "Diseñar las rutas de transporte para las entregas"
       ],
-      "correctAnswer": 0,
-      "explanation": "La orden de picking busca preparar pedidos correctamente para entregarlos puntualmente sin errores."
+      "correctAnswer": 1,
+      "explanation": "El objetivo principal es que los empleados posean la información necesaria para no cometer errores básicos como seleccionar un producto inadecuado o no preparar la cantidad necesaria. Fundamento: Orden de picking, pág. 5."
     },
     {
-      "question": "¿Qué información suele reflejar una orden de picking?",
+      "question": "¿Qué es el batch picking?",
       "options": [
-        "Pasillo, sección, referencia y cantidad de productos.",
-        "Nóminas y balances.",
-        "Estrategia de marketing.",
-        "Datos de publicidad."
+        "Preparar una serie de pedidos en el mismo espacio de tiempo de forma conjunta",
+        "Preparar un solo pedido de gran volumen",
+        "Devolver productos defectuosos al proveedor",
+        "Clasificar los productos por categorías en el almacén"
       ],
       "correctAnswer": 0,
-      "explanation": "El documento incluye datos de ubicación y cantidad de productos para la preparación del pedido."
+      "explanation": "El batch picking consiste en preparar una serie de pedidos en el mismo espacio de tiempo de forma conjunta, frente a elaborar la orden de forma individual para cada pedido. Fundamento: Orden de picking, pág. 6."
     },
     {
-      "question": "El batch picking consiste en…",
+      "question": "¿Qué papel juega el SGA en la orden de picking?",
       "options": [
-        "Preparar varios pedidos al mismo tiempo.",
-        "Emitir varias facturas.",
-        "Contratar personal en bloque.",
-        "Agrupar nóminas."
+        "No tiene ninguna relación con la preparación de pedidos",
+        "El SGA genera la orden de pedido que llega a los empleados por radiofrecuencia, permitiendo preparar los pedidos de forma ágil",
+        "Solo sirve para almacenar información histórica de pedidos antiguos",
+        "Únicamente registra los errores cometidos en la preparación"
       ],
-      "correctAnswer": 0,
-      "explanation": "El batch picking permite preparar varios pedidos en un mismo espacio de tiempo."
+      "correctAnswer": 1,
+      "explanation": "El SGA genera la orden de pedido que normalmente llega a los empleados por un sistema de radiofrecuencia, para que preparen el pedido de manera ágil y rápida. Fundamento: El papel del SGA en la orden de picking, pág. 6."
     },
     {
-      "question": "¿Qué ventaja ofrece el SGA en la orden de picking?",
+      "question": "¿Qué es el EDI (Electronic Data Interchange)?",
       "options": [
-        "Genera la orden automáticamente y la transmite por radiofrecuencia a empleados.",
-        "Sustituye el albarán.",
-        "Diseña campañas.",
-        "Redacta balances."
+        "Un tipo de etiqueta electrónica para productos",
+        "Un software que sirve para el envío y recepción de información comercial entre empresas o de manera interna",
+        "Un sistema de seguridad para almacenes",
+        "Un programa de diseño gráfico para catálogos"
       ],
-      "correctAnswer": 0,
-      "explanation": "El SGA agiliza la preparación generando órdenes y enviándolas directamente a los empleados."
+      "correctAnswer": 1,
+      "explanation": "EDI es un software que sirve para el envío y la recepción de información comercial entre empresas o dentro de cada una de ellas de manera interna. Fundamento: Orden de picking, pág. 5."
     },
     {
-      "question": "¿Qué documento surge tras acuerdo entre comprador y proveedor?",
+      "question": "¿Qué es la nota de pedido?",
       "options": [
-        "Nota de pedido u orden de pedido.",
-        "Nota de cargo.",
-        "Albarán.",
-        "Factura."
+        "Un documento que surge una vez que comprador y proveedor han acordado un intercambio, detallando cantidad, precio, referencia y datos de ambas empresas",
+        "Un registro interno de las mercancías que entran en la empresa",
+        "Un documento que justifica la entrega de mercancía al comprador",
+        "Una factura rectificativa para corregir errores"
       ],
       "correctAnswer": 0,
-      "explanation": "Una vez alcanzado el acuerdo se emite la nota de pedido detallando cantidad, precio y fecha de entrega."
+      "explanation": "La nota de pedido surge cuando comprador y proveedor han llegado a un acuerdo, detallando de manera precisa la cantidad, precio, referencia y datos de ambas empresas. Fundamento: Documentación del proceso, pág. 8."
     },
     {
-      "question": "¿Quién emite la carta de portes?",
+      "question": "¿Qué es la carta de portes?",
       "options": [
-        "La empresa de transporte.",
-        "El comprador.",
-        "El departamento de producción.",
-        "El departamento de marketing."
+        "Un contrato de trabajo para los transportistas",
+        "Un documento emitido por la empresa de transporte que justifica y garantiza la entrega de la mercancía en la empresa compradora",
+        "Una orden de compra para la empresa proveedora",
+        "Una factura electrónica de los gastos de transporte"
       ],
-      "correctAnswer": 0,
-      "explanation": "La carta de portes es emitida por la empresa transportista como garantía de entrega."
+      "correctAnswer": 1,
+      "explanation": "La carta de portes es emitida por la empresa de transporte y tiene como finalidad justificar y garantizar la entrega de la mercancía en la empresa compradora. Fundamento: Documentación del proceso, pág. 8."
     },
     {
-      "question": "La nota de recepción se utiliza para…",
+      "question": "¿Qué es la nota de recepción?",
       "options": [
-        "Registrar mercancías que entran y verificar entregas.",
-        "Elaborar nóminas.",
-        "Diseñar campañas.",
-        "Emitir facturas."
+        "Un contrato de suministro con el proveedor",
+        "Una factura proforma para el comercio internacional",
+        "Un documento interno que registra las mercancías que entran en la empresa para verificar el cumplimiento de fechas de entrega",
+        "Un presupuesto emitido por el departamento comercial"
       ],
-      "correctAnswer": 0,
-      "explanation": "La nota de recepción registra la entrada de mercancías y controla que se cumplan plazos de entrega."
+      "correctAnswer": 2,
+      "explanation": "La nota de recepción es un documento interno que registra las mercancías que entran en la empresa para verificar que se han cumplido las fechas de entrega y evitar roturas de stock. Fundamento: Documentación del proceso, pág. 8."
     },
     {
-      "question": "La nota de cargo también se denomina…",
+      "question": "¿Qué es la nota de cargo o nota de débito?",
       "options": [
-        "Nota de débito.",
-        "Nota de pedido.",
-        "Albarán.",
-        "Orden de picking."
+        "Un documento que acredita la calidad de los productos recibidos",
+        "Un documento interno que informa al cliente de algún cargo extra en el precio acordado o en futuras ventas",
+        "Un documento en el que se reconocen las devoluciones de mercancía",
+        "Una autorización para realizar descuentos al cliente"
       ],
-      "correctAnswer": 0,
-      "explanation": "La nota de cargo o débito informa de un cargo adicional en el precio acordado."
+      "correctAnswer": 1,
+      "explanation": "La nota de cargo es de carácter interno y sirve para informar al cliente de algún cargo extra en el precio acordado o en futuras ventas. Fundamento: Documentación del proceso, pág. 8."
     },
     {
-      "question": "El albarán acredita…",
+      "question": "¿Qué es el albarán?",
       "options": [
-        "La salida de mercancías del almacén y su entrega al comprador.",
-        "El cálculo de nóminas.",
-        "La estrategia de marketing.",
-        "Los balances financieros."
+        "El documento emitido por el vendedor que relaciona las mercancías enviadas y acredita la salida de mercancías del almacén y su entrega al comprador",
+        "Un presupuesto detallado de los productos a adquirir",
+        "Un contrato de transporte marítimo internacional",
+        "Una factura simplificada sin datos del destinatario"
       ],
       "correctAnswer": 0,
-      "explanation": "El albarán acompaña la mercancía enviada y certifica la entrega al cliente."
+      "explanation": "El albarán es el documento emitido por el vendedor que relaciona las mercancías enviadas y acredita la salida de mercancías del almacén y su entrega al comprador. Fundamento: Albarán, pág. 9."
     },
     {
-      "question": "¿Cuántas copias del albarán se realizan normalmente?",
+      "question": "¿Cuántas copias del albarán se deben realizar?",
       "options": [
-        "Tres copias: original y dos copias.",
-        "Una copia.",
-        "Cinco copias.",
-        "Ninguna."
+        "Una sola copia para el vendedor",
+        "Dos copias: una para cada empresa",
+        "Cuatro copias: una para cada departamento",
+        "Tres copias: la original y una copia para la empresa compradora, y la segunda copia para la empresa vendedora"
       ],
-      "correctAnswer": 0,
-      "explanation": "Se elaboran tres copias: original y dos copias, una para comprador y otra para vendedor."
+      "correctAnswer": 3,
+      "explanation": "Se necesitan tres copias: la original y una copia para la empresa compradora (la original se archiva y la copia se firma), y la segunda copia es para la empresa vendedora. Fundamento: Albarán, pág. 9."
     },
     {
-      "question": "¿Qué tipo de albarán incluye valoración económica?",
+      "question": "¿Qué diferencia hay entre un albarán valorado y uno sin valorar?",
       "options": [
-        "Albarán valorado.",
-        "Albarán sin valorar.",
-        "Nota de pedido.",
-        "Nota de recepción."
+        "No existe ninguna diferencia entre ellos",
+        "El albarán sin valorar solo incluye el nombre del producto y el valorado incluye el peso",
+        "El albarán sin valorar no incluye la valoración económica, mientras que el valorado incluye precio unitario, total e impuestos (IVA)",
+        "El valorado solo se usa en comercio internacional"
       ],
-      "correctAnswer": 0,
-      "explanation": "El albarán valorado incluye precios unitarios, totales e impuestos."
+      "correctAnswer": 2,
+      "explanation": "El albarán sin valorar no incluye valoración económica; el valorado incluye precio unitario y total, así como impuestos (IVA), y se usa para relaciones constantes y periódicas. Fundamento: Albarán, pág. 9."
     },
     {
-      "question": "¿Cuándo es obligatorio emitir factura?",
+      "question": "¿Qué normativa regula el proceso de facturación en España?",
       "options": [
-        "En operaciones con empresarios, exportaciones, entregas intracomunitarias, ventas a la Administración o bienes con impuestos especiales.",
-        "Solo en ventas al consumidor final.",
-        "Solo cuando lo exige el cliente.",
-        "Nunca es obligatorio."
+        "El Código Civil español",
+        "La Ley de Sociedades de Capital",
+        "La Ley del Impuesto sobre Sociedades",
+        "El Real Decreto 1619/2012 del 30 de noviembre sobre obligaciones de facturación"
       ],
-      "correctAnswer": 0,
-      "explanation": "El Real Decreto 1619/2012 regula la obligatoriedad de emitir factura en esos casos."
+      "correctAnswer": 3,
+      "explanation": "Todo el proceso de facturación está regulado en el Real Decreto 1619/2012 del 30 de noviembre, en el que aparecen las obligaciones de facturación. Fundamento: Factura, pág. 9."
     },
     {
-      "question": "¿Cuánto tiempo debe conservarse una copia de factura?",
+      "question": "¿Durante cuánto tiempo debe la empresa vendedora conservar una copia de la factura?",
       "options": [
-        "Al menos seis años.",
-        "Dos años.",
-        "Un año.",
-        "Diez años."
+        "Al menos seis años",
+        "Al menos tres años",
+        "Al menos un año",
+        "Al menos diez años"
       ],
       "correctAnswer": 0,
-      "explanation": "La empresa vendedora debe conservar la factura un mínimo de seis años."
+      "explanation": "Resulta obligatorio para las empresas vendedoras emitir el documento y conservar una copia en el archivo durante al menos seis años. Fundamento: Factura, pág. 9."
     },
     {
-      "question": "Una factura simplificada puede emitirse cuando…",
+      "question": "¿Cuándo puede emitirse una factura simplificada?",
       "options": [
-        "El importe no supere los 400 € IVA incluido o como rectificativa.",
-        "El importe supere los 400 €.",
-        "Sea una exportación intracomunitaria.",
-        "Se trate de una compraventa con Administración Pública."
+        "Cuando el importe supere los 1.000 €",
+        "Siempre que la venta sea entre empresas nacionales",
+        "Solo cuando el comprador es una Administración Pública",
+        "Cuando el importe no supere los 400 € (IVA incluido) o cuando sea necesario emitir una factura rectificativa"
       ],
-      "correctAnswer": 0,
-      "explanation": "La factura simplificada se admite en operaciones inferiores a 400 € o rectificativas."
+      "correctAnswer": 3,
+      "explanation": "El vendedor puede emitir factura simplificada cuando el importe no supere los 400 € (IVA incluido) y cuando sea necesario emitir una factura rectificativa. Fundamento: Factura simplificada, pág. 10."
     },
     {
-      "question": "¿Qué tipo de factura agrupa varias operaciones en un periodo?",
+      "question": "¿Qué es una factura recapitulativa?",
       "options": [
-        "Factura recapitulativa.",
-        "Factura simplificada.",
-        "Factura electrónica.",
-        "Factura rectificativa."
+        "Una factura exclusiva para exportaciones",
+        "Una factura para corregir errores en la factura original",
+        "Un presupuesto previo a la venta sin validez legal",
+        "Una factura que incluye varias operaciones de compraventa realizadas con una misma empresa en un periodo de tiempo"
       ],
-      "correctAnswer": 0,
-      "explanation": "La recapitulativa concentra varias operaciones con un mismo cliente en un periodo."
+      "correctAnswer": 3,
+      "explanation": "La factura recapitulativa incluye en una misma factura varias operaciones de compraventa realizadas con una empresa compradora concreta en un periodo de tiempo. Fundamento: Tipos de facturas, pág. 10."
     },
     {
-      "question": "¿Qué tipo de factura corrige errores de la original?",
+      "question": "¿Para qué se utiliza la factura rectificativa?",
       "options": [
-        "Factura rectificativa.",
-        "Factura recapitulativa.",
-        "Factura proforma.",
-        "Factura electrónica."
+        "Para corregir algún error en la factura original o justificar la devolución de mercancía",
+        "Para registrar nuevos productos en el catálogo de la empresa",
+        "Para realizar presupuestos en comercio internacional",
+        "Para registrar pagos a proveedores extranjeros"
       ],
       "correctAnswer": 0,
-      "explanation": "La rectificativa corrige errores o devuelve mercancía en caso necesario."
+      "explanation": "La factura rectificativa se utiliza para corregir algún error en la factura original o para justificar la devolución de mercancía. Fundamento: Tipos de facturas, pág. 10."
     },
     {
-      "question": "¿Qué tipo de factura es similar a un presupuesto?",
+      "question": "¿Qué es una factura electrónica?",
       "options": [
-        "Factura proforma.",
-        "Factura recapitulativa.",
-        "Factura rectificativa.",
-        "Factura electrónica."
+        "Una factura impresa con datos adicionales de la empresa",
+        "Una factura que solo puede emitirse por empresas tecnológicas",
+        "Un presupuesto online sin validez fiscal",
+        "Una factura en formato electrónico que requiere acuerdo entre comprador y vendedor y debe usar firma electrónica u otro medio válido"
       ],
-      "correctAnswer": 0,
-      "explanation": "La proforma es un documento previo, similar a presupuesto, usado en comercio internacional."
+      "correctAnswer": 3,
+      "explanation": "La factura electrónica se presenta en formato electrónico, debe existir acuerdo entre comprador y vendedor, y para que sea válida debe utilizarse firma electrónica u otro medio permitido. Fundamento: Tipos de facturas, pág. 10."
     },
     {
-      "question": "La factura electrónica debe cumplir…",
+      "question": "¿Cuándo es obligatorio emitir facturas?",
       "options": [
-        "Estar firmada electrónicamente o con medio admitido y acuerdo previo entre partes.",
-        "No tener firma ni requisitos legales.",
-        "Solo emitirse en exportaciones.",
-        "Sustituir al albarán."
+        "Solo cuando la venta supere los 1.000 €",
+        "Únicamente en ventas al consumidor final",
+        "Cuando la parte compradora sea empresario o profesional, en exportaciones exentas de IVA, a Administraciones Públicas, cuando conlleve instalación o con impuestos especiales",
+        "Solo en operaciones de comercio internacional"
       ],
-      "correctAnswer": 0,
-      "explanation": "La factura electrónica es válida con firma electrónica o medio admitido y acuerdo comprador-vendedor."
+      "correctAnswer": 2,
+      "explanation": "Es obligatorio emitir facturas cuando el comprador es empresario o profesional, en exportaciones intracomunitarias exentas de IVA, a Administraciones Públicas, cuando conlleve instalación o con impuestos especiales. Fundamento: Factura, pág. 9."
     },
     {
-      "question": "¿Qué programa informático se utiliza en este tema para gestión y facturación?",
+      "question": "¿Qué es FactuSol?",
       "options": [
-        "FactuSol.",
-        "ContaSol.",
-        "Excel.",
-        "SAP."
+        "Un software de diseño gráfico para etiquetas",
+        "Un sistema operativo para ordenadores de almacén",
+        "Un programa de gestión comercial gratuito que permite facturación y gestión de la empresa",
+        "Una red social para empresas proveedoras"
       ],
-      "correctAnswer": 0,
-      "explanation": "El tema se centra en FactuSol, herramienta gratuita de gestión y facturación."
+      "correctAnswer": 2,
+      "explanation": "FactuSol es un programa de gestión comercial gratuito, accesible y descargable desde www.delsol.com, que permite la facturación y gestión de la empresa. Fundamento: FactuSol, pág. 10."
     },
     {
-      "question": "¿Qué opción de FactuSol permite gestionar ventas y clientes?",
+      "question": "¿Qué apartados principales se encuentran en la barra de opciones de FactuSol?",
       "options": [
-        "Pestaña ventas.",
-        "Pestaña compras.",
-        "Pestaña almacén.",
-        "Pestaña informes."
+        "Solo ventas y compras",
+        "Únicamente contabilidad y recursos humanos",
+        "Ventas, compras, almacén, administración, informes y utilidades",
+        "Solo facturación y envío de correos electrónicos"
       ],
-      "correctAnswer": 0,
-      "explanation": "La pestaña ventas reúne opciones para la relación comercial con clientes."
+      "correctAnswer": 2,
+      "explanation": "En la barra de opciones de FactuSol se encuentran las pestañas de ventas, compras, almacén, administración, informes y utilidades. Fundamento: FactuSol, pág. 11."
     },
     {
-      "question": "La pestaña compras de FactuSol sirve para…",
+      "question": "¿Qué información es imprescindible para que el SGA pueda realizar las tareas de picking de forma automática?",
       "options": [
-        "Gestionar relación con proveedores y compras.",
-        "Redactar balances.",
-        "Diseñar campañas.",
-        "Gestionar nóminas."
+        "Los datos bancarios del cliente",
+        "Los datos del transportista asignado",
+        "El historial de ventas del último trimestre",
+        "La información que aportan los códigos de barras de cada producto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La información imprescindible para poder realizar estas tareas es la que aportan los códigos de barras de cada producto. Fundamento: El papel del SGA en la orden de picking, pág. 6."
+    },
+    {
+      "question": "¿De qué se encarga el departamento administrativo y financiero en relación con el aprovisionamiento?",
+      "options": [
+        "De llevar a cabo la documentación y gestión económica para organizar los pagos de materias primas y materiales",
+        "De diseñar los productos que se van a fabricar",
+        "De la selección de personal para el almacén",
+        "De hacer el seguimiento de los productos hasta el consumidor final"
       ],
       "correctAnswer": 0,
-      "explanation": "Compras gestiona adquisición y relación con proveedores."
+      "explanation": "El departamento administrativo y financiero se encarga de llevar a cabo la documentación y gestión económica para organizar los pagos de materias primas y materiales. Fundamento: Relación con otros departamentos, pág. 4."
     }
   ]
 }

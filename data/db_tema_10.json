@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 10: LA TRAZABILIDAD",
   "items": [
     {
-      "question": "¿Qué se entiende por cadena logística?",
+      "question": "¿Cómo se define la cadena logística?",
       "options": [
-        "Conjunto de actividades que van desde la creación del producto hasta su consumo final.",
-        "Solo el proceso de transporte de mercancías.",
-        "Exclusivamente el almacenamiento de materias primas.",
-        "El proceso de publicidad y venta de productos."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La cadena logística es el conjunto de actividades que se desarrollan desde la creación del producto hasta que llega al consumidor final."
-    },
-    {
-      "question": "¿Cuál es la primera etapa habitual de la cadena logística?",
-      "options": [
-        "Producción y almacenamiento.",
-        "Abastecimiento.",
-        "Distribución.",
-        "Marketing."
+        "El proceso de fabricación de un producto en la fábrica",
+        "El conjunto de actividades que surgen desde que se crea el producto hasta que llega al consumidor final",
+        "La relación exclusiva entre proveedor y comprador",
+        "El sistema de contabilidad de la empresa"
       ],
       "correctAnswer": 1,
-      "explanation": "La primera etapa de la cadena logística es el abastecimiento de materias primas, planificando dónde, cuánto y cómo comprar."
+      "explanation": "La cadena logística es el conjunto de actividades desde que se crea el producto hasta que llega al consumidor final, llevadas a cabo por diferentes agentes que aportan valor. Fundamento: La cadena logística, pág. 4."
     },
     {
-      "question": "¿Qué objetivo tiene la etapa de producción en la cadena logística?",
+      "question": "¿Cuáles son las fases mínimas de la cadena logística?",
       "options": [
-        "Transformar materias primas en productos minimizando costes.",
-        "Diseñar campañas publicitarias.",
-        "Reducir el número de proveedores.",
-        "Elaborar balances contables."
+        "Diseño, marketing y venta",
+        "Compra, facturación y cobro",
+        "Investigación, desarrollo y comercialización",
+        "Abastecimiento, producción y almacenamiento, y distribución"
       ],
-      "correctAnswer": 0,
-      "explanation": "En la etapa de producción se transforman materias primas en productos buscando minimizar costes."
+      "correctAnswer": 3,
+      "explanation": "Las fases mínimas son: abastecimiento (decidir dónde, cuánto y cómo comprar), producción y almacenamiento, y distribución. Fundamento: La cadena logística, pág. 4."
     },
     {
-      "question": "La etapa de distribución consiste en…",
+      "question": "¿En qué consiste la fase de abastecimiento?",
       "options": [
-        "Transportar productos terminados hasta puntos de venta.",
-        "Almacenar mercancías indefinidamente.",
-        "Crear envases y embalajes.",
-        "Gestionar campañas publicitarias."
+        "En transformar las materias primas en productos terminados",
+        "En transportar los productos terminados hasta los puntos de venta",
+        "En la empresa decidir de manera planificada dónde, cuánto y cómo comprar las materias primas",
+        "En realizar el cobro a los clientes finales"
       ],
-      "correctAnswer": 0,
-      "explanation": "La distribución consiste en llevar los productos terminados a los puntos de venta para su comercialización."
+      "correctAnswer": 2,
+      "explanation": "En el abastecimiento, la empresa debe decidir de manera planificada y organizada dónde, cuánto y cómo comprar las materias primas. Fundamento: La cadena logística, pág. 4."
     },
     {
-      "question": "¿Cuál de los siguientes es un principio de la gestión de la cadena logística?",
+      "question": "¿Qué es el outsourcing en la gestión de la cadena logística?",
       "options": [
-        "Adecuarla al consumidor y compartir información entre agentes.",
-        "Reducir proveedores y aumentar costes.",
-        "Eliminar intermediarios siempre.",
-        "Evitar la diferenciación del producto."
+        "La contratación de empleados adicionales internos",
+        "La externalización de tareas a terceros cuando sea necesario",
+        "La venta directa al consumidor sin intermediarios",
+        "El almacenamiento de productos en el exterior"
       ],
-      "correctAnswer": 0,
-      "explanation": "La gestión de la cadena logística debe adecuarse al consumidor, diseñar la red logística, compartir datos y equilibrar estandarización y diferenciación."
+      "correctAnswer": 1,
+      "explanation": "Realizar outsourcing consiste en externalizar tareas a terceros cuando sea necesario, siendo uno de los principios que permiten una correcta gestión de la cadena logística. Fundamento: La cadena logística, pág. 4."
     },
     {
-      "question": "¿Qué caracteriza al canal de distribución cero?",
+      "question": "¿Qué es un canal de distribución cero?",
       "options": [
-        "Venta directa del fabricante al consumidor final.",
-        "Intervención de un mayorista.",
-        "Participación de mayorista y minorista.",
-        "Inclusión de varios intermediarios adicionales."
+        "Un canal con muchos intermediarios entre fabricante y consumidor",
+        "Un canal que utiliza exclusivamente transporte marítimo",
+        "La venta directa sin intermediarios, donde el producto llega directamente al consumidor",
+        "Un sistema de distribución automatizado sin empleados"
       ],
-      "correctAnswer": 0,
-      "explanation": "El canal de distribución cero corresponde a la venta directa sin intermediarios."
+      "correctAnswer": 2,
+      "explanation": "El canal de distribución cero corresponde a la venta directa, sin intermediarios entre el fabricante y el consumidor final. Fundamento: Función logística, pág. 5."
     },
     {
-      "question": "¿Qué función cumplen los intermediarios mayoristas?",
+      "question": "¿Qué caracteriza al canal de distribución largo?",
       "options": [
-        "Almacenar, transportar y asesorar además de vender a minoristas.",
-        "Comprar para consumo propio.",
-        "Elaborar campañas de publicidad.",
-        "Contratar personal de ventas."
+        "No interviene ningún intermediario",
+        "Solo interviene un intermediario minorista",
+        "Intervienen dos intermediarios entre el fabricante y el consumidor, normalmente mayorista y minorista",
+        "Es un canal exclusivo para comercio internacional"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los mayoristas realizan funciones de almacenamiento, transporte, financiación y asesoramiento a minoristas."
+      "correctAnswer": 2,
+      "explanation": "En el canal de distribución largo intervienen dos intermediarios entre el fabricante y el consumidor, normalmente mayorista y minorista. Fundamento: Función logística, pág. 5."
+    },
+    {
+      "question": "¿Qué funciones realizan los intermediarios mayoristas además de suministrar el producto?",
+      "options": [
+        "Solo transporte y nada más",
+        "Exclusivamente la publicidad del producto",
+        "Almacenamiento, transporte, financiación, asesoramiento, entre otros (mayorista de servicio completo)",
+        "Solo el envasado y etiquetado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los mayoristas, además de suministrar el producto, realizan almacenamiento, transporte, financiación, asesoramiento, etc. Es lo que se conoce como mayorista de servicio completo. Fundamento: Intermediarios, pág. 5."
     },
     {
       "question": "¿Qué es una red logística?",
       "options": [
-        "Conjunto de actividades y lugares que permiten llevar productos de forma eficiente al consumidor final.",
-        "El sistema contable de la empresa.",
-        "La red de publicidad digital.",
-        "El flujo de nóminas entre departamentos."
+        "El conjunto de actividades y lugares que permiten que el producto llegue de la manera más eficiente desde la producción al consumidor final",
+        "Una red de comunicaciones por internet entre empresas",
+        "Un sistema exclusivo de comunicación interna de la empresa",
+        "Una asociación de empresas de transporte"
       ],
       "correctAnswer": 0,
-      "explanation": "La red logística organiza actividades y lugares para que el producto llegue al consumidor final en tiempo y forma."
+      "explanation": "La red logística es el conjunto de actividades y lugares que permiten que el producto llegue eficientemente desde el lugar de producción hasta el consumidor final. Fundamento: Gestión de la cadena logística, pág. 5."
     },
     {
-      "question": "¿Qué papel desempeñan los centros de distribución?",
+      "question": "¿Cuál es la función principal de los centros de distribución?",
       "options": [
-        "Recepcionar y expedir mercancía, reduciendo tiempos de entrega y costes logísticos.",
-        "Exclusivamente almacenar materias primas.",
-        "Diseñar campañas de publicidad.",
-        "Gestionar nóminas."
+        "Fabricar productos desde materias primas",
+        "Diseñar campañas publicitarias para los productos",
+        "Solo almacenar productos a largo plazo",
+        "Recepcionar y expedir mercancía, tratando de reducir costes y tiempo de entrega en la última milla logística"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los centros de distribución sustituyen al almacén tradicional, recepcionando y enviando mercancía con menor coste y tiempo."
+      "correctAnswer": 3,
+      "explanation": "Los centros de distribución se encargan de recepcionar y expedir mercancía, tratando de reducir costes y tiempo de entrega en la última milla logística y logística inversa. Fundamento: Gestión de la cadena logística, pág. 5-6."
     },
     {
-      "question": "¿Qué aspecto es fundamental al planificar rutas de distribución?",
+      "question": "¿Qué aspectos deben tenerse en cuenta al planificar rutas de distribución?",
       "options": [
-        "Tipo de mercancía, tiempo de entrega y restricciones legales.",
-        "Número de trabajadores en oficina.",
-        "Cantidad de publicidad contratada.",
-        "Nóminas de empleados."
+        "Solo el tipo de producto a transportar",
+        "Exclusivamente el coste del combustible",
+        "Tipo de mercancía, tiempo de entrega, cuestiones legales e infraestructura del transporte",
+        "Solo la distancia entre el almacén y el cliente"
       ],
-      "correctAnswer": 0,
-      "explanation": "Se deben considerar el tipo de mercancía, tiempos, aspectos legales e infraestructuras para planificar rutas."
+      "correctAnswer": 2,
+      "explanation": "Se debe tener en cuenta: tipo de mercancía, tiempo de entrega, cuestiones legales e infraestructura del transporte. Fundamento: Criterios de selección de rutas, pág. 6."
     },
     {
-      "question": "¿Qué criterio busca equilibrio en la planificación de rutas?",
+      "question": "¿Cuál es el objetivo principal en la optimización de rutas de distribución?",
       "options": [
-        "Servicio y coste.",
-        "Publicidad y ventas.",
-        "Nóminas y balances.",
-        "Infraestructura y campañas."
+        "Maximizar el número de vehículos en uso",
+        "Obtener la máxima utilización de los recursos existentes con el mínimo coste",
+        "Reducir el número de clientes atendidos",
+        "Utilizar exclusivamente transporte aéreo"
       ],
-      "correctAnswer": 0,
-      "explanation": "La planificación de rutas debe equilibrar el nivel de servicio con los costes de transporte."
+      "correctAnswer": 1,
+      "explanation": "El objetivo es obtener la máxima utilización de los recursos existentes con el mínimo coste. Fundamento: Criterios de selección de rutas, pág. 7."
     },
     {
-      "question": "¿Qué documento surge tras acuerdo entre comprador y proveedor?",
+      "question": "¿Qué tipo de almacén se conoce como almacén central?",
       "options": [
-        "Nota de pedido.",
-        "Nómina.",
-        "Balance contable.",
-        "Informe de marketing."
+        "El almacén temporal",
+        "El almacén principal, que suele ubicarse a la misma distancia entre los puntos de producción y de venta",
+        "El almacén regional",
+        "La plataforma logística cross docking"
       ],
-      "correctAnswer": 0,
-      "explanation": "Tras acordar condiciones, se emite una nota de pedido que recoge cantidad, precio y fecha de entrega."
+      "correctAnswer": 1,
+      "explanation": "El almacén principal, también conocido como almacén central, suele ubicarse a una distancia aproximada entre los puntos de producción y de venta. Fundamento: Tipos de almacenes, pág. 10."
     },
     {
-      "question": "¿Qué tipos de mercancía pueden almacenarse según su naturaleza?",
+      "question": "¿Qué es una plataforma logística o sistema cross docking?",
       "options": [
-        "Paletizable, apilable, líquida, a granel, gases y archivos.",
-        "Publicitaria y contable.",
-        "Nóminas y balances.",
-        "Recursos humanos."
+        "Un almacén de gran tamaño para productos de larga conservación",
+        "Un centro de producción y fabricación de mercancías",
+        "Un almacén exclusivo para mercancías peligrosas",
+        "Lugares destinados a preparar y expedir mercancía, con un tiempo de almacenaje mínimo"
       ],
-      "correctAnswer": 0,
-      "explanation": "Según su tipo, se almacenan mercancías paletizables, apilables, líquidas, a granel, gases o archivos."
+      "correctAnswer": 3,
+      "explanation": "La plataforma logística o cross docking son lugares destinados a preparar y expedir mercancía, con un tiempo de almacenaje mínimo. Fundamento: Tipos de almacenes, pág. 10."
     },
     {
-      "question": "Un almacén regional se caracteriza por…",
+      "question": "¿Cuáles son las fases del flujo básico de mercancías en el almacén?",
       "options": [
-        "Almacenar mercancía en una región concreta con tamaño más reducido que el central.",
-        "Servir de plataforma logística de cross docking.",
-        "Ser el principal donde se ubican todos los productos de la empresa.",
-        "Ser siempre automatizado."
+        "Recepción, almacenaje y expedición",
+        "Compra, transformación y expedición",
+        "Producción, venta y cobro",
+        "Diseño, fabricación y distribución"
       ],
       "correctAnswer": 0,
-      "explanation": "Los almacenes regionales almacenan mercancía en una región específica y suelen ser de menor tamaño."
+      "explanation": "El flujo básico de mercancías en el almacén incluye tres fases: recepción, almacenaje y expedición. Fundamento: Flujos de mercancías, pág. 8."
     },
     {
-      "question": "¿Qué almacén se destina a periodos cortos de tiempo y cambios de transporte?",
+      "question": "¿Qué fase adicional incluye el flujo medio de mercancías respecto al flujo básico?",
       "options": [
-        "Almacén temporal.",
-        "Almacén regional.",
-        "Almacén central.",
-        "Almacén automatizado."
+        "La fase de producción",
+        "La fase de marketing y publicidad",
+        "La fase de facturación",
+        "La fase de consolidación y zona de picking"
       ],
-      "correctAnswer": 0,
-      "explanation": "El almacén temporal guarda mercancía durante periodos cortos, normalmente por cambios de transporte."
+      "correctAnswer": 3,
+      "explanation": "El flujo medio incluye recepción, almacenaje, zona de picking, consolidación y expedición. Fundamento: Flujos de mercancías, pág. 8."
     },
     {
-      "question": "¿Qué caracteriza a una plataforma logística o cross docking?",
+      "question": "¿Qué tareas se consideran de manipulación o manutención?",
       "options": [
-        "Preparar y expedir mercancía con mínimo tiempo de almacenaje.",
-        "Conservar mercancía durante largos periodos.",
-        "Ser siempre al aire libre.",
-        "No utilizar tecnología."
+        "Las llevadas a cabo por los operarios (horas/hombre) y las realizadas por la maquinaria (horas/máquina)",
+        "Solo las realizadas por máquinas automáticas",
+        "Exclusivamente las tareas administrativas del almacén",
+        "Solo la carga y descarga de camiones"
       ],
       "correctAnswer": 0,
-      "explanation": "Las plataformas logísticas o sistemas cross docking preparan y expiden mercancía reduciendo al mínimo el tiempo de almacenaje."
+      "explanation": "Se consideran tareas de manipulación las realizadas por los operarios (horas/hombre) y las realizadas por la maquinaria (horas/máquina). Fundamento: Medios de manutención, pág. 9."
     },
     {
-      "question": "¿Qué ventaja presentan los almacenes automatizados?",
+      "question": "¿De qué factores dependen los costes de manipulación?",
       "options": [
-        "Maximizar espacio, alcanzar mayores alturas y reducir errores de operarios.",
-        "No requieren inversión.",
-        "Eliminan la necesidad de transporte.",
-        "Reducen costes publicitarios."
+        "Del número de artículos, cantidad con tratamiento específico, medios de transporte y dimensión de los pedidos",
+        "Solo del número de empleados del almacén",
+        "Exclusivamente del tamaño del almacén",
+        "Solo del tipo de producto almacenado"
       ],
       "correctAnswer": 0,
-      "explanation": "Los almacenes automatizados aprovechan mejor el espacio físico, llegan a mayores alturas y reducen errores."
+      "explanation": "Los costes varían según el número de artículos, cantidad con tratamiento específico, medios de transporte utilizados y dimensión de los pedidos. Fundamento: Medios de manutención, pág. 9."
     },
     {
-      "question": "¿Qué es la trazabilidad?",
+      "question": "¿Qué es un transelevador?",
       "options": [
-        "Seguimiento del recorrido del producto desde materia prima hasta el consumidor final.",
-        "Elaboración de balances.",
-        "Estrategia de publicidad.",
-        "Proceso de contratación de personal."
+        "Un tipo de embalaje especial para productos pesados",
+        "Un programa informático de gestión de almacenes",
+        "Una herramienta que permite elevar y trasladar al mismo tiempo la mercancía, funcionando gracias a un operador central",
+        "Un sistema de etiquetado automático"
       ],
-      "correctAnswer": 0,
-      "explanation": "La trazabilidad permite seguir el recorrido del producto desde origen hasta consumidor final."
+      "correctAnswer": 2,
+      "explanation": "El transelevador es una herramienta que permite elevar y trasladar al mismo tiempo la mercancía, funcionando gracias a un operador central. Fundamento: Medios de manutención, pág. 9."
     },
     {
-      "question": "¿Qué sistema permite encontrar productos mediante señales de radio?",
+      "question": "¿Para qué está pensado el traspalé?",
       "options": [
-        "RFID.",
-        "ERP.",
-        "DRP.",
-        "CRM."
+        "Para una cantidad reducida de mercancía y en distancias cortas, existiendo en versión manual o eléctrica",
+        "Para transportar grandes volúmenes de mercancía a larga distancia",
+        "Para elevar mercancía a grandes alturas en el almacén",
+        "Para clasificar automáticamente los productos por código de barras"
       ],
       "correctAnswer": 0,
-      "explanation": "La tecnología RFID localiza productos mediante etiquetas que emiten señales de radiofrecuencia."
+      "explanation": "El traspalé está pensado para una cantidad reducida de mercancía y en distancias cortas, existiendo en versión manual o eléctrica. Fundamento: Medios de manutención, pág. 9."
     },
     {
-      "question": "¿Qué ventaja tiene el RFID frente al código de barras?",
+      "question": "¿Para qué se utilizan las cintas transportadoras?",
       "options": [
-        "No requiere contacto visual y puede leer varias etiquetas a la vez.",
-        "No necesita etiquetas.",
-        "Es más barato en todos los casos.",
-        "No aporta información de caducidad."
+        "Para mover la mercancía en un espacio físico de manera lateral",
+        "Para elevar mercancía verticalmente",
+        "Para clasificar productos por tamaño",
+        "Para embalar automáticamente los productos"
       ],
       "correctAnswer": 0,
-      "explanation": "El RFID lee varias etiquetas simultáneamente sin necesidad de contacto visual y puede dar información adicional como la caducidad."
+      "explanation": "Las cintas transportadoras se utilizan para mover la mercancía en un espacio físico de manera lateral. Fundamento: Medios de manutención, pág. 9."
     },
     {
-      "question": "¿Qué elemento del RFID almacena la información del artículo?",
+      "question": "¿Qué permite la tecnología RFID en la trazabilidad?",
       "options": [
-        "Transponedor.",
-        "Transceptor.",
-        "Subsistema de procesamiento.",
-        "Código de barras."
+        "Solo leer códigos de barras estándar",
+        "Solo comunicarse con los proveedores por correo electrónico",
+        "Exclusivamente rastrear vehículos de transporte",
+        "Encontrar productos a través de etiquetas que envían señales de radio, con mayor capacidad de memoria que los códigos de barras"
       ],
-      "correctAnswer": 0,
-      "explanation": "El transponedor es el chip que guarda la información del artículo."
+      "correctAnswer": 3,
+      "explanation": "La RFID permite encontrar productos a través de etiquetas con señales de radio, con mayor capacidad de memoria que los códigos de barras y etiquetas reutilizables. Fundamento: Sistemas informáticos de trazabilidad, pág. 10."
     },
     {
-      "question": "¿Qué sistema ayuda a planificar y controlar inventario en centros de distribución?",
+      "question": "¿Cuáles son los tres elementos de la tecnología RFID?",
       "options": [
-        "DRP (Distribution Resource Planning).",
-        "ERP.",
-        "RFID.",
-        "CRM."
+        "Hardware, software y firmware",
+        "Transponedor, transceptor y subsistema de procesamiento de datos",
+        "Emisor, receptor y controlador",
+        "Escáner, impresora y servidor"
       ],
-      "correctAnswer": 0,
-      "explanation": "El DRP planifica y controla inventarios en centros de distribución para satisfacer necesidades en tiempo, lugar y forma."
+      "correctAnswer": 1,
+      "explanation": "Los tres elementos de la tecnología RFID son: transponedor (chip con información), transceptor (emisor de señales) y subsistema de procesamiento de datos. Fundamento: Sistemas informáticos, pág. 11."
     },
     {
-      "question": "¿Qué herramienta de manutención eleva y traslada mercancías?",
+      "question": "¿Qué es el sistema DRP (Distribution Resource Planning)?",
       "options": [
-        "Transelevador.",
-        "Carretilla retráctil.",
-        "Traspalé.",
-        "Cinta transportadora."
+        "Un programa de diseño gráfico para embalajes",
+        "Una herramienta que ayuda a planificar y controlar el inventario en cada centro de distribución para satisfacer las necesidades del consumidor",
+        "Un sistema de cobro a clientes",
+        "Un programa de selección de personal"
       ],
-      "correctAnswer": 0,
-      "explanation": "El transelevador eleva y traslada mercancías de manera simultánea optimizando las tareas de almacén."
+      "correctAnswer": 1,
+      "explanation": "El DRP es una herramienta que planifica y controla el inventario en cada centro de distribución para satisfacer las necesidades del consumidor en tiempo, lugar y forma. Fundamento: Sistemas informáticos, pág. 11."
     },
     {
-      "question": "¿Qué tipo de carretilla puede desplazarse en cuatro direcciones?",
+      "question": "¿Qué ventajas presentan los almacenes automatizados?",
       "options": [
-        "Carretilla de cuatro direcciones.",
-        "Carretilla retráctil.",
-        "Carretilla trilateral.",
-        "Carretilla contrapesada."
+        "Son más baratos que cualquier otro tipo de almacén",
+        "No requieren mantenimiento ni supervisión",
+        "Maximizar el aprovechamiento de espacio físico, alcanzar mayores alturas y minimizar roturas por fallos de operarios",
+        "Solo sirven para productos perecederos"
       ],
-      "correctAnswer": 0,
-      "explanation": "La carretilla de cuatro direcciones permite movimiento en esas direcciones dentro del almacén."
+      "correctAnswer": 2,
+      "explanation": "Los almacenes automatizados maximizan el aprovechamiento de espacio físico, alcanzan mayores alturas y minimizan posibles roturas por fallos de operarios. Fundamento: Tipos de almacenes, pág. 10."
     },
     {
-      "question": "¿Qué carretilla permite alcanzar pasillos estrechos con movimientos en tres direcciones?",
+      "question": "¿Qué es el almacén de consolidación?",
       "options": [
-        "Carretilla trilateral.",
-        "Carretilla contrapesada.",
-        "Carretilla retráctil.",
-        "Carretilla de cuatro direcciones."
+        "Un almacén intermedio entre el central y regional que suministra mercancía a un área concreta",
+        "El almacén donde se fabrican los productos",
+        "Un almacén exclusivo para productos devueltos",
+        "Un almacén temporal para cambio de transporte"
       ],
       "correctAnswer": 0,
-      "explanation": "La carretilla trilateral accede a pasillos estrechos gracias a su movimiento en tres direcciones."
+      "explanation": "El almacén de consolidación es un tipo de almacén intermedio entre el central y regional que se utiliza para suministrar mercancía a un área concreta. Fundamento: Tipos de almacenes, pág. 10."
     },
     {
-      "question": "El traspalé se utiliza para…",
+      "question": "¿Qué es la trazabilidad de un producto?",
       "options": [
-        "Cantidad reducida de mercancía en distancias cortas.",
-        "Elevar y trasladar simultáneamente.",
-        "Transporte aéreo.",
-        "Almacenaje a gran altura."
+        "El proceso de diseño del envase del producto",
+        "El sistema de precios del producto en los distintos mercados",
+        "Solo el control de calidad realizado en fábrica",
+        "El recorrido del producto desde que es materia prima hasta que llega al consumidor"
       ],
-      "correctAnswer": 0,
-      "explanation": "El traspalé sirve para manipular mercancía reducida en distancias cortas, siendo manual o eléctrico."
+      "correctAnswer": 3,
+      "explanation": "La trazabilidad de un producto hace referencia al recorrido del producto desde que es materia prima hasta que llega al consumidor. Fundamento: Función logística, pág. 4."
     },
     {
-      "question": "¿Qué medio de manutención se coloca en el techo con ganchos móviles?",
+      "question": "¿Qué debe conseguir la empresa al equilibrar servicio y coste en rutas de distribución?",
       "options": [
-        "Transportador aéreo.",
-        "Cinta transportadora.",
-        "Carretilla retráctil.",
-        "Traspalé."
+        "Optimizar el nivel de servicio sin provocar aumento de costes, y minimizar costes sin afectar la calidad del servicio",
+        "Maximizar costes para asegurar el mejor servicio posible",
+        "Reducir el número de clientes atendidos para minimizar gastos",
+        "Utilizar siempre el medio de transporte más barato sin importar la calidad"
       ],
       "correctAnswer": 0,
-      "explanation": "Los transportadores aéreos se fijan al techo y manipulan mercancía mediante ganchos móviles."
+      "explanation": "La empresa debe optimizar el nivel de servicio sin aumentar costes y minimizar costes sin afectar la calidad del servicio. Fundamento: Criterios de selección de rutas, pág. 7."
     },
     {
-      "question": "Las cintas transportadoras permiten…",
+      "question": "¿Qué criterios de valoración de existencias se utilizan para el control de entradas y salidas?",
       "options": [
-        "Mover mercancías lateralmente en un espacio físico.",
-        "Transportar mercancía aérea.",
-        "Almacenar productos largos periodos.",
-        "Elaborar balances contables."
+        "Solo el precio de compra original",
+        "Solo el valor de mercado actual",
+        "Exclusivamente el coste de transporte",
+        "PMP (Precio Medio Ponderado) y FIFO (First In, First Out)"
       ],
-      "correctAnswer": 0,
-      "explanation": "Las cintas transportadoras desplazan mercancías de forma lateral en el almacén."
+      "correctAnswer": 3,
+      "explanation": "Para el registro y control de entradas y salidas se utilizan criterios como el PMP (Precio Medio Ponderado) y FIFO (First In, First Out). Fundamento: Flujos de mercancías, pág. 8."
     },
     {
-      "question": "¿Qué almacén se sitúa entre el central y el regional?",
+      "question": "¿Qué función cumple el transponedor en la tecnología RFID?",
       "options": [
-        "Almacén de consolidación.",
-        "Almacén temporal.",
-        "Almacén al aire libre.",
-        "Almacén cubierto."
+        "Emite señales para comprobar si hay etiquetas alrededor",
+        "Es el chip en el que está guardada la información del artículo",
+        "Almacena datos y se complementa con el SGA",
+        "Imprime etiquetas de radiofrecuencia nuevas"
       ],
-      "correctAnswer": 0,
-      "explanation": "El almacén de consolidación es intermedio y suministra mercancía a un área concreta."
+      "correctAnswer": 1,
+      "explanation": "El transponedor es el chip en el que está guardada la información del artículo dentro del sistema RFID. Fundamento: Sistemas informáticos, pág. 11."
     },
     {
-      "question": "¿Qué almacén se utiliza para conservar mercancía protegida?",
+      "question": "¿Dónde tiene sentido ubicar los centros de distribución?",
       "options": [
-        "Almacén cubierto.",
-        "Almacén al aire libre.",
-        "Almacén temporal.",
-        "Plataforma logística."
+        "En zonas rurales alejadas de núcleos de población",
+        "Exclusivamente dentro de las fábricas",
+        "Cerca de grandes núcleos de población, parques tecnológicos e industriales y zonas con actividades logísticas importantes",
+        "En zonas turísticas de alta afluencia"
       ],
-      "correctAnswer": 0,
-      "explanation": "El almacén cubierto se destina a mercancías que requieren protección."
+      "correctAnswer": 2,
+      "explanation": "Los centros de distribución deben ubicarse cerca de grandes núcleos de población, parques tecnológicos e industriales y zonas con actividades logísticas importantes. Fundamento: Gestión de la cadena logística, pág. 6."
     }
   ]
 }

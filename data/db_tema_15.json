@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 15: RESPONSABILIDAD SOCIAL CORPORATIVA EN LA LOGÍSTICA Y EL ALMACENAJE",
   "items": [
     {
-      "question": "¿Según la OIT, cómo se caracteriza la responsabilidad social corporativa (RSC) en las empresas?",
+      "question": "¿Cómo define la OIT la Responsabilidad Social de la Empresa (RSE)?",
       "options": [
-        "Como un requisito legal obligatorio en todos los países.",
-        "Como una iniciativa voluntaria que va más allá del cumplimiento de la legislación.",
-        "Como una campaña de marketing con fines comerciales.",
-        "Como un plan de incentivos fiscales para directivos."
-      ],
-      "correctAnswer": 1,
-      "explanation": "La OIT define la RSC como una iniciativa voluntaria que refleja cómo las empresas consideran el impacto de sus actividades sobre la sociedad, y que rebasa el mero cumplimiento de la legislación."
-    },
-    {
-      "question": "¿Cuál de los siguientes principios forma parte de la ética basada en la RSC?",
-      "options": [
-        "Evitar el reparto de riqueza.",
-        "Fomentar la libertad sindical y la negociación colectiva.",
-        "Limitar la igualdad de oportunidades.",
-        "Reducir la calidad del empleo."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Entre los principios se incluyen la libertad sindical, la negociación colectiva y un sistema laboral justo, junto con otros como igualdad de oportunidades."
-    },
-    {
-      "question": "¿Qué relación establece el documento entre RSC e imagen corporativa?",
-      "options": [
-        "La RSC no influye en la percepción social de la empresa.",
-        "La RSC afecta negativamente a la competitividad.",
-        "La RSC influye de forma notable en la imagen corporativa y la percepción social de la empresa.",
-        "La imagen corporativa depende solo del logotipo."
+        "Como el cumplimiento estricto y único de la legislación vigente",
+        "Como una estrategia para pagar menos impuestos",
+        "Como el reflejo de cómo las empresas consideran las repercusiones de sus actividades sobre la sociedad, mediante iniciativas voluntarias",
+        "Como la obligación de donar el 50% de los beneficios a ONGs"
       ],
       "correctAnswer": 2,
-      "explanation": "Se indica que la RSC que la empresa defina y desarrolle influirá en gran medida en su imagen corporativa."
+      "explanation": "La RSE es una iniciativa voluntaria que rebaña el mero cumplimiento de la legislación y considera el impacto social de la empresa. Fundamento: Responsabilidad social corporativa, pág. 4."
     },
     {
-      "question": "¿Cuál de las siguientes opciones se alinea con los principios de RSC mencionados?",
+      "question": "¿Cuál es uno de los principios éticos básicos de la RSC?",
       "options": [
-        "Reducir el tratamiento de residuos para ahorrar costes.",
-        "Ofrecer productos útiles y en buenas condiciones.",
-        "Prohibir la sindicación.",
-        "Desoír leyes y reglamentos."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Se establece, entre otros, ofrecer productos útiles y en buen estado y cumplir leyes y normas."
-    },
-    {
-      "question": "¿Qué principio de RSC se relaciona con el ámbito laboral?",
-      "options": [
-        "Diseñar envases llamativos.",
-        "Generar un sistema laboral justo y evolutivo con condiciones dignas.",
-        "Priorizar solo las ventas.",
-        "Reducir la formación del personal."
-      ],
-      "correctAnswer": 1,
-      "explanation": "La RSC aboga por sistemas laborales justos, desarrollo personal y profesional y condiciones dignas."
-    },
-    {
-      "question": "¿Cuál NO es una directriz citada en los principios de RSC?",
-      "options": [
-        "Promover igualdad de oportunidades.",
-        "Reparto equitativo de la riqueza.",
-        "Aumentar residuos sin tratarlos.",
-        "Cuidar la salud y seguridad laboral."
+        "Aumentar la jerarquía y el autoritarismo en el trabajo",
+        "Priorizar el beneficio económico sobre el medio ambiente",
+        "Promover la igualdad de oportunidades en el ámbito laboral y de consumo",
+        "Reducir los salarios para ser más competitivos"
       ],
       "correctAnswer": 2,
-      "explanation": "Los principios incluyen igualdad, reparto equitativo y salud laboral; no promover el aumento de residuos sin tratamiento."
+      "explanation": "Los principios incluyen promover la igualdad, ofrecer productos útiles, reparto equitativo de riqueza y cuidar a los trabajadores. Fundamento: Responsabilidad social corporativa, pág. 4."
     },
     {
-      "question": "¿Qué papel otorga la RSC a la legislación y normas?",
+      "question": "¿Qué ámbitos esenciales dan unidad al desarrollo de la RSC?",
       "options": [
-        "Sugiere ignorarlas en favor de la eficiencia.",
-        "Insta a seguir leyes, reglamentos y costumbres acordadas.",
-        "Permite elegir qué normas cumplir.",
-        "Las relega a un plano secundario."
+        "Político, militar y religioso",
+        "Nacional, regional y local",
+        "Social, económico y medioambiental",
+        "Deportivo, cultural y artístico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La RSC se basa en los ámbitos social (políticas equitativas), económico (viabilidad y beneficio para empleados) y medioambiental (sostenibilidad). Fundamento: Ámbitos de la RSC, pág. 5."
+    },
+    {
+      "question": "¿Cómo influye la logística inversa en la RSC?",
+      "options": [
+        "Aumentando los residuos en los vertederos",
+        "Minimizando el impacto medioambiental a través de la economía circular y la menor generación de residuos",
+        "Incrementando el coste de transporte sin beneficio social",
+        "Solo sirve para recuperar productos robados"
       ],
       "correctAnswer": 1,
-      "explanation": "Se indica que uno de los principios es seguir leyes y normas acordadas."
+      "explanation": "La logística inversa trabaja por un mejor aprovechamiento de residuos y reducción del impacto medioambiental. Fundamento: Logística inversa y RSC, pág. 5."
     },
     {
-      "question": "¿Cuál es uno de los objetivos principales de la RSC en logística inversa?",
+      "question": "¿Qué doble función socioeconómica tiene la eficiente gestión de residuos?",
       "options": [
-        "Incrementar el volumen de residuos para generar actividad.",
-        "Regular el tratamiento de residuos y reducir el impacto medioambiental.",
-        "Externalizar todos los procesos logísticos.",
-        "Sustituir la logística directa."
+        "Aumento de multas y reducción de personal",
+        "Solo sirve para limpiar el almacén",
+        "Cuidado del medioambiente y mejora de la imagen corporativa (ventaja competitiva)",
+        "Gasto innecesario y pérdida de tiempo"
       ],
-      "correctAnswer": 1,
-      "explanation": "La RSC en logística inversa busca regular el tratamiento de residuos, optimizar recursos y reducir el impacto ambiental."
+      "correctAnswer": 2,
+      "explanation": "Aporta compromiso ambiental y mejora la imagen corporativa, lo que aumenta la ventaja competitiva. Fundamento: Logística inversa y RSC, pág. 5."
     },
     {
-      "question": "¿Qué efecto socioeconómico dual atribuye el texto a la gestión eficiente de residuos?",
+      "question": "¿Qué promueve la RSC con respecto a la gestión de los recursos humanos?",
       "options": [
-        "Favorece la obsolescencia y reduce la competitividad.",
-        "Cuidado del medioambiente y mejora de la imagen corporativa.",
-        "Solo reduce costes internos.",
-        "Elimina la necesidad de normativas."
+        "La contratación por afinidad personal",
+        "Priorizar la jubilación forzosa",
+        "Adecuar el puesto de trabajo a la formación y no incurrir en prácticas discriminatorias",
+        "Reducir las vacaciones para aumentar la producción"
       ],
-      "correctAnswer": 1,
-      "explanation": "La gestión de residuos aporta cuidado ambiental y mejora la imagen corporativa, aumentando la ventaja competitiva."
+      "correctAnswer": 2,
+      "explanation": "Promueve la no discriminación, formación constante, conciliación familiar e igualdad retributiva. Fundamento: Ámbitos de actuación, pág. 6."
     },
     {
-      "question": "¿Cuáles son los tres ámbitos esenciales que integran la RSC?",
+      "question": "¿En qué consiste la Política Integral de Producto (PIP)?",
       "options": [
-        "Comercial, fiscal y publicitario.",
-        "Social, económico y medioambiental.",
-        "Tecnológico, financiero y legal.",
-        "Productivo, logístico y comercial."
-      ],
-      "correctAnswer": 1,
-      "explanation": "El documento estructura la RSC en ámbitos social, económico y medioambiental."
-    },
-    {
-      "question": "¿Qué objetivo medioambiental explicita la RSC?",
-      "options": [
-        "Impulsar procesos intensivos en recursos.",
-        "Desarrollar procesos sostenibles con poco impacto en el entorno.",
-        "Evitar la innovación tecnológica.",
-        "Reducir la colaboración público-privada."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Se promueve, mediante nuevas tecnologías, la producción con bajo impacto y sostenibilidad."
-    },
-    {
-      "question": "¿Qué herramienta conceptual utiliza la RSC para minimizar impacto ambiental?",
-      "options": [
-        "Economía circular y menor generación de residuos.",
-        "Crecimiento lineal sin límites.",
-        "Externalización total.",
-        "Solo reducción de costes financieros."
+        "En el análisis de cada producto para determinar su impacto medioambiental y rentabilidad",
+        "En vender el producto al precio más alto posible",
+        "En gastar todo el presupuesto en publicidad",
+        "En diseñar envases solo por su estética"
       ],
       "correctAnswer": 0,
-      "explanation": "Uno de los objetivos principales es minimizar el impacto a través de economía circular y menos residuos."
+      "explanation": "La PIP analiza el impacto medioambiental y la rentabilidad de cada producto de forma integral. Fundamento: Ámbitos de actuación, pág. 6."
     },
     {
-      "question": "¿Qué demanda la sociedad a las empresas respecto a la RSC?",
+      "question": "¿Qué son las etiquetas ecológicas?",
       "options": [
-        "Únicamente resultados financieros trimestrales.",
-        "Políticas sociales, medioambientales y económicas sustentadas en RSC.",
-        "Menor transparencia en procesos.",
-        "Eliminación de la formación del personal."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Se exige el desarrollo de políticas sociales, ambientales y económicas basadas en RSC."
-    },
-    {
-      "question": "En recursos humanos, ¿qué práctica se alinea con un proyecto de RSC?",
-      "options": [
-        "Discriminación por sexo o edad.",
-        "Promoción de la formación constante y conciliación.",
-        "Exclusión de promoción interna.",
-        "Retribuciones desiguales."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Se promueve formación continua, conciliación y retribuciones y promociones equitativas."
-    },
-    {
-      "question": "¿Qué exige la RSC en salud y seguridad laboral?",
-      "options": [
-        "Condiciones ajustadas a cada puesto de trabajo.",
-        "Autogestión del riesgo por el trabajador.",
-        "Eliminación de protocolos de higiene.",
-        "Externalización obligatoria del servicio."
+        "Sistemas de calificación ambiental que certifican que el producto afecta en menor medida al medioambiente",
+        "Anuncios pegados en los camiones de transporte",
+        "Pegatinas de colores para clasificar el stock",
+        "Códigos QR para pagar con el móvil"
       ],
       "correctAnswer": 0,
-      "explanation": "Las empresas deben asegurar higiene, salud y seguridad según necesidades de cada puesto."
+      "explanation": "Certifican que los productos o servicios tienen un menor impacto ambiental que otros similares. Fundamento: Ámbitos de actuación, pág. 6."
     },
     {
-      "question": "Respecto a la evolución tecnológica, ¿qué propone la RSC?",
+      "question": "¿Cómo pueden las empresas gestionar el tratamiento de residuos de manera indirecta?",
       "options": [
-        "Reemplazar a trabajadores no familiarizados con nuevas herramientas.",
-        "Formar y reciclar al personal para mantener su empleo.",
-        "Reducir la inversión en innovación.",
-        "Priorizar despidos frente a formación."
-      ],
-      "correctAnswer": 1,
-      "explanation": "La RSC propone formar y reciclar a las personas para que continúen en sus puestos."
-    },
-    {
-      "question": "¿Qué es la política integral de producto (PIP) según el documento?",
-      "options": [
-        "Un plan de marketing de producto.",
-        "Un análisis del impacto medioambiental y rentabilidad de cada producto.",
-        "Un esquema de financiación de proveedores.",
-        "Un protocolo de ventas omnicanal."
-      ],
-      "correctAnswer": 1,
-      "explanation": "La PIP analiza el impacto ambiental y la rentabilidad del producto a lo largo de su ciclo."
-    },
-    {
-      "question": "¿Qué certifican las etiquetas ecológicas?",
-      "options": [
-        "El origen geográfico del producto.",
-        "Que productos/servicios afectan en menor medida al medioambiente.",
-        "La ausencia total de plásticos.",
-        "La mayor durabilidad del envase."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Son sistemas de calificación ambiental que certifican menor impacto ambiental."
-    },
-    {
-      "question": "¿Qué formas de tratar residuos destaca el texto en clave de sostenibilidad?",
-      "options": [
-        "Reutilización, compostaje y tratamientos específicos (plásticos, papel/cartón, metales).",
-        "Incineración generalizada sin separación.",
-        "Almacenamiento indefinido en origen.",
-        "Vertido directo sin clasificación."
+        "Mediante la acción de organizaciones SIG (Sistemas Integrados de Gestión)",
+        "Tirándolos al contenedor municipal",
+        "A través del sistema SDDR",
+        "Llevándolos personalmente a un punto limpio"
       ],
       "correctAnswer": 0,
-      "explanation": "Se citan procesos de reutilización, compostaje y tratamientos por material (plásticos, papel/cartón y metales)."
+      "explanation": "La gestión indirecta se realiza mediante organizaciones SIG especializadas. Fundamento: Gestión de residuos, pág. 7."
     },
     {
-      "question": "¿Qué opción organizativa contempla la RSC para gestionar residuos de envases?",
+      "question": "¿Qué es el compostaje?",
       "options": [
-        "Exclusivamente gestión pública.",
-        "SDDR (depósito, devolución y retorno) o adhesión a un SIG.",
-        "Solo externalización a operadores logísticos.",
-        "Descartar la responsabilidad del productor."
+        "Un método para fundir metales pesados",
+        "La quema de basura para producir electricidad",
+        "El reciclaje de papel mediante procesos químicos",
+        "Transformar residuos orgánicos en compost utilizando oxígeno"
       ],
-      "correctAnswer": 1,
-      "explanation": "El tratamiento puede ser directo vía SDDR o indirecto mediante SIG autorizados."
+      "correctAnswer": 3,
+      "explanation": "Consiste en transformar residuos orgánicos en compost mediante la acción del oxígeno. Fundamento: Gestión de residuos, pág. 8."
     },
     {
-      "question": "¿Cuál es un beneficio interno de implantar un plan de RSC en empresas gestoras de residuos?",
+      "question": "¿Qué establece el concepto de 'responsabilidad ampliada' del productor?",
       "options": [
-        "Incremento de accidentes.",
-        "Mayor eficiencia en la gestión y prevención de riesgos.",
-        "Reducción de imagen de marca.",
-        "Aumento de sanciones ambientales."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Implantar RSC mejora la eficiencia, previene riesgos y reduce accidentes ambientales y laborales."
-    },
-    {
-      "question": "¿Qué tipos de residuos de origen empresarial identifica el documento?",
-      "options": [
-        "Solo urbanos.",
-        "Comerciales, industriales y sanitarios (entre otros).",
-        "Únicamente peligrosos.",
-        "Exclusivamente orgánicos."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Se citan residuos comerciales, industriales y sanitarios como ejemplos frecuentes."
-    },
-    {
-      "question": "¿Qué significa la “responsabilidad ampliada del productor”?",
-      "options": [
-        "Que el consumidor es responsable del residuo.",
-        "Que el productor debe hacerse cargo de la gestión y consecuencias de la contaminación generada.",
-        "Que la Administración asume la totalidad de costes.",
-        "Que el distribuidor es el único responsable."
-      ],
-      "correctAnswer": 1,
-      "explanation": "La normativa hace responsable al productor de la manipulación y gestión de los residuos originados."
-    },
-    {
-      "question": "¿En qué norma legal se recoge la responsabilidad ampliada del productor?",
-      "options": [
-        "Ley 22/2011, de 28 de julio.",
-        "Ley 11/1997.",
-        "RD 782/1998.",
-        "RD 252/2006."
+        "Que el responsable de la contaminación es quien la causa y debe hacerse cargo de las consecuencias",
+        "Que el consumidor es el único responsable de reciclar",
+        "Que el gobierno debe pagar por toda la limpieza",
+        "Que las empresas no tienen responsabilidad fuera de su fábrica"
       ],
       "correctAnswer": 0,
-      "explanation": "Se menciona expresamente la Ley 22/2011 como marco de esta responsabilidad."
+      "explanation": "El productor es responsable de la manipulación y gestión de los residuos que genera su proceso productivo. Fundamento: Productor como responsable, pág. 8."
     },
     {
-      "question": "¿Cuál es un compromiso del productor para prevenir y gestionar residuos?",
+      "question": "¿Qué ley recoge la responsabilidad de los productores en la gestión de residuos?",
       "options": [
-        "Omitir auditorías.",
-        "Utilizar materiales reutilizados y reciclados en fabricación.",
-        "Eliminar información ambiental del producto.",
-        "No recoger residuos retornables."
+        "La Ley de Prevención de Riesgos Laborales",
+        "La Ley 22/2011 de 28 de julio",
+        "El Código de Comercio",
+        "La Ley de Autonomía del Paciente"
       ],
       "correctAnswer": 1,
-      "explanation": "Entre los compromisos están usar materiales reciclados, facilitar información y recoger residuos retornables."
+      "explanation": "La Ley 22/2011 de 28 de julio recoge la normativa sobre residuos y suelos contaminados. Fundamento: Productor como responsable, pág. 8."
     },
     {
-      "question": "¿Qué obligación de transparencia se menciona para el productor?",
+      "question": "¿A qué se deben comprometer los productores para una correcta gestión de residuos?",
       "options": [
-        "No comunicar costes.",
-        "Argumentar qué parte del coste del producto corresponde a la responsabilidad ampliada.",
-        "Ocultar el origen de materiales.",
-        "Delegar en distribuidores toda la comunicación."
+        "A ignorar el coste de reciclaje en el precio final",
+        "A utilizar materiales reutilizados/reciclados y asumir la responsabilidad de la gestión",
+        "A dejar que los ayuntamientos se encarguen de todo",
+        "A no dar información sobre el reciclaje para no confundir al cliente"
       ],
       "correctAnswer": 1,
-      "explanation": "El productor debe justificar la parte del coste asociada al cumplimiento de la responsabilidad ampliada."
+      "explanation": "Deben usar materiales reciclados, asumir la gestión, informar al consumidor y realizar auditorías. Fundamento: Productor como responsable, pág. 9."
     },
     {
-      "question": "¿Qué relación puede existir entre productor y distribuidor en la gestión de residuos?",
+      "question": "¿Cuál es la diferencia entre un grupo de trabajo y un equipo de trabajo?",
       "options": [
-        "No pueden colaborar.",
-        "El productor puede compartir responsabilidades con el distribuidor.",
-        "El distribuidor asume siempre toda la responsabilidad.",
-        "Son responsables únicamente los consumidores."
+        "Son términos sinónimos en logística",
+        "El equipo de trabajo solo existe en deportes",
+        "En el grupo de trabajo se trabaja mucho más que en el equipo",
+        "En el equipo de trabajo el resultado depende del esfuerzo conjunto y coordinado, más que de la aportación individual"
       ],
-      "correctAnswer": 1,
-      "explanation": "En ocasiones el productor comparte responsabilidades con el distribuidor respecto a la gestión de residuos."
+      "correctAnswer": 3,
+      "explanation": "El equipo requiere coordinación constante para fines comunes; el grupo se centra más en la suma de tareas individuales. Fundamento: Desarrollo del personal, pág. 9."
     },
     {
-      "question": "¿Qué acción de comunicación al consumidor se exige al productor?",
+      "question": "¿Qué caracteriza a un equipo de trabajo 'autodirigido'?",
       "options": [
-        "Incluir información sobre reciclado y reutilización en el producto.",
-        "Omitir instrucciones de tratamiento del residuo.",
-        "Remitir al consumidor a la web municipal.",
-        "Publicar balances financieros."
+        "Que los miembros asumen responsabilidades superiores y coordinan sus propias tareas",
+        "Que no tienen jefes ni responsabilidades",
+        "Que trabajan exclusivamente con robots",
+        "Que solo se reúnen una vez al año"
       ],
       "correctAnswer": 0,
-      "explanation": "Se debe incorporar información en el producto para que el consumidor conozca reciclado y reutilización."
+      "explanation": "Son equipos donde los miembros gestionan y coordinan sus propias responsabilidades. Fundamento: Desarrollo del personal, pág. 10."
     },
     {
-      "question": "En el ámbito de almacén, ¿qué objetivo persigue la RSC respecto al personal?",
+      "question": "¿Qué son los equipos de trabajo multidisplinares?",
       "options": [
-        "Sustituir al personal por automatización.",
-        "Organizar y dirigir actividades para que el personal se sienta parte de la empresa y motivado.",
-        "Reducir la comunicación interna.",
-        "Fomentar el trabajo individual aislado."
+        "Trabajo coordinado entre miembros de distintos departamentos",
+        "Equipos formados por personas de diferentes países",
+        "Equipos que solo hacen tareas físicas",
+        "Grupos de personas con la misma formación exacta"
       ],
-      "correctAnswer": 1,
-      "explanation": "La RSC implica organizar, coordinar y dirigir al personal de almacén, poniendo foco en motivación y pertenencia."
+      "correctAnswer": 0,
+      "explanation": "Involucran a profesionales de diferentes áreas o departamentos para un objetivo común. Fundamento: Desarrollo del personal, pág. 10."
     },
     {
-      "question": "¿Qué distingue a un grupo de trabajo de un equipo de trabajo?",
+      "question": "¿Cómo ayuda la RSC a la prevención de riesgos laborales (PRL)?",
       "options": [
-        "El grupo no se comunica; el equipo, sí.",
-        "En el grupo el resultado es la suma de aportaciones individuales; en el equipo depende del esfuerzo conjunto coordinado.",
-        "El grupo siempre es virtual; el equipo, presencial.",
-        "No existen diferencias."
+        "La RSC no tiene relación con la PRL",
+        "Es un instrumento efectivo para disminuir riesgos laborales y evitar accidentes mediante buenas prácticas",
+        "Sustituye a la ley de prevención obligatoria",
+        "Aumenta los riesgos al introducir procesos nuevos"
       ],
       "correctAnswer": 1,
-      "explanation": "En el grupo cada uno actúa según su responsabilidad con comunicación constante; en el equipo el resultado depende del esfuerzo conjunto coordinado."
+      "explanation": "La inclusión de acciones de RSC impacta directamente en la reducción de riesgos y mejora relaciones laborales. Fundamento: PRL y RSC, pág. 11."
+    },
+    {
+      "question": "¿Cuál es la responsabilidad de la empresa ante los riesgos laborales en el almacén?",
+      "options": [
+        "Esperar a que ocurra un accidente para actuar",
+        "Evaluar los riesgos y tomar medidas preventivas necesarias para que no ocurran",
+        "Pagar solo el seguro obligatorio sin hacer nada más",
+        "Culpar al trabajador de cualquier daño sufrido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La empresa debe evaluar riesgos (físicos o psicológicos) y aplicar medidas preventivas. Fundamento: PRL y RSC, pág. 11."
+    },
+    {
+      "question": "¿Qué medida preventiva se debe tomar para evitar 'caídas al mismo nivel'?",
+      "options": [
+        "Apagar las luces para que el suelo no brille",
+        "Caminar siempre descalzo",
+        "Prohibir caminar por el almacén",
+        "Mantener la limpieza, el orden y no situar obstáculos en las zonas de paso"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El orden, la limpieza, señalización y calzado adecuado son claves para evitar caídas en el suelo. Fundamento: Riesgos laborales, pág. 11."
+    },
+    {
+      "question": "¿Qué riesgo laboral surge por la utilización de cutters o tijeras en el almacén?",
+      "options": [
+        "Riesgo de incendio",
+        "Daños con elementos cortantes",
+        "Riesgo eléctrico",
+        "Caída a distinto nivel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El uso de herramientas de corte o punzantes puede provocar heridas si no se usan correctamente. Fundamento: Riesgos laborales, pág. 11."
+    },
+    {
+      "question": "¿Cómo se pueden prevenir incendios en el almacenamiento?",
+      "options": [
+        "Fumando solo cerca de los extintores",
+        "Dejando todas las puertas abiertas para que corra el aire",
+        "Almacenando correctamente inflamables y contando con equipos de control (extintores, mangueras)",
+        "No instalando nunca aparatos eléctricos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Almacén adecuado de combustibles y equipos de extinción eficientes son medidas clave. Fundamento: Riesgos laborales, pág. 11."
+    },
+    {
+      "question": "¿Qué busca la ergonomía en el puesto de trabajo de almacén?",
+      "options": [
+        "Que el almacén sea visualmente bonito",
+        "Que las condiciones físicas y psicológicas del puesto sean las adecuadas para el trabajador",
+        "Que los productos estén siempre en la estantería más alta",
+        "Que se trabaje de pie durante 8 horas seguidas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ergonomía busca adaptar el trabajo a las capacidades y necesidades del empleado para evitar lesiones. Fundamento: Manipulación y carga, pág. 12."
+    },
+    {
+      "question": "¿Qué medida se recomienda para evitar lesiones musculares por tareas estáticas?",
+      "options": [
+        "No moverse en todo el día",
+        "Trabajar en posturas forzadas",
+        "Levantar siempre el máximo peso posible",
+        "Combinar tareas estáticas y dinámicas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Alternar entre tareas que requieren movimiento y las que son estáticas ayuda a prevenir lesiones. Fundamento: Manipulación y carga, pág. 12."
+    },
+    {
+      "question": "¿Cuál es la función del oxígeno en el proceso de compostaje de residuos orgánicos?",
+      "options": [
+        "No tiene ninguna función, se hace al vacío",
+        "Enfriar los residuos para que no se quemen",
+        "Evitar que el compost huela bien",
+        "Permitir la transformación de la materia orgánica en compost"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El compostaje es un proceso aeróbico que requiere oxígeno para la degradación de la materia. Fundamento: Gestión de residuos, pág. 8."
+    },
+    {
+      "question": "¿Por qué el reciclaje de papel y cartón es importante para la RSC?",
+      "options": [
+        "Porque permite obtener celulosa y fabricar nuevos productos ahorrando recursos naturales",
+        "Porque permite obtener beneficios vendiendo papel usado",
+        "Porque el papel viejo es peligroso para la salud",
+        "Porque así el almacén tiene menos polvo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El tratamiento de papel permite reutilizar la celulosa en nuevos procesos de fabricación. Fundamento: Gestión de residuos, pág. 8."
+    },
+    {
+      "question": "¿Qué implica para una empresa de gestión de residuos el plan de RSC?",
+      "options": [
+        "Aumentar el número de accidentes laborales",
+        "Solo sirve para salir en las noticias",
+        "Gastar más dinero en seguros privados",
+        "Mayor eficiencia organizativa y reducción de posibles accidentes medioambientales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La RSC mejora la eficiencia, seguridad y reduce accidentes de salud y medioambientales. Fundamento: Gestión de residuos, pág. 7."
+    },
+    {
+      "question": "¿Qué son los residuos comerciales?",
+      "options": [
+        "Los que sobran del comedor de los empleados",
+        "Restos de materiales de construcción",
+        "Aquellos que surgen por la propia actividad del comercio (envases, embalajes, alimentos caducados)",
+        "Residuos radiactivos de baja intensidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Son residuos derivados de la actividad comercial, como embalajes o productos caducados. Fundamento: Gestión de residuos, pág. 8."
+    },
+    {
+      "question": "¿Cuál es el objetivo de los equipos de trabajo virtuales?",
+      "options": [
+        "Permitir la comunicación y coordinación de profesionales que no están en el mismo espacio físico",
+        "Jugar a videojuegos en horario laboral",
+        "Sustituir a los humanos por hologramas",
+        "Ahuyentar a los clientes reales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Permiten coordinar a profesionales de distintos lugares, cobrando relevancia tras la pandemia. Fundamento: Desarrollo del personal, pág. 10."
+    },
+    {
+      "question": "¿Qué se debe señalar para prevenir accidentes en el almacén?",
+      "options": [
+        "Solo las ofertas de los productos",
+        "Solo la zona de descanso",
+        "El nombre de los operarios en cada estantería",
+        "Las zonas de riesgo y las vías de emergencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Es obligatorio indicar claramente las zonas de peligro para evitar caídas y otros riesgos. Fundamento: Riesgos laborales, pág. 11."
+    },
+    {
+      "question": "¿Por qué es fundamental el respeto y conservación de recursos naturales no renovables?",
+      "options": [
+        "Porque son infinitos y no hay que preocuparse",
+        "Porque su uso está prohibido en todas las empresas",
+        "Para que en un futuro puedan seguir consumiéndose de manera responsable",
+        "Solo para ahorrar dinero en materias primas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un aprovechamiento correcto garantiza la disponibilidad de estos recursos para el futuro. Fundamento: Ámbitos de actuación, pág. 6."
     }
   ]
 }

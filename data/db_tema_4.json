@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 4: RELACIÓN CON LOS PROVEEDORES. PROCESO DOCUMENTAL",
   "items": [
     {
-      "question": "¿Cuál es el objetivo principal de la relación proveedor-cliente?",
+      "question": "¿Qué deben tener presente ambas empresas en la relación proveedor-cliente?",
       "options": [
-        "Mejorar la publicidad de ambas empresas.",
-        "Satisfacer las necesidades del consumidor final.",
-        "Reducir personal en ambas empresas.",
-        "Incrementar la inversión en marketing."
+        "Que las condiciones las impone exclusivamente el comprador",
+        "Que una de las partes tiene autoridad sobre la otra",
+        "Que actúan de manera independiente y deben respetar la libertad de acción y autonomía del otro",
+        "Que no es necesario firmar ningún tipo de contrato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ambas empresas deben tener presente que actúan de manera independiente y, por lo tanto, deben respetar la libertad de acción y autonomía del otro. Fundamento: Las relaciones con los proveedores, pág. 4."
+    },
+    {
+      "question": "¿Qué es imprescindible para que la relación comercial funcione correctamente?",
+      "options": [
+        "El intercambio de información constante entre las empresas para conseguir actividades eficientes",
+        "Que el proveedor tenga el precio más bajo del mercado",
+        "Que ambas empresas pertenezcan al mismo sector de actividad",
+        "Que el contrato se renueve cada mes obligatoriamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es imprescindible el intercambio de información constante entre dichas empresas para conseguir llevar a cabo las actividades de manera eficiente. Fundamento: Las relaciones con los proveedores, pág. 4."
+    },
+    {
+      "question": "¿Con qué suelen comenzar las relaciones entre cliente y empresa proveedora?",
+      "options": [
+        "Con la firma inmediata de un contrato de exclusividad",
+        "Con la solicitud de información por parte del cliente",
+        "Con el envío directo de mercancía sin previo acuerdo",
+        "Con una inspección del almacén del proveedor"
       ],
       "correctAnswer": 1,
-      "explanation": "La relación proveedor-cliente debe orientarse a satisfacer de manera eficiente las necesidades del consumidor final."
+      "explanation": "Normalmente las relaciones comienzan con la solicitud de información por parte del cliente. Posteriormente se recoge en un contrato de compraventa o de prestación de servicios. Fundamento: Las relaciones con los proveedores, pág. 4."
     },
     {
-      "question": "Un aspecto esencial en la relación con proveedores es…",
+      "question": "¿Qué es la solicitud de oferta?",
       "options": [
-        "El respeto a la autonomía de cada empresa.",
-        "La obligación de depender mutuamente.",
-        "La reducción de personal en ambas partes.",
-        "El uso de la misma estrategia de marketing."
+        "Un documento contable para registrar las ventas realizadas",
+        "Un informe de evaluación del proveedor después de la relación comercial",
+        "La primera toma de contacto con la empresa proveedora donde el cliente transmite el deseo de establecer una relación comercial y solicita información",
+        "La factura emitida al finalizar una operación de compraventa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La solicitud de oferta es la primera toma de contacto con la empresa proveedora, donde el cliente transmite el deseo de establecer una relación comercial y solicita información sobre productos o servicios. Fundamento: Solicitud de oferta, pág. 4."
+    },
+    {
+      "question": "¿Qué datos debe aportar el proveedor al responder a una solicitud de oferta?",
+      "options": [
+        "Tipo de productos, condiciones de suministro, condiciones de pago, entre otros",
+        "Solo el precio final del producto sin condiciones adicionales",
+        "Exclusivamente el nombre de la empresa y su dirección postal",
+        "Únicamente el plazo de entrega estimado"
       ],
       "correctAnswer": 0,
-      "explanation": "Ambas empresas deben mantener independencia y autonomía respetando la libertad de acción."
+      "explanation": "El proveedor aportará datos como tipo de productos, condiciones de suministro, condiciones de pago, etc. Fundamento: Solicitud de oferta, pág. 5."
     },
     {
-      "question": "¿Qué documento suele iniciar la relación comercial entre cliente y proveedor?",
+      "question": "¿Por qué las empresas necesitan alcanzar buenas relaciones con sus proveedores?",
       "options": [
-        "La orden de compra.",
-        "La solicitud de oferta.",
-        "La factura.",
-        "El contrato laboral."
+        "Porque la legislación obliga a mantener relaciones de larga duración",
+        "Porque es lo habitual pero no tiene impacto en las ventas",
+        "Porque los proveedores fijan los precios de venta al público",
+        "Porque la mayoría de empresas no consiguen satisfacer las necesidades del cliente final ni alcanzar ventas altas sin buenas relaciones con proveedores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La mayoría de empresas no consiguen satisfacer las necesidades del cliente final, ni alcanzar un número de ventas alto si no mantienen buenas relaciones con sus proveedores. Fundamento: Satisfacción y discrepancia con proveedores, pág. 5."
+    },
+    {
+      "question": "¿Cuál es un motivo de satisfacción en la relación con proveedores?",
+      "options": [
+        "Que la mercancía se entregue con retraso pero a menor precio",
+        "Que el proveedor cambie las condiciones sin aviso previo",
+        "Que la empresa cliente negocie exclusivamente por precio",
+        "Que la mercancía se entregue en el momento indicado y con las características y calidad acordada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un motivo de satisfacción es que la mercancía se entregue en el momento indicado y con las características y calidad acordada. Fundamento: Satisfacción y discrepancia con proveedores, pág. 6."
+    },
+    {
+      "question": "¿Cuál es un motivo de discrepancia en la relación con proveedores?",
+      "options": [
+        "Que la documentación de la mercancía y del pago sea correcta",
+        "Que el pedido solicitado no llegue en las condiciones físicas o de calidad pactadas",
+        "Que el proveedor oferte nuevos productos de forma proactiva",
+        "Que el pago se realice puntualmente"
       ],
       "correctAnswer": 1,
-      "explanation": "La primera toma de contacto entre cliente y proveedor es la solicitud de oferta."
+      "explanation": "Un motivo de discrepancia es que el pedido solicitado no llegue en las condiciones físicas o de calidad pactadas. Fundamento: Satisfacción y discrepancia con proveedores, pág. 6."
     },
     {
-      "question": "¿Qué información incluye una solicitud de oferta?",
+      "question": "¿Qué es un contrato de suministro?",
       "options": [
-        "Tipo de productos, condiciones de suministro y de pago.",
-        "Nóminas y organigrama de la empresa.",
-        "Estrategias publicitarias.",
-        "Informes contables."
+        "Un acuerdo informal sin validez legal",
+        "Un contrato donde una parte se obliga a cumplir prestaciones periódicas de entrega de cosas muebles a cambio de una contraprestación",
+        "Un documento exclusivo para la compra de servicios digitales",
+        "Un contrato de trabajo para empleados del almacén"
       ],
-      "correctAnswer": 0,
-      "explanation": "La solicitud de oferta transmite el interés comercial y recoge información sobre productos y condiciones."
+      "correctAnswer": 1,
+      "explanation": "El contrato de suministro es un contrato donde una parte (suministrador) se obliga a cumplir prestaciones periódicas de entrega de cosas muebles, a cambio de una contraprestación. Fundamento: Documentos de intercambio de información, pág. 7."
     },
     {
-      "question": "Una característica de la relación proveedor-cliente es…",
+      "question": "¿Qué diferencia principal existe entre el contrato de suministro y el de compraventa?",
       "options": [
-        "El intercambio constante de información.",
-        "La ausencia de contratos.",
-        "El uso exclusivo de redes sociales.",
-        "La dependencia total de una sola parte."
+        "No existe ninguna diferencia significativa entre ambos",
+        "El de compraventa no requiere firma de las partes",
+        "El de suministro solo se usa para servicios, no para productos",
+        "En el de suministro el precio no está cerrado y puede cambiar según la cantidad del pedido, mientras que en el de compraventa sí está cerrado"
       ],
-      "correctAnswer": 0,
-      "explanation": "El flujo de información constante es clave para el éxito de la relación."
+      "correctAnswer": 3,
+      "explanation": "La principal diferencia es que en el contrato de suministro el precio no está cerrado y puede ir cambiando según la cantidad de pedido solicitada. Fundamento: Documentos de intercambio de información, pág. 7."
     },
     {
-      "question": "¿Qué acuerdo suele formalizar antes de iniciar la relación comercial?",
+      "question": "¿Qué elementos NO pueden faltar en un contrato de compraventa?",
       "options": [
-        "Contrato en el que se fijan precio, calidad y métodos de pago.",
-        "Informe contable.",
-        "Plan de marketing.",
-        "Convenio laboral."
+        "Quiénes intervienen, objeto, duración, condiciones de pago, motivos de resolución, ley que lo sustenta y obligaciones de ambas partes",
+        "Solo el nombre de las partes y el precio",
+        "Exclusivamente la fecha y el importe total",
+        "Solo las firmas de los representantes legales"
       ],
       "correctAnswer": 0,
-      "explanation": "Antes de comenzar la relación comercial es recomendable firmar un contrato que regule las condiciones."
+      "explanation": "No pueden faltar: quiénes intervienen, objeto, duración, condiciones de pago, motivos de resolución, ley que sustenta el contrato y obligaciones de ambas partes. Fundamento: Documentos de intercambio de información, pág. 7."
     },
     {
-      "question": "Un motivo de satisfacción en la relación proveedor-cliente es…",
+      "question": "¿Para qué sirven las fichas de proveedores?",
       "options": [
-        "Entrega de mercancía en condiciones y plazos acordados.",
-        "Exceso de publicidad.",
-        "Reducción de personal.",
-        "Elaboración de organigramas."
+        "Para diseñar los productos que suministra el proveedor",
+        "Para calcular los impuestos de las operaciones comerciales",
+        "Para llevar un control y seguimiento de los proveedores con los que la empresa trabaja",
+        "Para gestionar las nóminas del personal del almacén"
       ],
-      "correctAnswer": 0,
-      "explanation": "La satisfacción depende de recibir los productos en el momento y condiciones pactadas."
+      "correctAnswer": 2,
+      "explanation": "Las fichas de proveedores sirven para llevar un control y seguimiento de los proveedores con los que la empresa trabaja. Fundamento: Fichas de proveedores y seguimiento, pág. 7."
     },
     {
-      "question": "Un motivo de discrepancia con proveedores es…",
+      "question": "¿Quién debe tener acceso a las fichas de proveedores?",
       "options": [
-        "Retrasos en la entrega o incumplimiento de condiciones de calidad.",
-        "Buena atención al cliente.",
-        "Comunicación fluida.",
-        "Respeto a las obligaciones de pago."
+        "Exclusivamente el director general de la empresa",
+        "Todo el personal del departamento comercial, para estar al día de la relación con las empresas proveedoras",
+        "Únicamente la empresa proveedora",
+        "Solo el responsable del departamento de compras"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los retrasos o incumplimientos son causas frecuentes de discrepancia entre cliente y proveedor."
+      "correctAnswer": 1,
+      "explanation": "Todo el personal del departamento comercial deberá tener acceso a esta información, y así estar al día de la relación con las distintas empresas proveedoras. Fundamento: Fichas de proveedores y seguimiento, pág. 8."
     },
     {
-      "question": "¿Qué estrategia de colaboración se menciona en el caso Frescos?",
+      "question": "¿Qué datos se incluyen habitualmente en una ficha de proveedor?",
       "options": [
-        "Estrategia win-win con interproveedores.",
-        "Estrategia de marketing digital.",
-        "Estrategia de publicidad masiva.",
-        "Estrategia de reducción de personal."
+        "Solo el nombre de la empresa y el teléfono",
+        "Los datos personales de todos los empleados del proveedor",
+        "Exclusivamente los precios históricos de los productos",
+        "Datos de registro, productos adquiridos, características de la relación comercial y otros datos de interés"
       ],
-      "correctAnswer": 0,
-      "explanation": "Frescos aplica una estrategia win-win con interproveedores mediante contratos de larga duración."
+      "correctAnswer": 3,
+      "explanation": "Se incluyen datos de registro del proveedor, productos que se adquieren, características de la relación comercial y otros datos de interés. Fundamento: Fichas de proveedores y seguimiento, pág. 8."
     },
     {
-      "question": "¿Qué son los interproveedores?",
+      "question": "¿Cómo deben organizarse los ficheros de proveedores para agilizar el trabajo?",
       "options": [
-        "Proveedores con contrato indefinido de colaboración.",
-        "Empresas externas de publicidad.",
-        "Recursos humanos de apoyo.",
-        "Empresas financieras asociadas."
+        "Sin ningún orden específico, ya que el software los organiza automáticamente",
+        "Clasificados y ordenados según un criterio común, como el criterio alfabético por nombre de la empresa",
+        "Por orden de llegada de las mercancías",
+        "Según el volumen de compras de menor a mayor"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los interproveedores son proveedores con contrato indefinido de colaboración estrecha con el cliente."
+      "correctAnswer": 1,
+      "explanation": "Los ficheros deberán estar clasificados y ordenados según un criterio común (por ejemplo, criterio alfabético por nombre de la empresa). Fundamento: Fichas de proveedores y seguimiento, pág. 8."
     },
     {
-      "question": "El contrato de suministro se diferencia del de compraventa porque…",
+      "question": "¿Qué es la orden de compra?",
       "options": [
-        "El precio no está cerrado y varía según cantidad solicitada.",
-        "Es siempre verbal.",
-        "No existe obligación de pago.",
-        "Se limita al ámbito laboral."
+        "Una factura emitida por el proveedor al cliente",
+        "Un informe de calidad del producto recibido",
+        "Un contrato de exclusividad entre empresas",
+        "Un documento que utiliza el comprador para solicitar mercancía al proveedor"
       ],
-      "correctAnswer": 0,
-      "explanation": "En el contrato de suministro el precio puede variar en función de la cantidad pedida."
+      "correctAnswer": 3,
+      "explanation": "La orden de compra, también conocida como pedido de compra, es un documento que utiliza el comprador para solicitar mercancía al proveedor. Fundamento: Orden de compra, pág. 8."
     },
     {
-      "question": "Un elemento esencial de un contrato es…",
+      "question": "¿Qué ocurre con la orden de compra una vez emitida?",
       "options": [
-        "Objeto del contrato y condiciones de pago.",
-        "Estrategia publicitaria.",
-        "Organigrama empresarial.",
-        "Informe contable."
+        "Ambas partes reciben copias idénticas sin distinción",
+        "Se destruye automáticamente después de la entrega",
+        "El vendedor se queda con la copia original y el comprador con un duplicado, y si el vendedor acepta surge el intercambio comercial",
+        "Solo se conserva durante el periodo de garantía"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los contratos deben reflejar objeto, condiciones de pago, duración y obligaciones."
+      "correctAnswer": 2,
+      "explanation": "El vendedor se queda con la copia original y el comprador con un duplicado. Este documento servirá para elaborar la factura. Si el vendedor acepta, surge el intercambio comercial. Fundamento: Orden de compra, pág. 8."
     },
     {
-      "question": "¿Qué documento sirve de base para elaborar la factura?",
+      "question": "¿Qué ventaja aporta la orden de compra en cuanto a verificación?",
       "options": [
-        "La orden de compra.",
-        "La solicitud de oferta.",
-        "La nómina.",
-        "El balance contable."
+        "Existe un registro de la mercancía solicitada y si el proveedor incumpliera algún término, se puede acudir a este documento",
+        "Permite diseñar nuevos productos a partir de la información",
+        "Garantiza automáticamente la calidad de la mercancía",
+        "Elimina la necesidad de realizar inventarios"
       ],
       "correctAnswer": 0,
-      "explanation": "La orden de compra es la base para emitir la factura del proveedor."
+      "explanation": "La orden de compra permite una verificación: existe un registro de la mercancía solicitada y de las condiciones; si el proveedor incumpliera, se puede acudir a este documento. Fundamento: Orden de compra, pág. 9."
     },
     {
-      "question": "Una ventaja de la orden de compra es…",
+      "question": "¿Qué es un programa de entrega planificada?",
       "options": [
-        "Verificación de mercancía solicitada y condiciones.",
-        "Elaboración de organigramas.",
-        "Estrategia publicitaria.",
-        "Reducción de personal."
+        "Un sistema para programar las vacaciones del departamento de compras",
+        "Un método de selección de proveedores basado en la cercanía",
+        "Un programa donde la empresa programa los pedidos al inicio del periodo basándose en datos históricos y análisis de stock",
+        "Un software de diseño gráfico para catálogos de productos"
       ],
-      "correctAnswer": 0,
-      "explanation": "La orden de compra permite verificar la mercancía y condiciones pactadas."
+      "correctAnswer": 2,
+      "explanation": "La empresa puede programar los pedidos al inicio del periodo basándose en estudios previos y análisis de datos históricos sobre el número de unidades y características que necesita consumir. Fundamento: Orden de compra, pág. 9."
     },
     {
-      "question": "¿Qué documento permite organizar la recepción de mercancías?",
+      "question": "¿Qué riesgo presenta el programa de entrega planificada?",
       "options": [
-        "La orden de compra.",
-        "El contrato laboral.",
-        "La solicitud de empleo.",
-        "La nómina."
+        "Que si se produce un error en el cálculo de existencias o un retraso, se podría dar una rotura de stock",
+        "Que la empresa se quede sin proveedores alternativos",
+        "Que el proveedor cambie de actividad empresarial",
+        "Que se incremente el precio de la mercancía de forma descontrolada"
       ],
       "correctAnswer": 0,
-      "explanation": "Con la orden de compra se conoce la fecha de entrega y se planifica la recepción en almacén."
+      "explanation": "Si se produce algún error en el cálculo de existencias solicitadas o un retraso en la entrega de la mercancía, se podría dar una rotura de stock. Fundamento: Orden de compra, pág. 9."
     },
     {
-      "question": "Un error en el cálculo de existencias en pedidos planificados puede generar…",
+      "question": "¿Qué ventaja tiene la entrega planificada para la empresa compradora respecto al precio?",
       "options": [
-        "Rotura de stock.",
-        "Exceso de publicidad.",
-        "Incremento de personal.",
-        "Menor prestigio."
+        "Elimina cualquier coste adicional de transporte",
+        "Garantiza siempre el precio más bajo del mercado",
+        "Permite fijar un precio a principio de año sin fluctuaciones a lo largo del periodo",
+        "Asegura descuentos progresivos cada trimestre"
       ],
-      "correctAnswer": 0,
-      "explanation": "Si el cálculo de existencias es erróneo o hay retrasos, se puede producir rotura de stock."
+      "correctAnswer": 2,
+      "explanation": "Este tipo de planificación permite fijar un precio a principio de año y que no existan fluctuaciones a lo largo del periodo. Fundamento: Orden de compra, pág. 9."
     },
     {
-      "question": "La ficha de proveedor incluye…",
+      "question": "¿Para qué se utilizan las aplicaciones informáticas de gestión de proveedores?",
       "options": [
-        "Datos de registro, productos adquiridos y condiciones comerciales.",
-        "Organigrama y campañas publicitarias.",
-        "Nóminas y balances contables.",
-        "Estrategias de marketing digital."
+        "Para diseñar el logotipo y la imagen corporativa de la empresa",
+        "Para gestionar las redes sociales y la publicidad online",
+        "Para asegurar la calidad del aprovisionamiento, gestionar documentación, compartir información de forma segura y optimizar tiempos",
+        "Exclusivamente para calcular los salarios del personal"
       ],
-      "correctAnswer": 0,
-      "explanation": "La ficha recoge datos de registro, productos habituales, condiciones y otros aspectos de interés."
+      "correctAnswer": 2,
+      "explanation": "Las aplicaciones se utilizan para asegurar la calidad del aprovisionamiento, gestionar documentación de manera eficiente, compartir información de forma segura online, poseer información actualizada y optimizar tiempos. Fundamento: Aplicaciones informáticas, pág. 10."
     },
     {
-      "question": "¿Qué herramienta informática gratuita se menciona para gestión de proveedores?",
+      "question": "¿Qué es FACTUSOL?",
       "options": [
-        "FACTUSOL.",
-        "Photoshop.",
-        "Excel exclusivamente.",
-        "AutoCAD."
+        "Un sistema de etiquetado electrónico para productos",
+        "Un programa gratuito que sirve para la relación con proveedores y clientes",
+        "Una base de datos de proveedores internacionales",
+        "Un software exclusivo para grandes multinacionales"
       ],
-      "correctAnswer": 0,
-      "explanation": "FACTUSOL es un programa gratuito utilizado para gestionar proveedores y clientes."
+      "correctAnswer": 1,
+      "explanation": "FACTUSOL es un programa gratuito que sirve para la relación con proveedores y clientes. Fundamento: Aplicaciones informáticas, pág. 10."
     },
     {
-      "question": "Un objetivo del uso de software de gestión de proveedores es…",
+      "question": "¿Cuál de las siguientes tareas se incluye en el programa FACTUSOL?",
       "options": [
-        "Compartir y guardar información de forma segura.",
-        "Incrementar la publicidad.",
-        "Reducir personal.",
-        "Elaborar campañas."
+        "Diseñar campañas de marketing en redes sociales",
+        "Realizar la declaración de impuestos de forma automática",
+        "Gestionar los recursos humanos de la empresa",
+        "Controlar y realizar un seguimiento de las deudas de clientes, crear órdenes de compra y emitir facturas"
       ],
-      "correctAnswer": 0,
-      "explanation": "El software permite almacenar y compartir información actualizada de manera segura."
+      "correctAnswer": 3,
+      "explanation": "FACTUSOL incluye tareas como controlar deudas de clientes, diseñar presupuestos, registrar proveedores, crear órdenes de compra, emitir y registrar facturas, y controlar el stock. Fundamento: Aplicaciones informáticas, pág. 11."
     },
     {
-      "question": "El contrato de compraventa se caracteriza por…",
+      "question": "¿Cómo deben resolverse los problemas o discrepancias entre proveedor y cliente?",
       "options": [
-        "Precio fijo acordado a cambio del bien o servicio.",
-        "Precio variable siempre.",
-        "No requerir obligaciones.",
-        "Carecer de objeto definido."
+        "Cancelando inmediatamente la relación comercial",
+        "Acudiendo directamente a los tribunales sin intentar negociar",
+        "Mediante el diálogo, encontrando alternativas válidas para ambas partes",
+        "Ignorando el problema hasta que se resuelva solo"
       ],
-      "correctAnswer": 0,
-      "explanation": "En la compraventa se acuerda un precio fijo por el bien o servicio adquirido."
+      "correctAnswer": 2,
+      "explanation": "Si existen problemas o discrepancias deben discutirse mediante el diálogo encontrando alternativas válidas para ambas partes. Fundamento: Satisfacción y discrepancia con proveedores, pág. 5."
     },
     {
-      "question": "Un motivo de satisfacción con proveedores es…",
+      "question": "¿Qué debe ofrecer la empresa proveedora en todo momento a la empresa cliente?",
       "options": [
-        "Comunicación de incidencias y su resolución.",
-        "Retraso en la entrega.",
-        "Incumplimiento de pago.",
-        "Documentación incorrecta."
+        "Acceso ilimitado a sus sistemas internos de gestión",
+        "Productos exclusivos que no se vendan a otros clientes",
+        "Precios por debajo del coste de producción",
+        "Un servicio de atención al cliente completo y resolución de posibles problemas"
       ],
-      "correctAnswer": 0,
-      "explanation": "La resolución de incidencias genera satisfacción y confianza en la relación."
+      "correctAnswer": 3,
+      "explanation": "Es imprescindible que la empresa proveedora ofrezca un servicio de atención al cliente completo y resuelva los posibles problemas que puedan surgir. Fundamento: Las relaciones con los proveedores, pág. 4."
     },
     {
-      "question": "Un motivo de discrepancia con clientes es…",
+      "question": "¿Cuál es el objetivo compartido de ambas empresas en la relación proveedor-cliente?",
       "options": [
-        "No realizar el pago en el momento acordado.",
-        "Pago puntual de deudas.",
-        "Entregar mercancía en condiciones.",
-        "Comunicación fluida."
+        "Maximizar los beneficios del proveedor a costa del cliente",
+        "Satisfacer las necesidades del consumidor final",
+        "Reducir al mínimo la comunicación entre las partes",
+        "Eliminar la competencia del mercado"
       ],
-      "correctAnswer": 0,
-      "explanation": "El incumplimiento en el pago acordado es motivo de discrepancia en la relación."
+      "correctAnswer": 1,
+      "explanation": "El objetivo de ambas empresas en todo momento debe ser satisfacer las necesidades del consumidor final. Fundamento: Las relaciones con los proveedores, pág. 4."
     },
     {
-      "question": "El contrato debe incluir obligatoriamente…",
+      "question": "¿Qué herramientas utilizan las empresas para manejar las fichas de proveedores de forma más cómoda?",
       "options": [
-        "Partes, objeto, duración, condiciones de pago y validez.",
-        "Estrategias de marketing.",
-        "Organigrama empresarial.",
-        "Balances contables."
+        "Dispositivos como PDA que permiten informatizar la información",
+        "Carpetas de archivo físico exclusivamente",
+        "Solo documentos impresos y fotocopiados",
+        "Tablones de anuncios en las oficinas"
       ],
       "correctAnswer": 0,
-      "explanation": "Los contratos deben contener los elementos básicos: partes, objeto, duración, condiciones, validez y consentimiento."
+      "explanation": "La información de fichas de proveedores resulta más cómoda e intercambiable si está informatizada, por eso las empresas utilizan herramientas como PDA. Fundamento: Fichas de proveedores y seguimiento, pág. 7."
     },
     {
-      "question": "¿Qué permite el programa de entrega planificada?",
+      "question": "¿Qué debe hacer la empresa proveedora con las posibles incidencias?",
       "options": [
-        "Fijar precio y periodicidad de pedidos al inicio del año.",
-        "Reducir personal.",
-        "Diseñar campañas.",
-        "Elaborar balances."
+        "Tenerlas en cuenta, comunicarlas y resolverlas",
+        "Esperar a que el cliente las descubra por sí mismo",
+        "Ocultarlas al cliente para no afectar la relación comercial",
+        "Derivarlas siempre a la empresa de transporte"
       ],
       "correctAnswer": 0,
-      "explanation": "Permite establecer precio y frecuencia de pedidos con antelación evitando fluctuaciones."
+      "explanation": "La empresa proveedora, como motivo de satisfacción, debe tener en cuenta las posibles incidencias, comunicarlas y resolverlas. Fundamento: Satisfacción y discrepancia con proveedores, pág. 6."
     },
     {
-      "question": "Una ventaja del contrato de larga duración es…",
+      "question": "¿Es recomendable firmar un contrato antes de iniciar la relación comercial con un proveedor?",
       "options": [
-        "Garantizar volumen de intercambios comerciales y estabilidad.",
-        "Carecer de obligaciones.",
-        "Variar precios constantemente.",
-        "Eliminar competencia."
+        "Es recomendable y frecuente para acordar aspectos como precio, calidad y métodos de pago",
+        "Solo si la relación durará más de cinco años",
+        "No, porque los contratos limitan la flexibilidad de ambas partes",
+        "Solo es necesario si las empresas son de distintos países"
       ],
       "correctAnswer": 0,
-      "explanation": "Los contratos de larga duración aportan estabilidad y confianza al proyecto empresarial."
-    },
-    {
-      "question": "Un requisito de la ficha de proveedores es…",
-      "options": [
-        "Clasificación y orden según criterio común, como alfabético.",
-        "Estrategias publicitarias.",
-        "Nóminas.",
-        "Auditoría externa."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Las fichas deben estar ordenadas para un acceso rápido, habitualmente con criterio alfabético."
-    },
-    {
-      "question": "La comunicación constante con proveedores es necesaria para…",
-      "options": [
-        "Evitar incidencias y garantizar objetivos.",
-        "Publicitar la empresa.",
-        "Reducir nóminas.",
-        "Elaborar organigramas."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El flujo continuo de información asegura la correcta consecución de objetivos."
-    },
-    {
-      "question": "Un servicio de atención al cliente adecuado debe…",
-      "options": [
-        "Resolver posibles problemas que surjan en la relación.",
-        "Elaborar publicidad.",
-        "Diseñar organigramas.",
-        "Redactar balances."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El proveedor debe brindar atención al cliente para resolver incidencias de manera eficaz."
-    },
-    {
-      "question": "La documentación intercambiada con proveedores incluye…",
-      "options": [
-        "Contratos, fichas y órdenes de compra.",
-        "Publicidad y campañas.",
-        "Nóminas y balances.",
-        "Organigramas."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Entre los documentos figuran contratos, fichas de proveedores y órdenes de compra."
-    },
-    {
-      "question": "Una orden de compra aceptada por el vendedor implica…",
-      "options": [
-        "Inicio del intercambio comercial.",
-        "Publicidad.",
-        "Elaboración de organigrama.",
-        "Reducción de personal."
-      ],
-      "correctAnswer": 0,
-      "explanation": "Si el vendedor acepta la orden de compra surge la operación comercial."
+      "explanation": "Es recomendable y frecuente que antes de que comience la relación comercial se firme un contrato, en el que acuerden aspectos como precio, calidad, métodos de pago, etc. Fundamento: Las relaciones con los proveedores, pág. 4."
     }
   ]
 }

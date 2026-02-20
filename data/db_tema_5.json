@@ -2,334 +2,334 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 5: NEGOCIACIÓN CON PROVEEDORES",
   "items": [
     {
-      "question": "¿Cómo se define la negociación en el ámbito empresarial?",
+      "question": "¿Cómo puede realizarse el diálogo del proceso de negociación entre dos empresas?",
       "options": [
-        "Un proceso de confrontación directa entre dos partes rivales.",
-        "Un proceso de resolución de un conflicto entre dos o más partes que consta de fases desde la posición inicial hasta el acuerdo.",
-        "Un contrato verbal entre empresas competidoras.",
-        "Una estrategia publicitaria."
+        "Exclusivamente mediante reuniones presenciales",
+        "Por distintas vías como teléfono, videoconferencia o reuniones en persona",
+        "Solo a través de correo electrónico certificado",
+        "Únicamente mediante actas notariales"
       ],
       "correctAnswer": 1,
-      "explanation": "La negociación se entiende como un proceso de resolución de conflictos en el que intervienen varias fases hasta llegar a un acuerdo entre proveedor y cliente."
+      "explanation": "El diálogo puede realizarse por distintas vías: teléfono, videoconferencia, reuniones en persona, dependiendo de la dificultad de la reunión. Fundamento: La negociación entre proveedor y cliente, pág. 4."
     },
     {
-      "question": "¿Cuál es el objetivo de una negociación entre proveedor y cliente?",
+      "question": "¿Qué aspecto debe tenerse en cuenta para preparar la estrategia de negociación?",
       "options": [
-        "Romper la relación comercial.",
-        "Alcanzar un equilibrio entre oferta y objetivos de la empresa cliente.",
-        "Imponer las condiciones de la empresa más fuerte.",
-        "Incrementar los gastos publicitarios."
-      ],
-      "correctAnswer": 1,
-      "explanation": "El objetivo es lograr un equilibrio entre la oferta del proveedor y los objetivos de la empresa cliente."
-    },
-    {
-      "question": "¿Qué aspecto influye en la forma de llevar a cabo la negociación?",
-      "options": [
-        "El tamaño de las empresas implicadas.",
-        "La moda del momento.",
-        "El número de campañas publicitarias realizadas.",
-        "La edad del personal negociador."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La negociación varía en función del tamaño y características de las empresas implicadas."
-    },
-    {
-      "question": "¿Cuál de las siguientes NO es una vía habitual de negociación?",
-      "options": [
-        "Reuniones presenciales.",
-        "Videoconferencia.",
-        "Teléfono.",
-        "Redes sociales de ocio."
+        "Solo el precio ofertado por el proveedor",
+        "La antigüedad de la empresa proveedora",
+        "Exclusivamente la ubicación geográfica de ambas empresas",
+        "El tamaño de ambas empresas, ya que la negociación no será la misma con una pequeña empresa que con una industrial"
       ],
       "correctAnswer": 3,
-      "explanation": "La negociación puede darse por reuniones, teléfono o videoconferencia, no por redes sociales recreativas."
+      "explanation": "Se debe tener en cuenta el tamaño de ambas empresas, ya que la negociación no será la misma con una pequeña empresa de servicios que con una industrial. Fundamento: La negociación entre proveedor y cliente, pág. 4."
     },
     {
-      "question": "¿Qué elemento de la negociación hace referencia a descuentos?",
+      "question": "¿Cómo deben actuar ambas partes en un proceso de negociación para que funcione?",
       "options": [
-        "Precios y descuentos en función de cantidad o duración del contrato.",
-        "Gastos financieros del cliente.",
-        "Estrategia de marketing.",
-        "Honorarios del personal."
+        "Una debe imponerse sobre la otra para cerrar el acuerdo rápidamente",
+        "Deben mantener secretos sus intereses hasta el último momento",
+        "Deben actuar como colaboradores, sin ver ni tratar a la otra parte como rival",
+        "Cada una debe buscar solo su propio beneficio"
       ],
-      "correctAnswer": 0,
-      "explanation": "Los precios y descuentos forman parte de los elementos básicos negociables."
+      "correctAnswer": 2,
+      "explanation": "Para que el encuentro funcione, ambas partes deben actuar como colaboradores, sin ver ni tratar a la otra parte como rival. Fundamento: La negociación entre proveedor y cliente, pág. 4."
     },
     {
-      "question": "En la negociación, ¿qué aspecto se negocia respecto al transporte?",
+      "question": "¿Cuál es uno de los elementos de negociación relacionados con los precios?",
       "options": [
-        "Quién asume el coste de transporte, incluyendo carga, descarga y seguros.",
-        "El organigrama del personal logístico.",
-        "La campaña publicitaria del producto.",
-        "Las nóminas de los empleados."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El transporte y sus costes asociados son un elemento frecuente de negociación."
-    },
-    {
-      "question": "¿Qué condición de pago suele preferir la empresa cliente?",
-      "options": [
-        "Pago al contado inmediato.",
-        "Aplazamiento de deuda (30, 60 o 90 días).",
-        "Pago en especie.",
-        "Pago mediante publicidad."
+        "Cambiar la marca del producto para reducir costes",
+        "Los descuentos asociados a la cantidad adquirida o la duración del contrato",
+        "Eliminar los impuestos asociados al producto",
+        "La negociación del precio de venta al consumidor final"
       ],
       "correctAnswer": 1,
-      "explanation": "La empresa cliente suele preferir un aplazamiento de la deuda para mejorar su liquidez."
+      "explanation": "El objeto de negociación frecuente son los descuentos asociados a aspectos como la cantidad adquirida o la duración del contrato. Fundamento: Elementos de la negociación, pág. 4."
     },
     {
-      "question": "¿Qué se entiende por gastos de instalación y montaje?",
+      "question": "¿Qué ocurre cuando la empresa proveedora asume el transporte de mercancía?",
       "options": [
-        "Coste normalmente asumido por el comprador.",
-        "Gasto que corresponde al marketing.",
-        "Coste compartido por sindicatos.",
-        "Gasto publicitario."
+        "El coste del pedido disminuye automáticamente",
+        "No afecta al precio final del pedido",
+        "Supone un aumento del coste del pedido, además de gastos como carga, descarga y seguros",
+        "Se elimina la necesidad de seguro de mercancía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando la empresa vendedora se encarga del transporte, supone un aumento del coste del pedido, además de otros gastos como carga y descarga o seguros. Fundamento: Elementos de la negociación, pág. 4."
+    },
+    {
+      "question": "¿Qué preferencia tienen normalmente las empresas compradoras respecto al pago?",
+      "options": [
+        "Prefieren pagar antes de recibir la mercancía",
+        "Prefieren pagar en el momento de la entrega para obtener un precio más bajo",
+        "Prefieren un aplazamiento de la deuda para disponer de mayor liquidez",
+        "Prefieren pagar exclusivamente en efectivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Normalmente la empresa compradora prefiere disponer de un aplazamiento de la deuda para así disponer de mayor liquidez. Fundamento: Elementos de la negociación, pág. 5."
+    },
+    {
+      "question": "¿En qué plazos se produce normalmente el aplazamiento de la deuda?",
+      "options": [
+        "En 7, 14 o 21 días",
+        "En 15, 45 o 75 días",
+        "En 30, 60 o 90 días",
+        "En 120, 180 o 360 días"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Normalmente el aplazamiento de la deuda se produce en 30, 60 o 90 días. Fundamento: Elementos de la negociación, pág. 5."
+    },
+    {
+      "question": "¿Qué son las barreras de la negociación?",
+      "options": [
+        "Las decisiones o propuestas ante las que las empresas no pueden ceder",
+        "Los aspectos legales que impiden firmar contratos",
+        "Los problemas logísticos de transporte de mercancía",
+        "Las diferencias culturales entre empresas de distintos países"
       ],
       "correctAnswer": 0,
-      "explanation": "El comprador suele asumir los gastos de instalación y montaje del producto adquirido."
+      "explanation": "Las barreras son las decisiones o propuestas ante las que las empresas no pueden ceder, aunque es importante que en la primera toma de contacto ambas sean flexibles. Fundamento: Elementos de la negociación, pág. 5."
     },
     {
-      "question": "¿Cuál es la primera etapa del proceso de negociación?",
+      "question": "¿Qué se analiza en la etapa de preparación de la negociación?",
       "options": [
-        "Desarrollo de la negociación.",
-        "Preparación.",
-        "Acuerdo y cierre.",
-        "Publicidad del encuentro."
+        "Solo los antecedentes judiciales de la empresa proveedora",
+        "Únicamente la ubicación del almacén del proveedor",
+        "Exclusivamente el precio del producto",
+        "La oferta recibida, comparándola con necesidades y objetivos, estudiando el grado de negociación de cada elemento y preparando la contraoferta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la preparación se analiza la oferta, se compara con necesidades y objetivos, se estudia el grado de negociación de cada elemento y se prepara la contraoferta. Fundamento: Etapas del proceso de negociación, pág. 5."
+    },
+    {
+      "question": "¿Qué es recomendable hacer cuando la reunión de negociación es extensa?",
+      "options": [
+        "Acelerar la reunión y tomar decisiones rápidamente",
+        "Cancelar la negociación y buscar otro proveedor",
+        "Hacer descansos o proponer un segundo encuentro para meditar las opciones",
+        "Firmar el acuerdo inmediatamente para no perder la oportunidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es recomendable hacer descansos o proponer un segundo encuentro para meditar las opciones, consultarlas y tener una visión más global. Fundamento: Etapas del proceso de negociación, pág. 6."
+    },
+    {
+      "question": "¿Quién es normalmente el primero en exponer los argumentos de su contraoferta?",
+      "options": [
+        "El mediador externo designado por ambas partes",
+        "El cliente es normalmente el primero en exponer los argumentos de su contraoferta",
+        "El departamento jurídico de la empresa proveedora",
+        "El proveedor, ya que tiene la oferta inicial"
       ],
       "correctAnswer": 1,
-      "explanation": "La negociación comienza con la preparación, donde se analizan la oferta y los aspectos a negociar."
+      "explanation": "Normalmente el cliente es el primero en exponer los argumentos de su contraoferta y a partir de ahí se crea el diálogo. Fundamento: Etapas del proceso de negociación, pág. 6."
     },
     {
-      "question": "En la preparación de la negociación es importante…",
+      "question": "¿Por qué es importante que los acuerdos queden por escrito?",
       "options": [
-        "Definir aspectos a negociar, estrategia y límites.",
-        "Elaborar campañas de marketing.",
-        "Reducir personal de almacén.",
-        "Hacer publicidad."
+        "Para poder publicarlos en medios de comunicación",
+        "Los acuerdos exclusivamente verbales no tendrán validez",
+        "Para enviar copias a la competencia",
+        "Porque la legislación obliga a publicar todos los contratos"
       ],
-      "correctAnswer": 0,
-      "explanation": "La preparación consiste en analizar condiciones, definir estrategia, aspectos a negociar y límites."
+      "correctAnswer": 1,
+      "explanation": "Es importante que todos los términos queden por escrito, ya que aquellos que se hayan acordado exclusivamente mediante acuerdo verbal no tendrán validez. Fundamento: Etapas del proceso de negociación, pág. 6."
     },
     {
-      "question": "Durante el desarrollo de la negociación se recomienda…",
+      "question": "¿Qué busca la estrategia ganar-ganar (win-win)?",
       "options": [
-        "Crear un ambiente de confianza y no empezar con los aspectos más complicados.",
-        "Exponer directamente las exigencias más duras.",
-        "Reducir al máximo el diálogo.",
-        "Imponer unilateralmente las condiciones."
+        "Que solo la empresa compradora obtenga beneficios",
+        "Que el proveedor pierda para que el cliente gane",
+        "Que ambas empresas se fusionen obligatoriamente",
+        "El beneficio de ambas partes, provocando relaciones basadas en la confianza que tienden a durar en el tiempo"
       ],
-      "correctAnswer": 0,
-      "explanation": "Es preferible crear confianza y comenzar con puntos sencillos antes de tratar aspectos complejos."
+      "correctAnswer": 3,
+      "explanation": "La estrategia win-win busca el beneficio de ambas partes, provocando relaciones basadas en la confianza y que tienden a durar en el tiempo. Fundamento: Estrategias ganar-ganar, pág. 8."
     },
     {
-      "question": "¿Qué documento debe redactarse al final de la negociación?",
+      "question": "¿Qué caracteriza a la estrategia gana-pierde (win-lose)?",
       "options": [
-        "Documento con aspectos cerrados y futuros a negociar.",
-        "Informe publicitario.",
-        "Plan contable.",
-        "Nómina."
+        "Una empresa busca alcanzar sus objetivos sin tener en cuenta a la otra parte, adoptando una actitud dominante",
+        "Se busca la satisfacción del consumidor final conjuntamente",
+        "Ambas empresas colaboran como socios estratégicos",
+        "Se establecen relaciones a largo plazo con pocos proveedores"
       ],
       "correctAnswer": 0,
-      "explanation": "Al cierre debe redactarse un documento que recoja los acuerdos alcanzados y aspectos pendientes."
+      "explanation": "En la estrategia win-lose, una de las empresas busca alcanzar sus objetivos sin tener en cuenta a la otra parte, adoptando una actitud dominante. Fundamento: Estrategia gana-pierde, pág. 8."
     },
     {
-      "question": "¿Qué tipo de cierre consiste en dejar probar el producto un tiempo?",
+      "question": "¿Qué ocurre con las relaciones comerciales en la estrategia gana-pierde?",
       "options": [
-        "Cierre a prueba.",
-        "Cierre derivado.",
-        "Cierre directo.",
-        "Cierre de oportunidad."
+        "Se consolidan relaciones duraderas basadas en la confianza",
+        "Se firman contratos de exclusividad de por vida",
+        "Ambas partes se benefician equitativamente",
+        "El comprador no suele establecer relaciones a largo plazo y cambia de proveedor frecuentemente buscando el precio más competitivo"
       ],
-      "correctAnswer": 0,
-      "explanation": "El cierre a prueba permite al cliente usar el producto antes de decidir su compra."
+      "correctAnswer": 3,
+      "explanation": "En la estrategia win-lose, el comprador no suele establecer relaciones a largo plazo y cada cierto tiempo cambia de proveedor buscando el precio más competitivo. Fundamento: Estrategia gana-pierde, pág. 8."
     },
     {
-      "question": "El cierre en el que el proveedor indica que hay otros clientes interesados se denomina…",
+      "question": "¿En qué consiste la estrategia Keiretsu?",
       "options": [
-        "Cierre de oportunidad.",
-        "Cierre directo.",
-        "Cierre a prueba.",
-        "Cierre derivado."
+        "En que varias empresas se unan con el objetivo de garantizar la gestión de la cadena de suministro, cada una desarrollando una función específica",
+        "En reducir el número de proveedores al mínimo posible",
+        "En absorber al proveedor para controlar toda la fabricación",
+        "En buscar el proveedor con el precio más bajo del mercado"
       ],
       "correctAnswer": 0,
-      "explanation": "Se trata de un cierre por aprovechamiento de la oportunidad, generando presión en el cliente."
+      "explanation": "La estrategia Keiretsu es cuando empresas se unen para garantizar la gestión de la cadena de suministro, cada una desarrollando una función (capitalista, proveedora, fabricante...). Fundamento: Estrategias de negociación, pág. 7."
     },
     {
-      "question": "¿Qué estrategia busca el beneficio de ambas partes?",
+      "question": "¿Qué es la estrategia de integración vertical?",
       "options": [
-        "Estrategia ganar-ganar.",
-        "Estrategia gana-pierde.",
-        "Estrategia de imposición.",
-        "Estrategia de exclusividad."
+        "La opción de absorber al proveedor o realizar desde cero el proceso de fabricación cuando la cantidad adquirida es muy elevada",
+        "Establecer acuerdos con múltiples proveedores pequeños",
+        "Externalizar toda la producción a otras empresas",
+        "Reducir la plantilla de empleados para ahorrar costes"
       ],
       "correctAnswer": 0,
-      "explanation": "La estrategia ganar-ganar busca el beneficio mutuo, generando confianza y relaciones duraderas."
-    },
-    {
-      "question": "Una característica de la estrategia ganar-ganar es…",
-      "options": [
-        "Establecer objetivos comunes y cooperación constante.",
-        "Imponer condiciones sin tener en cuenta al otro.",
-        "Cambiar de proveedores constantemente.",
-        "Generar desconfianza."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La estrategia win-win fomenta cooperación, objetivos comunes y confianza."
-    },
-    {
-      "question": "La estrategia gana-pierde se caracteriza por…",
-      "options": [
-        "Actitud dominante, centrada en obtener el precio más bajo.",
-        "Cooperación y confianza.",
-        "Plazos de pago flexibles.",
-        "Relación de largo plazo."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La estrategia win-lose implica dominación, desconfianza y búsqueda del precio más bajo."
-    },
-    {
-      "question": "Una consecuencia de la estrategia gana-pierde es…",
-      "options": [
-        "Continuas disputas y desconfianza entre partes.",
-        "Relación duradera y estable.",
-        "Establecimiento de objetivos comunes.",
-        "Confianza y cooperación."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La estrategia win-lose genera desconfianza y disputas continuas."
+      "explanation": "Consiste en absorber al proveedor si la cantidad de producto adquirida es muy elevada, o realizar desde cero el proceso de fabricación. Fundamento: Estrategias de negociación, pág. 7."
     },
     {
       "question": "¿Qué es el comakership?",
       "options": [
-        "Relación de colaboración estrecha entre proveedor y cliente trabajando como socios.",
-        "Estrategia publicitaria.",
-        "Contrato laboral.",
-        "Documento contable."
+        "Un sistema de control de calidad exclusivo para grandes empresas",
+        "Un método de evaluación de proveedores basado solo en el precio",
+        "Una relación entre proveedor y cliente donde ambas empresas trabajan como socios y colaboran en la mayoría de actividades del proyecto común",
+        "Una estrategia de marketing digital para atraer clientes"
       ],
-      "correctAnswer": 0,
-      "explanation": "El comakership consiste en trabajar proveedor y cliente como socios en proyectos comunes."
+      "correctAnswer": 2,
+      "explanation": "El comakership es una relación donde ambas empresas trabajan como socios y colaboran en la mayoría de actividades que surgen del proyecto común, llegando a participar ambas en la producción. Fundamento: Relación proveedor-cliente. Comakership, pág. 10."
     },
     {
-      "question": "El comakership surge de…",
+      "question": "¿De qué sistemas surge el comakership?",
       "options": [
-        "Sistemas de Calidad Total y Just in Time.",
-        "Estrategias publicitarias.",
-        "Auditoría externa.",
-        "Estrategia gana-pierde."
+        "De los sistemas de Calidad Total y Just in Time",
+        "De los sistemas de contabilidad financiera",
+        "De los sistemas de marketing digital y publicidad online",
+        "De los sistemas de gestión de recursos humanos"
       ],
       "correctAnswer": 0,
-      "explanation": "El comakership tiene su origen en la Calidad Total y Just in Time."
+      "explanation": "El sistema de trabajo comakership surge de los sistemas de Calidad Total y Just in Time, centrados en el progreso empresarial y evitar la pérdida de materiales. Fundamento: Relación proveedor-cliente. Comakership, pág. 10."
     },
     {
-      "question": "Una característica del comakership es…",
+      "question": "¿Cuál es un pilar básico del comakership?",
       "options": [
-        "Mantener relaciones a largo plazo con pocos proveedores.",
-        "Cambiar de proveedor con frecuencia.",
-        "Basarse en desconfianza.",
-        "No colaborar en producción."
+        "Mantener las relaciones comerciales a lo largo del tiempo y colaborar con un número reducido de proveedores",
+        "Valorar solo el precio como criterio de selección",
+        "Cambiar de proveedor constantemente para obtener mejores precios",
+        "Maximizar el número de proveedores para aumentar la competencia"
       ],
       "correctAnswer": 0,
-      "explanation": "El comakership implica relaciones estables, cooperación y confianza con un número reducido de proveedores."
+      "explanation": "Los pilares del comakership incluyen mantener las relaciones a largo plazo, cooperación fiable y eficiente, y colaborar con un número reducido de proveedores. Fundamento: Relación proveedor-cliente. Comakership, pág. 10."
     },
     {
-      "question": "El análisis DAFO identifica…",
+      "question": "¿Cuál es la diferencia principal entre la negociación clásica y la comakership?",
       "options": [
-        "Fortalezas, debilidades, oportunidades y amenazas.",
-        "Descuentos, aportes, finanzas y obligaciones.",
-        "Datos, archivos, facturas y órdenes.",
-        "Directivos, administrativos, financieros y operativos."
+        "La comakership solo funciona con grandes multinacionales",
+        "No hay diferencias significativas entre ambas",
+        "La clásica se centra en la calidad y la comakership en el precio",
+        "La clásica se orienta a gana-pierde y ve al proveedor como adversario, mientras que la comakership persigue gana-gana y ve al proveedor como socio"
       ],
-      "correctAnswer": 0,
-      "explanation": "El DAFO analiza factores internos (fortalezas y debilidades) y externos (oportunidades y amenazas)."
+      "correctAnswer": 3,
+      "explanation": "La negociación clásica está orientada a gana-pierde y ve al contrario como adversario, mientras que el comakership persigue gana-gana y ve al proveedor como socio. Fundamento: Tabla diferencias, pág. 10."
     },
     {
-      "question": "Una debilidad en el caso Tazs S.L. era…",
+      "question": "¿Qué competencia debe tener una persona dedicada a la negociación según el texto?",
       "options": [
-        "No tener capacidad de producción suficiente.",
-        "Fuerte posicionamiento en el mercado.",
-        "Oportunidad de estudiar el mercado.",
-        "Competencia fuerte."
+        "Ser inflexible y no ceder en ningún aspecto",
+        "Saber persuadir al contrario, confiar en sí mismo y tener paciencia ante negociaciones extensas",
+        "Evitar escuchar las propuestas de la otra parte",
+        "Actuar impulsivamente para cerrar acuerdos rápidamente"
       ],
-      "correctAnswer": 0,
-      "explanation": "La empresa Tazs presentaba como debilidad la falta de capacidad productiva suficiente."
+      "correctAnswer": 1,
+      "explanation": "Las competencias incluyen saber persuadir, confiar en sí mismo, ser flexible, tener paciencia, saber escuchar y desarrollar gran capacidad de comunicación. Fundamento: Estrategias y tácticas, pág. 9."
     },
     {
-      "question": "Una oportunidad para Tazs S.L. era…",
+      "question": "¿Qué es la exclusividad como elemento de negociación?",
       "options": [
-        "Conocer mejor el mercado para detectar tendencias.",
-        "No contar con capacidad de producción.",
-        "La competencia fuerte.",
-        "Falta de liquidez."
+        "Es una cláusula que obliga al proveedor a vender solo a un cliente",
+        "Es un aspecto que puede negociarse debido a la escasa oferta de proveedores o a la cantidad de pedido solicitada",
+        "Es un requisito legal para todas las empresas",
+        "Es el derecho del comprador a devolver cualquier producto sin motivo"
       ],
-      "correctAnswer": 0,
-      "explanation": "Estudiar el mercado para detectar oportunidades era una opción estratégica de Tazs."
+      "correctAnswer": 1,
+      "explanation": "La exclusividad es un aspecto que resulta muy interesante para las empresas y puede ser objeto de negociación, debido a la escasa oferta de proveedores o a la cantidad de pedido solicitada. Fundamento: Elementos de la negociación, pág. 5."
     },
     {
-      "question": "Una amenaza identificada en Tazs S.L. era…",
+      "question": "¿Qué ocurre cuando existe un gran número de proveedores en el mercado?",
       "options": [
-        "Fuerte competencia en el sector.",
-        "Gran posicionamiento en el mercado.",
-        "Posibilidad de crecimiento productivo.",
-        "Oportunidad de estudiar mercado."
+        "Se establecen relaciones más duraderas y de fidelidad",
+        "Los precios se mantienen estables e inalterables",
+        "Surge una gran competitividad que puede dar lugar a falta de sinceridad o competencia desleal",
+        "Los compradores pierden capacidad de negociación"
       ],
-      "correctAnswer": 0,
-      "explanation": "La principal amenaza era la fuerte competencia de otras empresas con productos similares."
+      "correctAnswer": 2,
+      "explanation": "Cuando existe un gran número de proveedores surge una gran competitividad entre ellos, lo que puede dar lugar a la falta de sinceridad o competencia desleal. Fundamento: Estrategias de negociación, pág. 7."
     },
     {
-      "question": "En una negociación, ¿qué aspecto suele generar presión al cliente?",
+      "question": "¿Qué descuento pueden obtener las empresas por pagar al contado?",
       "options": [
-        "Indicación de que hay otros interesados en el producto.",
-        "Mayor flexibilidad en condiciones.",
-        "Establecimiento de objetivos comunes.",
-        "Cooperación a largo plazo."
+        "Un descuento por pronto pago",
+        "Descuento por volumen de compra",
+        "Descuento por exclusividad comercial",
+        "Descuento por fidelidad anual"
       ],
       "correctAnswer": 0,
-      "explanation": "El cierre de oportunidad genera presión al cliente al saber que otros desean el mismo producto."
+      "explanation": "Las empresas suelen escuchar la propuesta del proveedor, ya que pueden beneficiarse de un descuento por pronto pago. Fundamento: Elementos de la negociación, pág. 5."
     },
     {
-      "question": "¿Qué estrategia permite integrar al proveedor dentro de la empresa?",
+      "question": "¿Qué debe redactarse antes de que finalice la reunión de negociación?",
       "options": [
-        "Estrategia de integración vertical.",
-        "Estrategia gana-pierde.",
-        "Estrategia de publicidad.",
-        "Estrategia de cambio constante."
+        "Una lista de todos los empleados implicados en la relación",
+        "Un informe financiero completo de ambas empresas",
+        "Un comunicado de prensa para los medios de comunicación",
+        "Un documento en el que se recojan los aspectos cerrados y aquellos que serán negociados en un futuro"
       ],
-      "correctAnswer": 0,
-      "explanation": "La integración vertical supone absorber o integrar al proveedor dentro de la empresa compradora."
+      "correctAnswer": 3,
+      "explanation": "Antes de que finalice la reunión es necesario redactar un documento en el que se recojan los aspectos cerrados y aquellos que serán negociados en un futuro. Fundamento: Acuerdo y cierre, pág. 6."
     },
     {
-      "question": "La estrategia Keiretsu consiste en…",
+      "question": "¿Cómo deben actuar ambas partes respecto a sus intenciones en la negociación?",
       "options": [
-        "Unión de empresas para garantizar gestión de la cadena de suministro.",
-        "Estrategia gana-pierde.",
-        "Estrategia publicitaria.",
-        "Estrategia de reducción de personal."
+        "Deben tener claras sus intenciones y ser convincentes al exponerlas",
+        "Solo debe exponerlas la parte más fuerte",
+        "Deben mantenerlas en secreto hasta el último momento",
+        "No deben revelar sus verdaderos objetivos nunca"
       ],
       "correctAnswer": 0,
-      "explanation": "Keiretsu es la unión de empresas con funciones diferenciadas para asegurar la cadena de suministro."
+      "explanation": "Es importante que cuando llegue el momento de la negociación, ambas empresas tengan claras sus intenciones y sean convincentes al exponerlas. Fundamento: Etapas del proceso de negociación, pág. 5."
     },
     {
-      "question": "En la negociación, ¿qué significa ser empático?",
+      "question": "¿Qué problema enfrentan las pymes en zonas con poca variedad de proveedores?",
       "options": [
-        "Comprender y valorar las condiciones de la otra parte.",
-        "Imponer siempre los propios intereses.",
-        "Evitar escuchar propuestas.",
-        "No colaborar."
+        "Tienen exceso de oferta y suelen negociar con ventaja",
+        "Pueden elegir libremente entre muchos proveedores",
+        "No necesitan negociar porque los precios están regulados",
+        "Las negociaciones presentan mayor rigidez y suelen perder ante las negociaciones"
       ],
-      "correctAnswer": 0,
-      "explanation": "La empatía favorece el diálogo y el éxito en la negociación."
+      "correctAnswer": 3,
+      "explanation": "Las pymes en zonas con poca variedad de proveedores enfrentan negociaciones con mayor rigidez y suelen perder ante ellas, lo que supone una barrera en su proyecto comercial. Fundamento: Resolución caso práctico, pág. 11."
     },
     {
-      "question": "¿Qué se recomienda al inicio de la reunión de negociación?",
+      "question": "¿Quién asume normalmente los gastos de instalación y montaje?",
       "options": [
-        "No comenzar con los aspectos más difíciles.",
-        "Exigir inmediatamente las condiciones más duras.",
-        "Reducir el tiempo de diálogo.",
-        "Evitar crear confianza."
+        "El proveedor como parte de su servicio",
+        "Normalmente es un coste que asume el comprador",
+        "La empresa de transporte contratada",
+        "La administración pública local"
       ],
-      "correctAnswer": 0,
-      "explanation": "Es preferible empezar con aspectos sencillos para crear confianza antes de negociar puntos complejos."
+      "correctAnswer": 1,
+      "explanation": "Normalmente los gastos de instalación y montaje son un coste que asume el comprador. Fundamento: Elementos de la negociación, pág. 5."
+    },
+    {
+      "question": "¿En qué consiste la asignación de roles en un equipo de negociación?",
+      "options": [
+        "En que cada miembro realice la misma tarea para evitar confusiones",
+        "En disfrazarse para que el proveedor no reconozca a los negociadores",
+        "En que cada persona que forma el equipo negociador tenga claros sus objetivos y el papel que desempeñará en la reunión",
+        "En cambiar de representante cada 10 minutos para cansar al oponente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Resulta productivo que cada persona que forma el equipo negociador tenga claros sus objetivos y el papel que desempeñará en la reunión (asignar roles). Fundamento: Estrategias y tácticas, pág. 9."
     }
   ]
 }
