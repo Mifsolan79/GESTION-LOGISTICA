@@ -2,78 +2,122 @@
   "title": "GESTIÓN LOGÍSTICA Y COMERCIAL - TEMA 13: LA LOGÍSTICA INVERSA",
   "items": [
     {
-      "question": "¿Cómo se define la logística inversa?",
+      "question": "Según el texto, ¿qué busca la logística inversa respecto a los productos que ya no presentan utilidad?",
       "options": [
-        "El proceso de enviar productos nuevos al cliente final",
-        "El proceso de planificar, implementar y controlar de forma eficiente y rentable el flujo de materiales desde el punto de consumo hasta su punto de origen para recuperar valor o llevar a cabo su adecuada eliminación",
-        "La gestión de almacenes y stocks de la empresa",
-        "El transporte de mercancías entre distintas sedes de la empresa"
+        "Reciclar en lugar de eliminar los productos",
+        "Exportar los residuos a otros países",
+        "Almacenarlos indefinidamente en los almacenes de la empresa",
+        "Venderlos a bajo precio sin ningún tipo de tratamiento"
       ],
-      "correctAnswer": 1,
-      "explanation": "La logística inversa es el proceso de planificar, implementar y controlar, de forma eficiente y rentable, el flujo de materias primas, productos acabados o semielaborados desde el punto de consumo hasta su punto de origen. Fundamento: Concepto de logística inversa, pág. 4."
+      "correctAnswer": 0,
+      "explanation": "La logística inversa consiste en tratar de reciclar y no de eliminar los productos cuando ya no presentan utilidad. Fundamento: Concepto de logística inversa, pág. 4."
     },
     {
-      "question": "¿Cuál de las siguientes NO es una actividad propia de la logística inversa?",
+      "question": "¿Cómo se define la logística inversa según el texto?",
       "options": [
-        "Reciclar productos que ya no presentan utilidad",
-        "Reutilizar envases y embalajes",
-        "Diseñar campañas de marketing para nuevos productos",
-        "Reparar productos deteriorados para reintroducirlos en el mercado"
+        "El proceso de distribución de productos nuevos hacia los puntos de venta",
+        "El proceso de planificar, implementar y controlar de forma eficiente y rentable el flujo de materiales desde el punto de consumo hasta su punto de origen para recuperar valor o llevar a cabo su adecuada eliminación",
+        "La técnica de gestión de stocks y control de inventarios",
+        "El sistema de control de calidad de productos en fase de fabricación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La logística inversa se define como el proceso de planificar, implementar y controlar, de forma eficiente y rentable, el flujo de materias primas, productos acabados o semielaborados desde el punto de consumo hasta su punto de origen. Fundamento: Concepto de logística inversa, pág. 4."
+    },
+    {
+      "question": "¿Cuál de las siguientes actividades forma parte de la logística inversa?",
+      "options": [
+        "Diseño de campañas publicitarias para nuevos productos",
+        "Contratación de personal para el departamento comercial",
+        "Reutilización de envases y embalajes, dándoles un nuevo uso o sometiéndolos a un proceso de reciclaje",
+        "Ampliación de la red de tiendas físicas de la empresa"
       ],
       "correctAnswer": 2,
-      "explanation": "La logística inversa se centra en reciclar, reutilizar, reparar y recoger productos, no en campañas de marketing. Fundamento: Concepto de logística inversa, pág. 4."
+      "explanation": "La logística inversa incluye llevar a cabo la reutilización de envases y embalajes, dándoles un nuevo uso o sometiéndolos a un proceso de reciclaje. Fundamento: Concepto de logística inversa, pág. 4."
+    },
+    {
+      "question": "¿Qué acción contempla la logística inversa con los productos que han sufrido daños o deterioro?",
+      "options": [
+        "Desecharlos directamente sin posibilidad de recuperación",
+        "Devolverlos al proveedor original de materia prima",
+        "Almacenarlos como inventario no disponible para la venta",
+        "Repararlos para volver a introducirlos en el mercado y no desecharlos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La logística inversa contempla reparar los posibles daños y deterioro de los productos para volver a introducirlos en el mercado y no desecharlos. Fundamento: Concepto de logística inversa, pág. 4."
+    },
+    {
+      "question": "¿Qué hace la logística inversa con los productos descartados por obsolescencia o deterioro en los puntos de venta?",
+      "options": [
+        "Recogerlos para darles un nuevo tratamiento o destino",
+        "Dejarlos en el punto de venta hasta que caduquen completamente",
+        "Transferirlos directamente a empresas de la competencia",
+        "Destruirlos sin ningún tipo de clasificación previa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La logística inversa contempla recoger los productos que hayan sido descartados por algún punto de venta debido a la obsolescencia, deterioro o no ser vendidos. Fundamento: Concepto de logística inversa, pág. 4."
     },
     {
       "question": "¿Qué circunstancias han provocado una mayor relevancia de la logística inversa en los últimos años?",
       "options": [
-        "La reducción del comercio electrónico y la eliminación de normativas medioambientales",
-        "La facilidad en devoluciones, el auge del e-commerce, las normas medioambientales y la reducción de costes",
-        "El incremento de los precios de materias primas exclusivamente",
-        "La desaparición del comercio minorista tradicional"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La relevancia de la logística inversa ha aumentado por la facilidad de devoluciones, el comercio electrónico, las normas medioambientales y el intento de reducir costes. Fundamento: Concepto de logística inversa, pág. 4."
-    },
-    {
-      "question": "¿Cuál es uno de los objetivos principales de la logística inversa para las empresas?",
-      "options": [
-        "Aumentar el volumen de residuos generados",
-        "Reducir la fidelización de los clientes",
-        "Aplicar el concepto de economía circular en los productos retornados",
-        "Incrementar los costes logísticos"
+        "La reducción del comercio electrónico y la desaparición de las normativas medioambientales",
+        "La disminución de las devoluciones y el encarecimiento de las materias primas",
+        "La facilidad en devoluciones, el uso del e-commerce, las normas medioambientales y el intento por reducir costes",
+        "La automatización total de los procesos de fabricación"
       ],
       "correctAnswer": 2,
+      "explanation": "La mayor relevancia se debe a la facilidad de devoluciones, el uso del comercio electrónico, las normas medioambientales de reutilización y reciclaje, y el intento por reducir costes. Fundamento: Concepto de logística inversa, pág. 4."
+    },
+    {
+      "question": "¿Cuál es uno de los objetivos principales de las empresas respecto a la logística inversa?",
+      "options": [
+        "Incrementar la producción de residuos industriales",
+        "Aplicar el concepto de economía circular en los productos retornados",
+        "Reducir la plantilla del departamento logístico",
+        "Eliminar completamente el servicio posventa"
+      ],
+      "correctAnswer": 1,
       "explanation": "Uno de los objetivos principales es aplicar el concepto de economía circular en los productos retornados. Fundamento: Objetivos y características de la logística inversa, pág. 5."
     },
     {
-      "question": "¿Cómo puede la logística inversa mejorar la imagen corporativa de la empresa?",
+      "question": "¿Cómo puede la logística inversa contribuir a mejorar la imagen corporativa de la empresa?",
       "options": [
-        "Aumentando los precios de los productos",
-        "Apostando por la responsabilidad hacia el entorno y el tratamiento de residuos",
-        "Reduciendo la plantilla de empleados",
-        "Eliminando el servicio posventa"
+        "Reduciendo los salarios del personal de producción",
+        "Eliminando las políticas de devolución para los clientes",
+        "Aumentando los precios de venta de los productos",
+        "Apostando por la responsabilidad hacia el entorno y el tratamiento de residuos"
       ],
-      "correctAnswer": 1,
-      "explanation": "La empresa puede mejorar su imagen corporativa apostando por la responsabilidad hacia el entorno y el tratamiento de residuos. Fundamento: Objetivos y características de la logística inversa, pág. 5."
+      "correctAnswer": 3,
+      "explanation": "La logística inversa mejora la imagen corporativa apostando por la responsabilidad de la empresa hacia el entorno y el tratamiento de residuos. Fundamento: Objetivos y características de la logística inversa, pág. 5."
     },
     {
-      "question": "¿Cuál de los siguientes es un inconveniente de la logística inversa?",
+      "question": "¿Qué buscan las empresas al ofrecer un buen servicio de devoluciones y gestión de residuos?",
       "options": [
-        "Reducir los costes de la empresa",
-        "Mejorar la satisfacción del cliente",
-        "Necesitar una gestión distinta a la logística directa y disponer de los recursos para ello",
-        "Aumentar la fidelización del cliente"
+        "Aumentar la fidelización de los clientes mediante un servicio rápido y eficiente",
+        "Reducir el número de productos disponibles en el mercado",
+        "Incrementar deliberadamente los costes logísticos",
+        "Prescindir por completo de la gestión de residuos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las empresas buscan aumentar la fidelización de los clientes mediante la oferta de un servicio de devoluciones y gestión de residuos rápido y eficiente. Fundamento: Objetivos y características de la logística inversa, pág. 5."
+    },
+    {
+      "question": "¿Cuál es una de las dificultades que presenta la logística inversa para las empresas?",
+      "options": [
+        "Genera beneficios inmediatos sin necesidad de inversión",
+        "No requiere personal con formación específica",
+        "Requiere aplicar una gestión distinta a la de la logística directa y disponer de los recursos para ello",
+        "Simplifica notablemente la gestión global de la organización"
       ],
       "correctAnswer": 2,
-      "explanation": "Uno de los inconvenientes es que requiere aplicar una gestión distinta a la logística directa y disponer de los recursos necesarios. Fundamento: Objetivos y características de la logística inversa, pág. 5."
+      "explanation": "Una dificultad es que las empresas deben aplicar una gestión distinta a la de la logística directa y disponer de los recursos necesarios para ello. Fundamento: Objetivos y características de la logística inversa, pág. 5."
     },
     {
-      "question": "¿Qué ocurre cuando una empresa externaliza funciones de logística inversa?",
+      "question": "¿Qué consecuencia tiene para una empresa externalizar funciones de logística inversa?",
       "options": [
-        "Aumenta el control total sobre la gestión",
+        "Se duplica el control sobre la gestión interna",
         "Se pierde parte del control en la gestión de la organización",
-        "Se eliminan los costes de transporte",
-        "Se incrementa automáticamente la plantilla"
+        "Se eliminan automáticamente todos los costes de transporte",
+        "Se incrementa la plantilla de personal de forma obligatoria"
       ],
       "correctAnswer": 1,
       "explanation": "Externalizar funciones de logística inversa provoca perder parte del control en la gestión de la organización. Fundamento: Objetivos y características de la logística inversa, pág. 5."
@@ -81,255 +125,211 @@
     {
       "question": "¿Cuál es una de las funciones del perfil profesional especializado en logística inversa?",
       "options": [
-        "Diseñar las campañas publicitarias de la empresa",
-        "Definir el procedimiento de devolución que debe cumplir el consumidor final",
-        "Gestionar las nóminas del personal",
-        "Negociar con inversores financieros"
+        "Gestionar las nóminas y contratos del personal",
+        "Diseñar campañas de publicidad en medios digitales",
+        "Negociar con inversores financieros y accionistas",
+        "Diseñar un sistema en el que los materiales reciclados puedan incorporarse a un nuevo proceso productivo"
       ],
-      "correctAnswer": 1,
-      "explanation": "Una de las funciones es definir el procedimiento de devolución que debe cumplir el consumidor final. Fundamento: Objetivos y características de la logística inversa, pág. 5."
+      "correctAnswer": 3,
+      "explanation": "Una función de este perfil es diseñar un sistema en el que los materiales reciclados puedan incorporarse a un nuevo proceso productivo. Fundamento: Objetivos y características de la logística inversa, pág. 5."
+    },
+    {
+      "question": "¿Qué empresa se menciona en el texto como caso de éxito en logística inversa?",
+      "options": [
+        "Inditex, que traslada productos no vendidos de una zona geográfica a otra donde puedan venderse",
+        "Amazon, por su sistema de distribución automatizada",
+        "El Corte Inglés, por su servicio de atención al cliente",
+        "Mercadona, por su modelo de proveedor-interproveedores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se menciona a Inditex como caso de éxito, ya que dispone de una cantidad reducida de stock y traslada productos a ubicaciones donde puedan ser vendidos al finalizar la temporada. Fundamento: Objetivos y características de la logística inversa, pág. 5."
     },
     {
       "question": "¿Cómo se clasifican normalmente los residuos en la logística de residuos?",
       "options": [
-        "Residuos orgánicos y residuos inorgánicos",
-        "Residuos inertes y residuos peligrosos",
+        "Residuos orgánicos y residuos tecnológicos",
         "Residuos sólidos y residuos gaseosos",
-        "Residuos reciclables y residuos no reciclables"
+        "Residuos inertes y residuos peligrosos",
+        "Residuos domésticos y residuos hospitalarios"
       ],
-      "correctAnswer": 1,
-      "explanation": "Los productos suelen clasificarse en residuos inertes (se les puede dar una segunda vida útil) y residuos peligrosos. Fundamento: Tratamiento de residuos, pág. 6."
+      "correctAnswer": 2,
+      "explanation": "Los productos suelen clasificarse en residuos inertes y residuos peligrosos. Fundamento: Tratamiento de residuos, pág. 6."
     },
     {
       "question": "¿Qué caracteriza a los residuos inertes?",
       "options": [
         "Son extremadamente peligrosos para el medio ambiente",
         "Se les suele dar una segunda vida útil, ya que no son perjudiciales para el medio ambiente",
-        "Deben ser eliminados inmediatamente sin posibilidad de reutilización",
-        "Requieren un proceso obligatorio de solidificación"
+        "Deben ser incinerados de forma obligatoria",
+        "Solo pueden depositarse en vertederos especializados de alta seguridad"
       ],
       "correctAnswer": 1,
       "explanation": "Los residuos inertes se les suele dar una segunda vida útil, ya que no son elementos perjudiciales para el medio ambiente. Fundamento: Tratamiento de residuos, pág. 6."
     },
     {
-      "question": "¿Qué proceso se aplica a los residuos peligrosos líquidos?",
+      "question": "¿Qué proceso se aplica a los residuos peligrosos de tipo líquido?",
       "options": [
-        "Un proceso de evaporación",
-        "Un proceso de solidificación",
-        "Un proceso de incineración directa",
-        "Un proceso de disolución en agua"
+        "Un proceso de evaporación a temperatura controlada",
+        "Un proceso de dilución progresiva en agua limpia",
+        "Un proceso de incineración a alta temperatura",
+        "Un proceso de solidificación"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "En el caso de residuos peligrosos líquidos, se someten a un proceso de solidificación. Fundamento: Tratamiento de residuos, pág. 6."
     },
     {
-      "question": "¿Qué significan las siglas SDDR en el contexto de la logística inversa?",
+      "question": "¿Qué significan las siglas SDDR en el contexto de la gestión de residuos?",
       "options": [
-        "Sistema de Distribución Directa Regional",
         "Sistema de Depósito, Devolución y Retorno",
-        "Servicio de Despacho, Distribución y Recogida",
-        "Sistema de Diseño, Desarrollo y Reciclaje"
+        "Servicio de Distribución y Devolución Regulada",
+        "Sistema Directo de Desecho y Reciclaje",
+        "Servicio de Despacho, Distribución y Recogida"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "SDDR significa Sistema de Depósito, Devolución y Retorno. Fundamento: Tratamiento de residuos, pág. 6."
     },
     {
-      "question": "¿Qué deben hacer las empresas que utilizan un SDDR respecto a los envases?",
+      "question": "¿Qué son los Sistemas Integrados de Gestión (SIG)?",
       "options": [
-        "Regalar los envases a los consumidores",
-        "Incluir en el precio de sus productos el coste de los envases; una vez devueltos, el consumidor recuperará la parte económica correspondiente",
-        "Destruir todos los envases después de su primer uso",
-        "Exportar los envases a otros países para su eliminación"
+        "Empresas con ánimo de lucro dedicadas a la fabricación de envases",
+        "Organismos públicos de recaudación de impuestos medioambientales",
+        "Entidades sin ánimo de lucro encargadas de gestionar el tratamiento de residuos, envases y embalajes, con autorización de la Administración Pública",
+        "Departamentos internos de las empresas de producción industrial"
       ],
-      "correctAnswer": 1,
-      "explanation": "Las empresas deben incluir en el precio de sus productos el coste de los envases. Una vez devueltos, el consumidor recupera la parte económica correspondiente. Fundamento: Tratamiento de residuos, pág. 6."
+      "correctAnswer": 2,
+      "explanation": "Los SIG son entidades sin ánimo de lucro encargadas de gestionar el tratamiento de residuos, envases y embalajes, con el consentimiento y la autorización de la Administración Pública. Fundamento: Tratamiento de residuos, pág. 6."
     },
     {
-      "question": "¿Qué son los SIG (Sistemas Integrados de Gestión) en el contexto de residuos?",
+      "question": "¿Qué deben hacer las empresas adheridas a un SIG con sus envases?",
       "options": [
-        "Empresas con ánimo de lucro dedicadas a la venta de envases",
-        "Entidades sin ánimo de lucro encargadas de gestionar el tratamiento de residuos, envases y embalajes con autorización de la Administración Pública",
-        "Sistemas informáticos para gestionar el inventario",
-        "Organismos públicos de control fiscal"
+        "Destruir todos los envases usados sin clasificación alguna",
+        "Identificar los envases como punto verde e informar a la Administración Pública sobre sus características y tipos",
+        "Fabricar obligatoriamente sus propios envases reciclables",
+        "Exportar los residuos a vertederos autorizados fuera del país"
       ],
       "correctAnswer": 1,
-      "explanation": "Los SIG son entidades sin ánimo de lucro encargadas de gestionar el tratamiento de residuos, envases y embalajes, con autorización de la Administración Pública. Fundamento: Tratamiento de residuos, pág. 6."
+      "explanation": "Las empresas adheridas a un SIG deben identificar los envases como punto verde, informar a la Administración Pública sobre sus características y tipos de envases, y abonar el coste correspondiente. Fundamento: Tratamiento de residuos, pág. 6."
     },
     {
-      "question": "¿Qué deben hacer las empresas adheridas a un SIG con respecto a sus envases?",
-      "options": [
-        "Destruir todos los envases usados",
-        "Identificar los envases que utilizan como punto verde e informar a la Administración Pública sobre sus características",
-        "No declarar la cantidad de envases utilizados",
-        "Almacenar todos los envases indefinidamente"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Las empresas deben identificar los envases como punto verde, informar a la Administración Pública sobre sus características y tipos, y abonar el coste correspondiente. Fundamento: Tratamiento de residuos, pág. 6."
-    },
-    {
-      "question": "Según la Ley General de Consumidores y Usuarios, ¿de cuántos días naturales dispone el consumidor para devolver un producto adquirido a distancia?",
+      "question": "Según la normativa para productos adquiridos a distancia, ¿de cuántos días naturales dispone el consumidor para ejercer el derecho de desistimiento?",
       "options": [
         "7 días naturales",
-        "14 días naturales",
+        "21 días naturales",
         "30 días naturales",
-        "60 días naturales"
+        "14 días naturales"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "El consumidor cuenta con un periodo de 14 días naturales para devolver (desistimiento) el producto adquirido a distancia. Fundamento: Tratamiento de devoluciones, pág. 8."
     },
     {
-      "question": "¿Cuál es el tamaño mínimo de la letra en la factura simplificada según la normativa de devoluciones?",
+      "question": "¿Cuál es el tamaño mínimo de la letra en la factura simplificada respecto a las condiciones de devolución?",
       "options": [
-        "1 milímetro",
-        "1,5 milímetros",
-        "2 milímetros",
-        "3 milímetros"
+        "1,5 milímetros y de fácil lectura",
+        "2 milímetros y en formato impreso",
+        "1 milímetro y en color negro",
+        "3 milímetros y en negrita"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "En la factura simplificada, el tamaño de la letra no debe ser inferior a 1,5 milímetros y debe ser de fácil lectura. Fundamento: Tratamiento de devoluciones, pág. 8."
     },
     {
-      "question": "Si la empresa vendedora no indica el plazo de desistimiento, ¿cuál es el plazo que se otorga al consumidor?",
+      "question": "Si la empresa vendedora no indica el plazo de desistimiento al consumidor, ¿cuánto tiempo se le otorga?",
       "options": [
-        "6 meses",
-        "1 año",
-        "12 meses",
-        "2 años"
+        "6 meses desde la compra",
+        "2 años desde la entrega",
+        "12 meses desde la adquisición",
+        "14 días desde la recepción del producto"
       ],
       "correctAnswer": 2,
       "explanation": "Si la empresa vendedora no indica el plazo de desistimiento, se da un plazo de 12 meses al consumidor. Fundamento: Tratamiento de devoluciones, pág. 8."
     },
     {
-      "question": "Según la Ley de Garantías, si un producto no puede ser reparado ni devuelto, ¿qué puede solicitar el cliente?",
+      "question": "Cuando el producto entregado no es acorde con lo solicitado, ¿qué opciones tiene el cliente?",
       "options": [
-        "Un producto completamente distinto",
-        "Un descuento del precio a la empresa vendedora",
-        "Una indemnización por daños morales",
-        "La clausura de la empresa vendedora"
+        "Solo puede solicitar la devolución íntegra del dinero",
+        "Puede decidir entre la reparación o sustitución del producto, con costes asumidos por la empresa vendedora",
+        "Debe quedarse obligatoriamente con el producto recibido",
+        "Solo puede solicitar un vale de descuento para futuras compras"
       ],
       "correctAnswer": 1,
-      "explanation": "Si el producto no puede ser reparado ni devuelto, el cliente podrá solicitar un descuento del precio a la empresa vendedora. Fundamento: Tratamiento de devoluciones, pág. 8."
+      "explanation": "Si el producto no es acorde con lo solicitado, el cliente podrá decidir entre la reparación o sustitución del mismo, siendo los costes asumidos por la empresa vendedora. Fundamento: Tratamiento de devoluciones, pág. 8."
     },
     {
-      "question": "¿Cuál es el periodo de desistimiento para productos de segunda mano según la Ley de Garantías?",
+      "question": "¿Cuál es el periodo de garantía para productos de segunda mano según la normativa?",
       "options": [
-        "6 meses",
-        "1 año",
-        "2 años",
-        "14 días"
+        "6 meses desde la fecha de compra",
+        "14 días naturales desde la entrega",
+        "2 años desde la adquisición",
+        "1 año desde la compra"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": "Los productos de segunda mano cuentan con un periodo de desistimiento de un año, frente a los dos años de los productos nuevos. Fundamento: Tratamiento de devoluciones, pág. 8."
     },
     {
-      "question": "¿En qué plazo no es necesario que el cliente demuestre que no ha ocasionado un defecto en el producto?",
+      "question": "Si un defecto en el producto aparece antes de los seis meses desde la compra, ¿qué sucede con la carga de la prueba?",
       "options": [
-        "Antes de 3 meses",
-        "Antes de 6 meses",
-        "Antes de 1 año",
-        "Antes de 2 años"
+        "No es necesario que el cliente demuestre que no ha ocasionado el defecto",
+        "El cliente debe demostrar obligatoriamente que el defecto es de fábrica",
+        "La garantía queda automáticamente suspendida hasta una peritación",
+        "La empresa puede rechazar la reclamación sin necesidad de argumentación"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "Si el defecto se presenta antes de un plazo de seis meses, no será necesario que el cliente demuestre que no ha ocasionado el defecto. Fundamento: Tratamiento de devoluciones, pág. 8."
     },
     {
-      "question": "¿Cuál es el orden correcto de las etapas en la logística inversa?",
+      "question": "Si un producto no puede ser reparado ni devuelto, ¿qué alternativa tiene el cliente?",
       "options": [
-        "Análisis → Transporte → Entrega → Determinación",
-        "Necesidad de retorno → Entrega/Recogida → Transporte al origen → Análisis → Determinación",
-        "Determinación → Transporte → Análisis → Necesidad de retorno",
-        "Recogida → Determinación → Análisis → Transporte"
+        "Exigir una indemnización adicional por daños y perjuicios",
+        "Solicitar el cierre temporal del establecimiento vendedor",
+        "Solicitar un descuento del precio a la empresa vendedora",
+        "Reclamar la sustitución obligatoria por un producto de gama superior"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Si el producto no puede ser reparado ni devuelto, el cliente podrá solicitar un descuento del precio a la empresa vendedora. Fundamento: Tratamiento de devoluciones, pág. 8."
+    },
+    {
+      "question": "¿Cuál es el orden correcto de las etapas en el recorrido de un producto en la logística inversa?",
+      "options": [
+        "Análisis del producto → Transporte → Entrega → Determinación final",
+        "Necesidad de retorno → Entrega/Recogida del producto → Transporte a su lugar de origen → Análisis del producto → Determinación",
+        "Determinación → Transporte al origen → Análisis → Recogida del producto",
+        "Recogida del producto → Determinación → Transporte → Análisis final"
       ],
       "correctAnswer": 1,
       "explanation": "El recorrido sigue: Necesidad de retorno → Entrega/Recogida del producto → Transporte a su lugar de origen → Análisis del producto → Determinación. Fundamento: Etapas en la logística inversa, pág. 8-9."
     },
     {
-      "question": "En la etapa de 'Determinación' de la logística inversa, ¿qué filosofía se aplica?",
+      "question": "En la etapa de 'Determinación' de la logística inversa, ¿qué filosofía se intenta aplicar al producto?",
       "options": [
-        "La filosofía de producción en masa",
-        "La filosofía de economía circular (reciclar, renovar, reutilizar, reducir)",
-        "La filosofía de eliminación directa",
-        "La filosofía de exportación de residuos"
+        "Filosofía de producción en masa para abaratar costes",
+        "Filosofía de eliminación directa y sistemática de todos los productos",
+        "Filosofía de economía circular: reciclar, renovar, reutilizar y reducir",
+        "Filosofía de exportación a mercados secundarios internacionales"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": "En la etapa de determinación se intenta dar una nueva vida útil al producto, aplicando la filosofía de economía circular (reciclar, renovar, reutilizar, reducir). Fundamento: Etapas en la logística inversa, pág. 9."
     },
     {
       "question": "¿Cómo se consideran a menudo los costes que surgen en el proceso de logística inversa?",
       "options": [
-        "Costes directos fácilmente cuantificables",
-        "Costes ocultos, debido a la dificultad de control que presentan",
-        "Costes fijos invariables",
-        "Costes nulos para la empresa"
+        "Costes directos fácilmente cuantificables en la contabilidad",
+        "Costes fijos que no varían con el volumen de devoluciones",
+        "Costes nulos que no afectan al resultado de la empresa",
+        "Costes ocultos, debido a la dificultad de control que presentan"
       ],
-      "correctAnswer": 1,
-      "explanation": "Los costes de la logística inversa son tratados a menudo como costes ocultos, debido a la dificultad de control que presentan. Fundamento: Costes a efectos de devoluciones, pág. 9."
+      "correctAnswer": 3,
+      "explanation": "Los costes de la logística inversa a menudo son tratados como costes ocultos, debido a la dificultad de control que presentan. Fundamento: Costes a efectos de devoluciones, pág. 9."
     },
     {
-      "question": "¿Cuál de los siguientes NO es un tipo de coste asociado a las devoluciones?",
+      "question": "¿Qué sistema se recomienda implantar para minimizar costes en las operaciones de logística inversa?",
       "options": [
-        "Costes de transporte",
-        "Costes de almacenaje",
-        "Costes de publicidad en redes sociales",
-        "Costes administrativos"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Los costes asociados a las devoluciones incluyen transporte, almacenaje, reciclaje, relación con la Administración Pública y administrativos; no publicidad en redes sociales. Fundamento: Costes a efectos de devoluciones, pág. 9."
-    },
-    {
-      "question": "¿Qué deben hacer los productos devueltos al almacén en relación al tiempo de custodia?",
-      "options": [
-        "Deben ser custodiados durante el mayor tiempo posible",
-        "Deben ser custodiados durante el menor tiempo posible para no generar un coste elevado",
-        "Deben permanecer en almacén al menos un año",
-        "No necesitan ningún tipo de custodia"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Los productos que vuelven al almacén deberán ser custodiados durante el menor tiempo posible para no generar un coste elevado. Fundamento: Costes a efectos de devoluciones, pág. 9."
-    },
-    {
-      "question": "¿Cuál es una clave para reducir costes en las devoluciones según el documento?",
-      "options": [
-        "Aumentar el número de operaciones de retorno",
-        "Minimizar el número de operaciones de retorno agrupando la máxima cantidad de productos devueltos en una única unidad de carga",
-        "Realizar envíos individuales para cada devolución",
-        "Eliminar completamente el servicio de devoluciones"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Se debe minimizar el número de operaciones de retorno agrupando la máxima cantidad de productos devueltos en una única unidad de carga. Fundamento: Claves en las devoluciones, pág. 11."
-    },
-    {
-      "question": "¿Qué sistema se recomienda implantar para minimizar costes en la logística inversa?",
-      "options": [
-        "Sistema ERP exclusivamente",
         "Cross Docking y el uso de plataformas logísticas",
-        "Sistema de producción Just in Case",
-        "Sistema de subasta de productos devueltos"
+        "Sistema de subasta de productos devueltos al mejor postor",
+        "Sistema exclusivo de producción bajo demanda individualizada",
+        "Sistema de almacenamiento a largo plazo en depósitos externos"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": "Se recomienda implantar sistemas como el Cross Docking con el objetivo de minimizar costes, o el uso de plataformas logísticas. Fundamento: Claves en las devoluciones, pág. 11."
-    },
-    {
-      "question": "¿Qué empresa se menciona en el documento como caso de éxito en logística inversa?",
-      "options": [
-        "Amazon",
-        "El Corte Inglés",
-        "Inditex",
-        "Mercadona"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Inditex se menciona como caso de éxito, ya que dispone de una cantidad reducida de stock y traslada productos no vendidos a otras ubicaciones donde puedan ser vendidos. Fundamento: Objetivos y características de la logística inversa, pág. 5."
-    },
-    {
-      "question": "Cuando el producto entregado no corresponde con lo solicitado, ¿qué opciones tiene el cliente según la Ley de Garantías?",
-      "options": [
-        "Solo puede solicitar la devolución del dinero",
-        "Puede decidir entre la reparación o sustitución del producto, con costes asumidos por la empresa vendedora",
-        "Debe quedarse con el producto obligatoriamente",
-        "Solo puede solicitar un vale de descuento"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Si el producto no es acorde con lo solicitado, el cliente podrá decidir entre la reparación o sustitución del mismo, siendo los costes asumidos por la empresa vendedora. Fundamento: Tratamiento de devoluciones, pág. 8."
     }
   ]
 }
