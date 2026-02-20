@@ -450,7 +450,7 @@ function showToast(msg) {
 
 // Confetti Effect
 function confettiBurst() {
-    const colors = ['#10B981', '#06B6D4', '#34D399', '#FFFFFF', '#A7F3D0'];
+    const colors = ['#14ffa0', '#70ffcf', '#22c55e', '#FFFFFF', '#a7f3d0'];
     for (let i = 0; i < 50; i++) {
         const conf = document.createElement('div');
         conf.className = 'confetti';

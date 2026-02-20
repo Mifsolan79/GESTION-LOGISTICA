@@ -1,15 +1,14 @@
 :root {
-    /* Emerald / Logistics Theme */
-    --bg: #0a1210;
-    --panel: rgba(10, 30, 25, 0.95);
-    --text: #ecfdf5;
-    /* Emerald 50 */
-    --muted: #94a3b8;
+    /* Green Neon / Logistics Theme */
+    --bg: #06221b;
+    --panel: #084432cc;
+    --text: #e8fef5;
+    --muted: #a7c8be;
 
-    --gold: #10B981;
-    /* Main Accent (Emerald 500) */
-    --amber: #06B6D4;
-    /* Secondary (Cyan 500) */
+    --gold: #14ffa0;
+    /* Main Accent (Neon Green) */
+    --amber: #70ffcf;
+    /* Secondary (Neon Alt) */
     --red: #ef4444;
     /* Error */
     --green: #22c55e;
@@ -17,8 +16,8 @@
     --cyan: var(--gold);
     --magenta: var(--red);
 
-    --border: #1e3a30;
-    --shadow: 0 0 15px rgba(16, 185, 129, 0.25), 0 0 25px rgba(6, 182, 212, 0.2);
+    --border: #1f4a3d;
+    --shadow: 0 6px 16px rgba(0, 0, 0, .45);
 }
 
 body {
@@ -159,10 +158,10 @@ main {
 
 /* Components */
 .card {
-    border: 1px solid rgba(16, 185, 129, 0.2);
+    border: 1px solid rgba(20, 255, 160, 0.2);
     border-radius: 12px;
     padding: 12px;
-    background: rgba(10, 30, 25, 0.6);
+    background: rgba(8, 68, 50, 0.6);
 }
 
 .row {
@@ -207,19 +206,19 @@ button {
     font-weight: 800;
     border: none;
     border-radius: 10px;
-    color: #0a1210;
+    color: #06221b;
     cursor: pointer;
     transition: transform .15s, box-shadow .2s;
     text-shadow: none;
 
-    /* Emerald Gradient */
-    background: linear-gradient(145deg, #34D399, #10B981);
-    box-shadow: 0 4px 0 rgba(5, 80, 55, 0.6), 0 6px 15px rgba(0, 0, 0, .4);
+    /* Neon Green Gradient */
+    background: linear-gradient(145deg, #70ffcf, #14ffa0);
+    box-shadow: 0 4px 0 rgba(5, 60, 40, 0.6), 0 6px 15px rgba(0, 0, 0, .4);
 }
 
 button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 0 rgba(5, 80, 55, 0.6), 0 6px 20px rgba(0, 0, 0, .5), 0 0 15px var(--gold), 0 0 25px var(--gold);
+    box-shadow: 0 4px 0 rgba(5, 60, 40, 0.6), 0 6px 20px rgba(0, 0, 0, .5), 0 0 15px var(--gold), 0 0 25px var(--gold);
 }
 
 button:disabled {
@@ -232,7 +231,7 @@ button:disabled {
 }
 
 .btn-blue {
-    background: linear-gradient(145deg, #34D399, #10B981);
+    background: linear-gradient(145deg, #70ffcf, #14ffa0);
     color: #000;
 }
 
@@ -248,14 +247,14 @@ button:disabled {
 
 .btn-ghost {
     background: transparent;
-    border: 1px solid rgba(16, 185, 129, 0.4);
+    border: 1px solid rgba(20, 255, 160, 0.4);
     color: var(--gold);
     box-shadow: none;
 }
 
 .btn-ghost:hover {
-    background: rgba(16, 185, 129, 0.15);
-    box-shadow: 0 0 12px rgba(16, 185, 129, 0.3);
+    background: rgba(20, 255, 160, 0.15);
+    box-shadow: 0 0 12px rgba(20, 255, 160, 0.3);
 }
 
 /* Quiz Container */
@@ -270,7 +269,7 @@ button:disabled {
     padding: 18px 14px;
     border-radius: 15px;
     box-shadow: var(--shadow);
-    border: 1px solid rgba(16, 185, 129, 0.3);
+    border: 1px solid rgba(20, 255, 160, 0.3);
     backdrop-filter: blur(6px);
     box-sizing: border-box;
 }
@@ -281,7 +280,7 @@ h1 {
     margin: 0 0 16px;
     font-weight: 900;
     letter-spacing: .4px;
-    text-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+    text-shadow: 0 0 10px rgba(20, 255, 160, 0.5);
     font-size: 1.5rem;
 }
 
@@ -300,10 +299,10 @@ h1 {
     align-items: center;
     gap: 10px;
     padding: 14px 16px;
-    border: 1px solid rgba(16, 185, 129, 0.4);
+    border: 1px solid rgba(20, 255, 160, 0.4);
     border-radius: 10px;
     cursor: pointer;
-    background: rgba(10, 30, 25, 0.6);
+    background: rgba(8, 68, 50, 0.6);
     transition: .2s;
     position: relative;
     margin-bottom: 12px;
@@ -312,14 +311,14 @@ h1 {
 }
 
 .option:hover {
-    background: rgba(16, 185, 129, 0.2);
+    background: rgba(20, 255, 160, 0.2);
     border-color: var(--gold);
-    box-shadow: 0 0 12px rgba(16, 185, 129, 0.3);
+    box-shadow: 0 0 12px rgba(20, 255, 160, 0.3);
 }
 
 .option.selected {
     border-color: var(--gold);
-    background: rgba(16, 185, 129, 0.4);
+    background: rgba(20, 255, 160, 0.4);
 }
 
 .option input[type=radio] {
@@ -329,7 +328,7 @@ h1 {
 
 .option.disabled {
     cursor: default;
-    background: rgba(10, 20, 15, 0.6) !important;
+    background: rgba(6, 34, 27, 0.6) !important;
     color: #6b7280 !important;
     border-color: #374151 !important;
     box-shadow: none !important;
@@ -387,7 +386,7 @@ h1 {
 }
 
 .feedback-skipped {
-    background: rgba(6, 182, 212, 0.15);
+    background: rgba(112, 255, 207, 0.15);
     border-color: var(--amber);
     color: var(--amber);
 }
@@ -398,10 +397,10 @@ h1 {
     font-size: 1.05rem;
     margin-top: 10px;
     padding: 18px;
-    background: rgba(10, 30, 25, 0.95);
+    background: rgba(8, 68, 50, 0.95);
     border-radius: 14px;
     border: 1px solid var(--gold);
-    box-shadow: 0 0 20px rgba(16, 185, 129, 0.3);
+    box-shadow: 0 0 20px rgba(20, 255, 160, 0.3);
 }
 
 .hidden {
@@ -432,14 +431,14 @@ h1 {
 
 .badge.sk {
     color: var(--amber);
-    border-color: rgba(6, 182, 212, 0.3);
-    background: rgba(6, 182, 212, 0.1);
+    border-color: rgba(112, 255, 207, 0.3);
+    background: rgba(112, 255, 207, 0.1);
 }
 
 .badge.sc {
     color: var(--gold);
-    border-color: rgba(16, 185, 129, 0.3);
-    background: rgba(16, 185, 129, 0.1);
+    border-color: rgba(20, 255, 160, 0.3);
+    background: rgba(20, 255, 160, 0.1);
 }
 
 .stat-grid {
@@ -483,14 +482,14 @@ h1 {
 
 .pill.sk {
     color: var(--amber);
-    background: rgba(6, 182, 212, 0.15);
+    background: rgba(112, 255, 207, 0.15);
 }
 
 /* Final Overlay */
 #final-overlay {
     position: fixed;
     inset: 0;
-    background: rgba(5, 10, 8, 0.97);
+    background: rgba(3, 15, 12, 0.97);
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -546,8 +545,8 @@ h1 {
 }
 
 .final-section.sk .final-section-header {
-    background: rgba(6, 182, 212, 0.15);
-    color: #06B6D4;
+    background: rgba(112, 255, 207, 0.15);
+    color: #70ffcf;
 }
 
 .final-section.ok .count-badge {
@@ -561,8 +560,8 @@ h1 {
 }
 
 .final-section.sk .count-badge {
-    background: rgba(6, 182, 212, 0.25);
-    color: #06B6D4;
+    background: rgba(112, 255, 207, 0.25);
+    color: #70ffcf;
 }
 
 .final-section-body {
@@ -574,7 +573,7 @@ h1 {
 .final-question-item {
     padding: 14px 18px;
     border-top: 1px solid rgba(255, 255, 255, 0.05);
-    background: rgba(10, 30, 25, 0.6);
+    background: rgba(8, 68, 50, 0.6);
     font-size: 0.92rem;
     line-height: 1.5;
 }
